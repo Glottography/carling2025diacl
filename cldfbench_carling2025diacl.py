@@ -1,3 +1,5 @@
+"""
+"""
 import pathlib
 import urllib.parse
 import urllib.request
@@ -7,7 +9,7 @@ from shapely.geometry import shape
 import pyglottography
 from csvw.dsv import reader, UnicodeWriter
 from clldutils.jsonlib import load, dump
-from cldfgeojson.create import feature_collection
+from cldfgeojson.create import feature_collection, shapely_fixed_geometry
 
 SOURCES = {
     10731: 'Glottolog',
@@ -43,8 +45,8 @@ class Dataset(pyglottography.Dataset):
     def cmd_download(self, args):
         srcss = {int(r['id']): r for r in self.raw_dir.read_csv('sources.csv', dicts=True)}
         geofeatures, mdfeatures = [], []
-        for i, lg in enumerate(reader(self.get('Language/CSV/List', refresh=False), delimiter=';', dicts=True)):
-            md = load(self.get('Language/JSON/' + lg['LanguageId'], refresh=False))#True))
+        for i, lg in enumerate(reader(self.get('Language/CSV/List', refresh=True), delimiter=';', dicts=True)):
+            md = load(self.get('Language/JSON/' + lg['LanguageId'], refresh=True))#True))
             tfs = sorted({(gpmd['TimeFrame']['From'], gpmd['TimeFrame'].get('Until')) for gpmd in
                    md['GeographicalPresences'].values()}, reverse=True)
             if len(md['GeographicalPresences']) > 1:  # All presences pertain to the same timeframe.
@@ -67,6 +69,7 @@ class Dataset(pyglottography.Dataset):
                 feature = load(geojson_path)
                 if geojson_path.stat().st_size > 1000000:
                     feature['geometry'] = simplify(shape(feature['geometry']), tolerance=0.005).__geo_interface__
+                #shapely_fixed_geometry(feature)
                 del feature['crs']
                 if 'bbox' in feature['geometry']:
                     del feature['geometry']['bbox']

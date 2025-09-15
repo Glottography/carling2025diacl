@@ -163,7 +163,7 @@ id,name,glottocode,year,map_name_full,comment
 225,Leko,leco1242,1750,TITUS
 226,Puquina,puqu1242,1750,TITUS
 227,South Bolivian Quechua,sout2991,1750,TITUS
-228,Quechua Santiago del Éstero,sant1432,1750,TITUS
+228,Quechua Santiago del Éstero,sant1432,1750,TITUS,language with somewhat spread out dialects
 229,Southern Aymara,sout2996,1750,TITUS
 230,Uru-Chipaya,uruu1244,1750,TITUS
 231,Atacameño,kunz1244,1750,TITUS
@@ -607,7 +607,7 @@ id,name,glottocode,year,map_name_full,comment
 680,Nanticoke,nant1249,1750,Asher & Moseley 2007; TITUS
 681,Ditidaht,diti1235,1750,Asher & Moseley 2007; TITUS
 682,Obispeño,obis1242,1750,Asher & Moseley 2007; TITUS
-683,Potawatomi,pota1247,1750,Asher & Moseley 2007; TITUS
+683,Potawatomi,pota1247,1750,Asher & Moseley 2007; TITUS,location matches Asher & Moseley
 684,Purisimeño,puri1259,1750,Asher & Moseley 2007; TITUS
 685,Quileute,quil1240,1750,Asher & Moseley 2007; TITUS
 686,Quinault,quin1251,1750,Asher & Moseley 2007; TITUS
@@ -930,7 +930,7 @@ id,name,glottocode,year,map_name_full,comment
 1039,Lama (Togo),lama1275,1750,Asher & Moseley 2007; TITUS
 1040,Baatonum,baat1238,1750,Asher & Moseley 2007; TITUS
 1041,Ngangam,ngan1299,1750,Asher & Moseley 2007; TITUS
-1042,Pular,pula1262,1750,Asher & Moseley 2007; TITUS
+1042,Pular,pula1262,1750,Asher & Moseley 2007; TITUS,Looks like just a small part of the Pular area in Asher & Moseley
 1043,Sereer,sere1260,1750,Asher & Moseley 2007; TITUS
 1044,Klao,klao1243,1750,Asher & Moseley 2007; TITUS
 1045,Guere,guer1240,1750,Asher & Moseley 2007; TITUS
@@ -1044,3 +1044,25 @@ id,name,glottocode,year,map_name_full,comment
 1155,Mijikenda,miji1238,1750,Asher & Moseley 2007; TITUS
 1156,Seuta,seut1234,1750,Asher & Moseley 2007; TITUS
 1157,Ruvu,ruvu1235,1750,Asher & Moseley 2007; TITUS
+1158,Kami (Tanzania),kami1256,1750,Asher & Moseley 2007; TITUS
+1159,Iraqw,iraq1241,1750,Asher & Moseley 2007; TITUS
+1160,Alagwa,alag1248,1750,Asher & Moseley 2007; TITUS
+1161,Mbugwe,mbug1242,1750,Asher & Moseley 2007; TITUS
+1162,Langi,lang1320,1750,Asher & Moseley 2007; TITUS
+1163,Nyaturu,nyat1246,1750,Asher & Moseley 2007; TITUS
+1164,Nyakyusa-Ngonde,nyak1260,1750,Asher & Moseley 2007; TITUS
+1165,Zinza,zinz1238,1750,Asher & Moseley 2007; TITUS
+1166,Haya,haya1250,1750,Asher & Moseley 2007; TITUS
+1167,Tooro,toor1238,1750,Asher & Moseley 2007; TITUS
+1168,Sukuma,suku1261,1750,Asher & Moseley 2007; TITUS
+1169,Luyia,luyi1234,1750,Asher & Moseley 2007; TITUS
+1170,Ikoma-Nata,ikom1245,1750,Asher & Moseley 2007; TITUS
+1171,Sumbwa,sumb1240,1750,Asher & Moseley 2007; TITUS
+1172,Omotic,,1750,Asher & Moseley 2007; TITUS
+1173,Moru-Madi,moru1252,1750,Asher & Moseley 2007; TITUS
+1174,Mangbutu-Efe,mang1425,1750,Asher & Moseley 2007; TITUS
+1175,Mangbetu-Asua,mang1393,1750,Asher & Moseley 2007; TITUS
+1176,Burunge,buru1320,1750,Asher & Moseley 2007; TITUS
+1177,Gbaya-Bozoum,gbay1286,1750,Asher & Moseley 2007; TITUS
+1178,Northern Ngbandi,nort2774,1750,Asher & Moseley 2007; TITUS
+1179,Mbangi,,1750,Asher & Moseley 2007; TITUS
