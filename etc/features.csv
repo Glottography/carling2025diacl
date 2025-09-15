@@ -1,783 +1,1046 @@
-id,name,glottocode,year,map_name_full
-5,Latvian,latv1249,1500,
-6,Lithuanian,lith1251,1500,
-11,Czech,czec1258,1500,
-24,Swedish,swed1254,1500,
-26,English,stan1293,1500,
-31,Modern Greek,mode1248,1500,
-37,Portuguese,port1283,1500,
-40,Romansh,roma1326,1500,
-56,Bhili,,1750,
-57,Basque (East),,1750,
-58,Basque (West),,1750,
-59,Albanian (Tosk),tosk1239,1500,
-60,Eastern Armenian,nucl1235,1750,
-61,Latvian,latv1249,1750,
-62,Lithuanian,lith1251,1750,
-63,Russian,russ1263,1750,
-64,Ukrainian,ukra1253,1750,
-65,Bulgarian,bulg1262,1750,
-66,Croatian,croa1245,1750,
-67,Serbian,serb1264,1750,
-68,Slovene,slov1268,1750,
-69,Czech,czec1258,1750,
-70,Polish,poli1260,1750,
-71,Upper Sorbian,,1750,
-72,Breton,bret1244,1750,
-73,Cornish,corn1251,1750,
-74,Welsh,wels1247,1750,
-75,Irish,iris1253,1750,
-76,Scottish Gaelic,scot1245,1750,
-77,Danish,dani1285,1750,
-78,Elfdalian,elfd1234,1750,
-79,Faroese,faro1244,1750,
-80,Icelandic,icel1247,1750,
-81,Norwegian,norw1258,1750,
-82,Norwegian (Bokmål),norw1259,1750,
-83,Norwegian (Nynorsk),norw1262,1750,
-84,Dutch,dutc1256,1750,
-86,Frisian,west2354,1750,
-87,German,stan1295,1750,
-88,Low German,nort2627,1750,
-89,Swiss German,swis1247,1750,
-90,Yiddish,east2295,1750,
-91,Hindi,hind1269,1750,
-92,Urdu,,1750,
-93,Kumaoni,kuma1273,1750,
-94,Marwari,marw1256,1750,
-95,Oriya,oriy1255,1750,
-96,Nepali,nepa1254,1750,
-97,Kashmiri,kash1277,1750,
-98,Punjabi,panj1256,1500,
-99,Assamese,assa1263,1750,
-100,Bengali,beng1280,1750,
-101,Maithili,mait1250,1750,
-102,Khowar,khow1242,1750,
-103,Lahnda,west2386,1750,
-104,Sindhi,sind1272,1750,
-105,Maldivian,dhiv1236,1750,
-106,Sinhalese,sinh1246,1750,
-107,Konkani,konk1267,1750,
-108,Marathi,mara1378,1750,
-109,Gujarati,guja1252,1750,
-110,Ossetian (Iron),iron1242,1750,
-111,Pashto,nucl1276,1750,
-112,Shughni,shug1248,1750,
-113,Wakhi,wakh1245,1750,
-114,Yagnobi,yagn1238,1750,
-115,Baluchi,sout2642,1750,
-116,Gilaki,gila1241,1750,
-117,Kurdish (Kurmanji),nort2641,1750,
-118,Kurdish (Sorani),cent1972,1750,
-119,Parachi,para1299,1750,
-120,Persian,west2369,1750,
-121,Tajik,taji1245,1750,
-122,Talysh,taly1247,1750,
-123,Ashkun,ashk1246,1750,
-124,Kati,kati1270,1750,
-125,Prasun,pras1239,1750,
-126,Tregami,treg1243,1750,
-127,Waigali,waig1243,1750,
-128,Catalan,stan1289,1750,
-129,French,stan1290,1750,
-130,Friulian,friu1240,1750,
-131,Italian,ital1282,1750,
-132,Ladin,ladi1250,1750,
-133,Occitan,occi1239,1750,
-135,Provençal,occi1239,1750,
-136,Romanian,roma1327,1750,
-137,Sardinian,logu1236,1750,
-138,Spanish,stan1288,1750,
-139,Walloon,wall1255,1750,
-140,Georgian,nucl1302,1750,
-141,Svan,svan1243,1750,
-142,Laz,lazz1240,1750,
-143,Megrelian,ming1252,1750,
-144,Batsbi,bats1242,1750,
-145,Chechen,chec1245,1750,
-146,Kryz,kryt1240,1750,
-147,Lezgian,lezg1247,1750,
-148,Khwarshi,khva1239,1750,
-149,Abkhaz,abkh1244,1750,
-150,Kabardian,kaba1278,1750,
-151,Uyghur,,1750,
-152,Uzbek,,1750,
-153,Turkmen,turk1304,1750,
-154,Turkish,nucl1301,1750,
-155,Karachay-Balkar,,1750,
-156,Kazakh,kaza1248,1750,
-157,Estonian,,1750,
-158,Finnish,finn1318,1750,
-159,Northern Saami,nort2671,1750,
-160,Hungarian,hung1274,1750,
-161,Adyghe,adyg1241,1750,
-162,Ingush,ingu1240,1750,
-163,Udi,udii1243,1750,
-164,Beshta,bezh1248,1750,
-165,Khinalug,khin1240,1750,
-166,Budukh,budu1248,1750,
-168,Abaza,abaz1241,1750,
-169,Avar,avar1256,1750,
-170,Andi,andi1255,1750,
-171,Lak,lakk1252,1750,
-172,Dargwa,darg1241,1750,
-173,Gagauz,gaga1249,1750,
-174,Crimean Tatar,crim1257,1750,
-175,Kumyk,kumy1244,1750,
-176,Tabasaran,taba1259,1750,
-177,Aghul,aghu1253,1750,
-178,Tsakhur,tsak1249,1750,
-179,Rutul,rutu1240,1750,
-180,Azerbaijani,nort2697,1750,
-181,Tuvan,tuvi1240,1750,
-182,Belarusian,,1750,
-183,Slovak,slov1269,1750,
-184,Southern Altai,sout2694,1750,
-191,Xokleng,xokl1240,1750,
-193,Hixkaryána,hixk1239,1750,
-194,Cusco Quechua,cusc1236,1750,
-195,Karitiâna,kari1311,1750,
-196,Selk'nam,onaa1245,1750,
-197,Asuriní of Xingú,,1750,
-198,Guaraní (Eastern Bolivian),,1750,
-199,Kuruáya,,1750,
-200,Emerillon,,1750,
-201,Guajajára,,1750,
-202,Jurúna,,1750,
-203,Kamayurá,kama1373,1750,
-204,Kayabí,,1750,
-205,Mundurukú,,1750,
-206,Wayampi do Amapari,,1750,
-207,Sateré-Mawé,,1750,
-208,Sirionó,,1750,
-209,Suruí Paitér,suru1262,1750,
-210,Tapiete,,1750,
-211,Tembé,,1750,
-212,Tupinambá,tupi1273,1750,
-213,Urubú-Ka'apór,,1750,
-214,Apinayé,apin1244,1750,
-215,Canela-Krahô,cane1242,1750,
-216,Kayapó,kaya1330,1750,
-217,Xokleng,xokl1240,1750,
-218,Borôro,boro1282,1750,
-219,Fulniô,fuln1247,1750,
-220,Karajá,kara1500,1750,
-221,Aymara,,1750,
-222,Callawaya,call1235,1750,
-224,Jaqaru,jaqa1244,1750,
-225,Leko,leco1242,1750,
-226,Puquina,puqu1242,1600,
-227,South Bolivian Quechua,sout2991,1750,
-228,Quechua Santiago del Éstero,sant1432,1750,
-229,Southern Aymara,sout2996,1750,
-230,Uru-Chipaya,uruu1244,1750,
-231,Atacameño,,1750,
-232,Huilliche,huil1244,1750,
-233,Mapudungun,mapu1245,1750,
-234,Tehuelche,tehu1242,1750,
-235,Yahgan,yama1264,1750,
-236,Mocoví,moco1246,1750,
-237,Qawasqar,,1750,
-238,Huarpe,huar1251,1750,
-239,Charrúa,char1240,1750,
-240,Kaingang,,1750,
-241,Waimiri-Atroari,waim1253,1750,
-242,Yurakaré,yura1255,1750,
-243,Mosetén,mose1249,1750,
-244,Ignaciano,,1750,
-245,Puelche,,1750,
-246,Guaraní (Mbyá),,1750,
-247,Guaraní (Paraguayan),,1750,
-248,Kaiwá,,1750,
-249,Pai-Tavyterá,,1750,
-250,Guaraní (Avá),,1750,
-251,Aché-Guayakí,,1750,
-252,Toba,toba1269,1750,
-253,Pilagá,pila1245,1750,
-254,Mak'a,,1750,
-255,Niwaklé,,1750,
-256,Chorotí,,1750,
-257,Movima,movi1243,1750,
-258,Itené,,1750,
-259,Shipibo-Conibo,ship1254,1750,
-260,Ofayé,,1750,
-261,Carirí,kari1254,1750,
-262,Palikúr,,1750,
-263,Galibi Carib,gali1262,1750,
-264,Shebayo,,1750,
-265,Arawak,,1750,
-266,Achagua,,1750,
-267,Wayuu,,1750,
-268,Kogi,cogu1240,1750,
-269,Arhuaco,arhu1242,1750,
-270,Apalaí,apal1257,1750,
-271,Wayana,waya1269,1750,
-272,Macushi,macu1259,1750,
-273,Waiwai,waiw1244,1750,
-274,Trió,trio1238,1750,
-275,Ese'ejja,esee1248,1750,
-276,Araona,arao1248,1750,
-277,Lengua-Mascoy,,1750,
-278,Guató,,1750,
-279,Xavánte,xava1240,1750,
-280,Xerente,xere1240,1750,
-281,Paunaca,paun1241,1750,
-282,Sabané,saba1268,1750,
-283,Cinta Larga,cint1239,1750,
-284,Awetí,,1750,
-285,Cashibo-Cacataibo,cash1251,1750,
-286,Marawan,mara1408,1750,
-287,Aguaruna,agua1253,1750,
-288,Bermejo Wichí,wich1263,1750,
-289,Guarayó,,1750,
-290,Chiquitano,chiq1248,1750,
-291,Maxakalí,maxa1247,1750,
-292,Botocudo,kren1239,1750,
-293,Kamakã,kama1372,1750,
-294,Nhengatu,,1750,
-296,Warao,wara1303,1750,
-297,Yanomamö,yano1261,1750,
-298,Ninam,nina1238,1750,
-299,Sanumá,sanu1240,1750,
-300,Saraveca,sara1331,1750,
-301,Parecís,,1750,
-302,Bakairí,baka1277,1750,
-303,Ye'kuana,maqu1238,1750,
-304,Pemón,,1750,
-305,Barí,bari1297,1750,
-306,Piapoco,,1750,
-307,Cuiba,cuib1242,1750,
-308,Guahibo,guah1255,1750,
-309,Guayabero,,1750,
-310,Carijona,,1750,
-311,Secoya,,1750,
-312,Orejón,orej1242,1750,
-313,Shuar,shua1257,1750,
-314,Huambisa,huam1247,1750,
-315,Achuar,,1750,
-316,Jebero,jebe1250,1750,
-317,Chayahuita,chay1248,1750,
-318,Chamicuro,,1750,
-319,Urarina,,1750,
-320,Urarina,,1750,
-321,Candoshi,,1750,
-322,Záparo,zapa1253,1750,
-323,Auishiri,,1750,
-324,Sabela,,1750,
-325,Cofán,,1750,
-326,Páez,,1750,
-327,Guambiano,,1750,
-328,Awa-Cuaiquer,awac1239,1750,
-329,Tsafiki,colo1256,1750,
-330,Cha'palaa,chac1249,1750,
-331,Gamela,,1750,
-332,Tarairiu,tara1303,1750,
-333,Paumarí,paum1247,1750,
-334,Jamamadí,jama1261,1750,
-335,Culina,culi1244,1750,
-336,Machiguenga,,1750,
-337,Nomatsiguenga,,1750,
-338,Apurinã,,1750,
-339,Yanesha',,1750,
-340,Maipure,maip1246,1750,
-341,Curripaco,curr1243,1750,
-342,Baniwa,,1750,
-343,Paraujano,,1750,
-344,Wapishana,,1750,
-345,Atorai,,1750,
-346,Panare,enap1235,1750,
-347,Hoti,,1750,
-348,Piaroa,piar1243,1750,
-349,Sáliva,,1750,
-350,Bora,bora1263,1750,
-351,Andoque,ando1254,1750,
-352,Minica Huitoto,,1750,
-353,Murui Huitoto,muru1274,1750,
-354,Ocaína,,1750,
-355,Jabutí,djeo1235,1750,
-356,Pirahã,,1750,
-357,Parintintin,,1750,
-358,Puruborá,puru1264,1750,
-359,Rikbatsá,,1750,
-360,Aikanã,aika1237,1750,
-361,Aruá,arua1261,1750,
-362,Coreguaje,,1750,
-363,Cubeo,cube1242,1750,
-364,Desano,desa1247,1750,
-365,Tatuyo,tatu1247,1750,
-366,Tuyuca,,1750,
-367,Macuna,,1750,
-368,Kokáma,,1750,
-369,Yagua,yagu1244,1750,
-370,Iñapari,,1750,
-371,Baré,,1750,
-372,Cauixána,,1750,
-373,Yawalapití,,1750,
-374,Yabaâna,,1750,
-375,Wirina,uiri1238,1750,
-376,Apolista,apol1242,1750,
-377,Araua,arua1264,1750,
-378,Mapidian,,1750,
-379,Yine,,1750,
-380,Pasé,pass1250,1750,
-381,Cayuishana,kais1242,1750,
-382,Waurá,,1750,
-383,Waraicu,arai1239,1750,
-384,Katukina,katu1274,1750,
-385,Arauá,,1750,
-386,Marawa,mara1409,1750,
-387,Matsés,mats1244,1750,
-388,Catuqina do Acre,,1750,
-389,Itonama,iton1250,1750,
-390,Cavineña,cavi1250,1750,
-391,Chácobo,chac1251,1750,
-392,Kashinawá,cash1254,1750,
-393,Pacahuara,,1750,
-394,Yaminahua,yami1256,1750,
-395,Amahuaca,amah1246,1750,
-396,Marúbo,,1750,
-397,Macu,,1750,
-398,Manao,mana1299,1750,
-399,Catío,,1750,
-400,Chimila,,1750,
-401,Woun Meu,woun1238,1750,
-402,Northern Emberá,nort2972,1750,
-403,Quimbaya,,1750,
-404,Yurumanguí,yuru1243,1750,
-405,Central Tunebo,cent2150,1750,
-406,Yucpa,,1750,
-407,Jirajara,jira1235,1750,
-408,Timote,timo1237,1750,
-409,Guamo,guam1236,1750,
-410,Otomaco,otom1301,1750,
-411,Yaruro,,1750,
-412,Manajé,,1750,
-413,Pankarurú,,1750,
-414,Xukuru,,1750,
-415,Huamoi,,1750,
-416,Tushá,,1750,
-417,Katembri,,1750,
-418,Puri-Coroado,coro1249,1750,
-419,Txikāo,,1750,
-420,Suyá,,1750,
-421,Kuikúro-Kalapálo,kuik1246,1750,
-422,Kuikúro-Kalapálo,kuik1246,1750,
-423,Geico,geic1236,1750,
-424,Chané,,1750,
-425,Terêna,,1750,
-426,Guaná,,1750,
-427,Kadiwéu,kadi1248,1750,
-428,Zamuco,zamu1245,1750,
-429,Ayoreo,ayor1240,1750,
-430,Esmeralda,,1750,
-431,Kamsá,,1750,
-432,Andoquí,,1750,
-433,Quingnam,quig1235,1600,
-434,Muchik,,1750,
-435,Sec,,1750,
-436,Muniche,,1750,
-437,Hibito-Cholón,hibi1242,1750,
-438,Culli,cull1235,1750,
-439,Vilela,,1750,
-440,Baure,baur1253,1750,
-441,Canichana,,1750,
-442,Cayubaba,cayu1262,1750,
-443,Western Bolivian Paraguay,,1750,
-444,Otuké,,1750,
-445,Mehináku,,1750,
-446,Gorgotoqui,,1750,
-447,Siona-Tetete,sion1247,1750,
-448,Puinave,,1750,
-450,Macaguane,,1750,
-451,Sapé,,1750,
-452,Awaké,,1750,
-453,Kukura,,1750,
-454,Taruma,,1750,
-455,Bane,,1750,
-457,Lule,,1750,
-458,Proto-Jê,,1750,
-459,Cuniba,,1750,
-460,Ticuna,,1750,
-461,Yuri,,1750,
-462,Wainuma,,1750,
-463,Guarú,,1750,
-464,Yanomám,yano1262,1750,
-465,Capón,,1750,
-466,Nahukuá,,1750,
-467,Southern Nambikuára,sout2994,1750,
-468,Mamaindé,mama1278,1750,
-469,Chapacura,,1750,
-470,Urupá,,1750,
-471,Kwaza,kwaz1243,1750,
-472,Irantxe,,1750,
-473,Matanawí,,1750,
-474,Trumai,trum1247,1750,
-475,San Blas Kuna,sanb1242,1500,
-476,Bocota,bugl1243,1500,
-477,Guaimi,ngab1239,1500,
-478,Bribri,brib1243,1500,
-479,Bribri,brib1243,1500,
-480,Cabécar,cabe1245,1500,
-481,Guatuso,male1297,1500,
-482,Rama,rama1270,1500,
-483,Matagalpa,mata1288,1500,
-484,Mískito,misk1235,1700,
-485,Sumo,maya1285,1700,
-487,Yaqui,yaqu1251,1750,
-488,El Nayar Cora,elna1235,1750,
-489,Huichol,huic1243,1750,
-490,Central Tarahumara,cent2131,1750,
-491,Northern Tepehuan,nort2959,1750,
-492,Southeastern Tepehuan,sout2976,1750,
-493,Mayo,mayo1264,1750,
-494,Guerrero Amuzgo,guer1243,1750,
-495,Zapotec,zapo1436,1750,
-496,Chinantec,chin1484,1750,
-497,Yucatec Maya,yuca1254,1750,
-498,Huastec,huas1242,1750,
-499,Garifúna,,1750,
-500,Chortí,chor1273,1750,
-501,Tabasco Chontal,taba1266,1750,
-502,Chol,chol1282,1750,
-503,Totonac,toto1252,1750,
-504,Mezquital Otomi,mezq1235,1750,
-505,Mixtec,mixt1427,1750,
-506,Mixtec,mixt1427,1750,
-507,Lacandon,laca1243,1750,
-508,Tzotzil,tzot1259,1750,
-509,Tzeltal,tzel1254,1750,
-510,Tcholabal,tojo1241,1750,
-511,Mazahua,cent2144,1750,
-512,Xincan,xinc1237,1750,
-513,Tlapanec,subt1249,1750,
-514,San Juan Atzingo Popoloca,sanj1285,1750,
-515,Tarasca,tara1323,1750,
-516,Lenca,lenc1239,1750,
-517,Tz'utujil,tzut1248,1750,
-518,Mam,mamm1241,1750,
-519,K'iche',kich1262,1750,
-520,Poqomam,poqo1253,1750,
-521,Aguacateco,agua1252,1750,
-522,Uspantec,uspa1245,1750,
-523,Q'anjob'al,qanj1241,1750,
-524,Mocho,moch1257,1750,
-525,Kekchí,kekc1242,1750,
-526,Poqomchi',poqo1254,1750,
-527,Achi,achi1256,1750,
-528,Coatlán Mixe,coat1238,1750,
-529,Coatlán Mixe,coat1238,1750,
-530,Copainalá Zoque,copa1236,1750,
-531,Highland Popoluca,high1276,1750,
-532,Classical Nahuatl,clas1250,1750,
-533,Highland Puebla Nahuatl,high1278,1750,
-534,Morelos Nahuatl,more1259,1750,
-535,Michoacán Nahuatl,mich1245,1750,
-536,Tlaxcala-Puebla-Central Nahuatl,cent2132,1750,
-537,Eastern Huasteca Nahuatl,east2538,1750,
-538,Isthmus-Mecayapan Nahuatl,isth1242,1750,
-539,Pech,pech1241,1750,
-541,Eyak,eyak1241,1750,
-544,Beothuk,beot1247,1750,
-545,Northwest Alaska Iñupiatun,nort2945,1750,
-546,Central Alaskan Yupik,cent2127,1750,
-547,North Alaskan Iñupiatun,nort2943,1750,
-549,Alutiiq,paci1278,1750,
-550,Denaʼina,tana1289,1750,
-552,Degexit'an,dege1248,1750,
-553,Ahtna,ahte1237,1750,
-555,South Slavey,sout2959,1750,
-556,North Slavey,nort2942,1750,
-557,Lower Tanana,lowe1425,1750,
-558,Han,hann1241,1750,
-559,Holicachuk,holi1241,1750,
-560,Koyukon,koyu1237,1750,
-561,Gwich'in,gwic1235,1750,
-562,Tlingit,tlin1245,1750,
-563,Tagish,tagi1240,1750,
-564,Kaska,kask1239,1750,
-565,North Slavey,nort2942,1750,
-566,North Slavey,nort2942,1750,
-568,Sekani,seka1250,1750,
-569,Tsetsaut,tset1236,1750,
-570,Southern Tutchone,sout2957,1750,
-571,Northern Tutchone,nort2941,1750,
-572,Tanacross,tana1290,1750,
-573,Tahltan,tahl1239,1750,
-574,Upper Kuskokwim,uppe1438,1750,
-575,Upper Tanana,uppe1437,1750,
-576,Chipewyan,chip1261,1750,
-577,Dogrib,dogr1252,1750,
-578,Dakelh,carr1249,1750,
-579,Babine-Witsuwit'en,babi1235,1750,
-580,Tsimshian,nucl1649,1750,
-581,Tsilhqot'in,chil1280,1750,
-582,Haisla,hais1244,1750,
-583,Kwak'wala,kwak1269,1750,
-584,Nuxalk,bell1243,1750,
-585,Heiltsuk-Oowekyala,heil1246,1750,
-586,Blackfoot,siks1238,1750,
-587,Severn Ojibwa,seve1240,1750,
-588,Western Ojibwa,west1510,1750,
-589,Central Ojibwa,cent2136,1750,
-590,Plains Cree,plai1258,1750,
-591,Woods Cree,wood1236,1750,
-592,Montagnais,mont1268,1750,
-593,Naskapi,nask1242,1750,
-594,Swampy Cree,swam1239,1750,
-595,Swampy Cree,swam1239,1750,
-596,Dakota,dako1258,1750,
-597,Omaha-Ponca,omah1247,1750,
-598,Iowa-Otoe-Missouria,iowa1245,1750,
-599,Kansa,kans1243,1750,
-600,Osage,osag1243,1750,
-601,Quapaw,quap1242,1750,
-602,Lakota,lako1247,1750,
-603,Mandan,mand1446,1750,
-604,Crow,crow1244,1750,
-605,Assiniboine,assi1247,1750,
-606,Hidatsa,hida1246,1750,
-607,Arikara,arik1262,1750,
-608,East Cree,cree1272,1750,
-609,Cheyenne,chey1247,1750,
-610,Malecite-Passamaquoddy,male1292,1750,
-611,Mi'kmaq,mikm1235,1750,
-612,Tsuutʼina,sars1236,1750,
-613,Shuswap,shus1248,1750,
-614,Nuu-chah-nulth,nuuc1236,1750,
-615,Comox,como1259,1750,
-616,Sechelt,sech1246,1750,
-617,Pentlacht,pent1242,1750,
-618,Squamish,squa1248,1750,
-619,Halkomelem,halk1245,1750,
-620,Lushootseed,lush1252,1750,
-621,Atikamekw,atik1240,1750,
-622,Eastern Ojibwa,east2542,1750,
-623,Algonquin,algo1255,1750,
-624,Eastern Abenaki,east2544,1750,
-625,Western Abenaki,west2630,1750,
-626,Laurentian,laur1250,1750,
-627,Mohegan-Montauk-Narragansett,mohe1244,1750,
-628,Loup A,loup1243,1750,
-629,Dane-zaa,beav1236,1750,
-630,Huron-Wyandot,wyan1247,1750,
-631,Mohawk,moha1258,1750,
-632,Seneca,sene1264,1750,
-633,Oneida,onei1249,1750,
-634,Onondaga,onon1246,1750,
-635,Cayuga,cayu1261,1750,
-636,Wenro,wenr1236,1750,
-637,Erie,erie1238,1750,
-638,Neutral,neut1237,1750,
-639,Susquehannock,susq1241,1750,
-640,Nottoway,nott1246,1750,
-641,Tuscarora,tusc1257,1750,
-642,Tutelo,tute1247,1750,
-643,Catawba,cata1286,1750,
-644,Cherokee,cher1273,1750,
-645,Creek,cree1270,1750,
-646,Apalachee,apal1237,1750,
-647,Timucua,timu1245,1750,
-648,Koasati,koas1236,1750,
-649,Alabama,alab1237,1750,
-650,Chickasaw,chic1270,1750,
-651,Choctaw,choc1276,1750,
-652,Natchez,natc1249,1750,
-653,Natchez,natc1249,1750,
-654,Caddo,cadd1256,1750,
-655,Wichita,wich1260,1750,
-656,Comanche,coma1245,1750,
-657,Kiowa,kiow1266,1750,
-658,Pawnee,pawn1254,1750,
-659,Iroquian,iroq1247,1750,
-660,Alsea,alse1251,1750,
-661,Barbareño,barb1263,1750,
-662,Kathlamet,kath1253,1750,
-663,Central Kalapuyan,kala1400,1750,
-664,Chimakum,chim1310,1750,
-665,Klallam,clal1241,1750,
-666,Cowlitz,cowl1242,1750,
-667,Hanis,coos1249,1750,
-668,Hupa,hupa1239,1750,
-669,Ineseño,ines1240,1750,
-670,Cruzeño,cruz1243,1750,
-671,Kato,kato1244,1750,
-672,Upper Chinook,wasc1239,1750,
-673,Lower Chehalis,lowe1427,1750,
-674,Lower Chinook,chin1286,1750,
-675,Mahican,mahi1248,1750,
-676,Makah,maka1318,1750,
-677,Mattole,matt1238,1750,
-678,Miluk,milu1241,1750,
-679,Munsee,muns1251,1750,
-680,Nanticoke,nant1249,1750,
-681,Ditidaht,diti1235,1750,
-682,Obispeño,obis1242,1750,
-683,Potawatomi,pota1247,1750,
-684,Purisimeño,puri1259,1750,
-685,Quileute,quil1240,1750,
-686,Quinault,quin1251,1750,
-687,Siuslaw,sius1254,1750,
-688,Tillamook,till1254,1750,
-689,Tolowa-Chetco,tolo1259,1750,
-690,Tualatin-Yamhill,tual1242,1750,
-691,Tututni,tutu1242,1750,
-692,Twana (Skokomish),twan1247,1750,
-693,Unami,unam1242,1750,
-694,Upper Chehalis,uppe1439,1750,
-695,Upper Umpqua,uppe1436,1750,
-696,Wailaki,wail1244,1750,
-697,Yaquina,yaqu1250,1750,
-698,Yoncalla,yonc1234,1750,
-699,Wiyot,wiyo1248,1750,
-700,Wintu,wint1259,1750,
-701,Karok,karo1304,1750,
-702,Yana,yana1271,1750,
-703,Konkow,nort2951,1750,
-704,Maidu,nort2952,1750,
-705,Washo,wash1253,1750,
-706,Northern Paiute,nort2954,1750,
-707,Wappo,wapp1239,1750,
-708,Yurok,yuro1248,1750,
-709,Nisenan,nise1244,1750,
-710,Yokuts,yoku1256,1750,
-711,Panamint,pana1305,1750,
-712,Mono (Numic),mono1275,1750,
-714,Shoshoni,shos1248,1750,
-715,Nez Percé,nezp1238,1750,
-716,Takelma,take1257,1750,
-717,Yakama,yaki1237,1750,
-718,Klamath-Modoc,klam1254,1750,
-719,Achumawi,achu1247,1750,
-720,Northern Straits Salish,stra1244,1750,
-721,Sahaptin,sout1502,1750,
-722,Coast Miwok,coas1301,1750,
-723,Nlaka'pamux,thom1243,1750,
-724,Lillooet,lill1248,1750,
-725,Columbia-Wenatchi,colu1241,1750,
-726,Okanagan,okan1243,1750,
-727,Kalipsel,kali1307,1750,
-728,Kutenai,kute1249,1750,
-729,Kwalhioqua,kwal1258,1750,
-730,Yuki,yuki1243,1750,
-731,Haida,haid1248,1750,
-732,Salinan,sali1253,1750,
-733,Ventureño,vent1242,1750,
-734,Tongva,tong1329,1750,
-735,Luiseno,luis1253,1750,
-736,Cahuilla,cahu1264,1750,
-738,Tübatulabal,tuba1278,1750,
-739,Western Apache,west2615,1750,
-740,Mescalero-Chiricahua Apache,mesc1238,1750,
-741,Zuni,zuni1245,1750,
-742,Hopi,hopi1249,1750,
-743,Navajo,nava1243,1750,
-745,Jicarilla Apache,jica1244,1750,
-746,Mikasuki,mika1239,1750,
-747,Muskogean,musk1252,1750,
-748,Menominee,meno1252,1750,
-749,Ho-Chunk,hoch1243,1750,
-750,Shawnee,shaw1249,1750,
-751,Miami,miam1252,1750,
-752,Meskwaki,mesk1242,1750,
-753,Wampano,wamp1250,1750,
-754,Mohegan-Montauk-Narragansett,mohe1244,1750,
-756,Southern Paiute,sout2969,1750,
-757,Chemehuevi,chem1251,1750,
-758,Ute,utee1244,1750,
-759,Havasupai-Walapai-Yavapai,hava1248,1750,
-760,Havasupai-Walapai-Yavapai,hava1248,1750,
-761,Havasupai-Walapai-Yavapai,hava1248,1750,
-762,Seri,seri1257,1750,
-763,Pima Bajo,pima1248,1750,
-764,Tohono O'odham,toho1245,1750,
-765,Cocopa,coco1261,1750,
-766,Mohave,moha1256,1750,
-767,Quechan,quec1382,1750,
-769,Ipai,ipai1240,1750,
-770,Paipai,paip1241,1750,
-771,Tipai,kumi1248,1750,
-773,Kiliwa,kili1268,1750,
-774,Ipai,ipai1240,1750,
-775,Ventureño,vent1242,1750,
-776,Etchemin,,1750,
-777,Carolinan Algonquian,caro1243,1750,
-778,Powhatan,powh1243,1750,
-780,Pericú,peri1250,1750,
-781,Cochimí,coch1272,1750,
-782,Cochimí,coch1272,1750,
-783,Cochimí,coch1272,1750,
-784,Cochimí,coch1272,1750,
-785,Maricopa,mari1440,1750,
-786,Monqui,,1750,
-787,Guaicura,,1750,
-788,Huchití,,1750,
-789,Serrano,serr1255,1750,
-790,Na-Dené,atha1245,1750,
-791,Algic,algi1248,1750,
-792,Even,even1260,1750,
-793,Inuktitut,east2534,1750,
-794,Chukchi,chuk1273,1750,
-796,Southern Yukaghir,sout2750,1750,
-797,Nivkh,gily1242,1750,
-798,Koryak,kory1246,1750,
-799,Buryat (Russia),russ1264,1750,
-800,Bashkir,bash1264,1750,
-801,Evenki,even1259,1750,
-802,Ket,kett1243,1750,
-803,Nganasan,ngan1291,1750,
-804,Selkup,selk1253,1750,
-805,Shor,shor1247,1750,
-806,Skolt Sami,skol1241,1750,
-807,Kola Sami,kild1236,1750,
-808,Karelian,kare1335,1750,
-810,Tundra Nenets,nene1249,1750,
-811,Tundra Nenets,nene1249,1750,
-813,Khanty,khan1273,1750,
-814,Komi,komi1267,1750,
-815,Udmurt,udmu1245,1750,
-816,Chuvash,chuv1255,1750,
-817,Kalmyk,kalm1243,1750,
-818,Moksha,moks1248,1750,
-819,Erzya,erzy1239,1750,
-820,Tatar,tata1255,1750,
-821,Sakha,yaku1245,1750,
-822,Kyrgyz,kirg1245,1750,
-823,Oroch,oroc1248,1750,
-824,Udihe,udih1248,1750,
-825,Nanai,nana1257,1750,
-826,Hakka Chinese,hakk1236,1750,
-827,Tibetan,tibe1272,1750,
-828,Mongolian (Khalkha),halh1238,1750,
-829,Peripheral Mongolian,peri1253,1750,
-830,Khamnigan Mongol,kham1281,1750,
-832,She,shee1238,1750,
-833,Wu Chinese,wuch1236,1750,
-834,Wu Chinese,wuch1236,1750,
-835,Min Nan Chinese,minn1241,1750,
-836,East Yugur,east2337,1750,
-837,Salar,sala1264,1750,
-838,Sarikoli,sari1246,1750,
-839,Bouyei,bouy1240,1750,
-840,Sui,suii1243,1750,
-841,Mienic,mien1242,1750,
-842,Hmongic,hmon1337,1750,
-843,Hlai,hlai1239,1750,
-844,Nuosu,sich1238,1750,
-845,Naxi,naxi1245,1750,
-846,Lizu,lizu1234,1750,
-847,Bai,baic1239,1750,
-848,Jingpho,kach1280,1750,
-849,Yue Chinese,yuec1235,1750,
-850,Zhuang,nort3180,1750,
-851,Hani,hani1248,1750,
-852,Bunun,bunu1267,1750,
-853,Paiwan,paiw1248,1750,
-854,Amis,amis1246,1750,
-855,Atayal (Ci'uli),atay1247,1750,
-856,Atayal (Squliq),atay1247,1750,
-857,Seediq,taro1264,1750,
-858,Yami,yami1254,1750,
-859,Mandarin Chinese,mand1415,1750,
-860,Min Bei Chinese,minb1244,1750,
-861,Kannada,nucl1305,1750,
-862,Malayalam,mala1464,1750,
+id,name,glottocode,year,map_name_full,comment
+5,Latvian,latv1249,1750,Asher & Moseley 2007
+24,Swedish,swed1254,1750,Asher & Moseley 2007; MML 2015
+26,English,stan1293,1750,Asher & Moseley 2007
+31,Modern Greek,mode1248,1750,Asher & Moseley 2007
+37,Portuguese,port1283,1750,Asher & Moseley 2007
+40,Romansh,roma1326,1750,BFS 2005
+56,Bhili,bhil1251,1750,TITUS
+57,Basque (East),,1750,TITUS
+58,Basque (West),,1750,TITUS
+59,Albanian (Tosk),tosk1239,1750,TITUS
+60,Eastern Armenian,nucl1235,1750,TITUS
+61,Latvian,latv1249,1750,TITUS
+62,Lithuanian,lith1251,1750,TITUS
+63,Russian,russ1263,1750,TITUS
+64,Ukrainian,ukra1253,1750,TITUS
+65,Bulgarian,bulg1262,1750,TITUS
+66,Croatian,croa1245,1750,TITUS
+67,Serbian,serb1264,1750,TITUS
+68,Slovene,slov1268,1750,TITUS
+69,Czech,czec1258,1750,TITUS
+70,Polish,poli1260,1750,TITUS
+71,Upper Sorbian,uppe1395,1750,TITUS
+72,Breton,bret1244,1750,TITUS
+73,Cornish,corn1251,1750,TITUS
+74,Welsh,wels1247,1750,TITUS
+75,Irish,iris1253,1750,TITUS
+76,Scottish Gaelic,scot1245,1750,TITUS
+77,Danish,dani1285,1750,TITUS
+78,Elfdalian,elfd1234,1750,TITUS
+79,Faroese,faro1244,1750,TITUS
+80,Icelandic,icel1247,1750,TITUS
+81,Norwegian,norw1258,1750,TITUS
+82,Norwegian (Bokmål),norw1259,1750,TITUS
+83,Norwegian (Nynorsk),norw1262,1750,TITUS
+84,Dutch,dutc1256,1750,TITUS
+86,Frisian,west2354,1750,TITUS
+87,German,stan1295,1750,TITUS
+88,Low German,nort2627,1750,TITUS
+89,Swiss German,swis1247,1750,TITUS
+90,Yiddish,east2295,1750,TITUS
+92,Urdu,urdu1245,1750,TITUS
+93,Kumaoni,kuma1273,1750,TITUS
+94,Rajasthani,raja1256,1750,TITUS
+96,Nepali,nepa1254,1750,TITUS
+97,Kashmiri,kash1277,1750,TITUS
+98,Punjabi,panj1256,1750,TITUS
+99,Assamese,assa1263,1750,TITUS
+100,Bengali,beng1280,1750,TITUS
+101,Maithili,mait1250,1750,TITUS
+102,Khowar,khow1242,1750,TITUS
+103,Lahnda,west2386,1750,TITUS
+104,Sindhi,sind1272,1750,TITUS
+105,Maldivian,dhiv1236,1750,TITUS
+106,Sinhalese,sinh1246,1750,TITUS
+107,Konkani,konk1267,1750,TITUS,Quite spread out language with many dialects.
+108,Marathi,mara1378,1750,TITUS
+109,Gujarati,guja1252,1750,TITUS
+110,Ossetian (Iron),iron1242,1750,TITUS
+111,Pashto,nucl1276,1750,TITUS
+112,Shughni,shug1248,1750,TITUS
+113,Wakhi,wakh1245,1750,TITUS
+114,Yagnobi,yagn1238,1750,TITUS
+115,Baluchi,sout2642,1750,TITUS
+116,Gilaki,gila1241,1750,TITUS
+117,Kurdish (Kurmanji),nort2641,1750,TITUS
+118,Kurdish (Sorani),cent1972,1750,TITUS
+119,Parachi,para1299,1750,TITUS
+120,Persian,west2369,1750,TITUS
+121,Tajik,taji1245,1750,TITUS
+122,Talysh,taly1247,1750,TITUS
+123,Ashkun,ashk1246,1750,TITUS
+124,Kati,kati1270,1750,TITUS
+125,Prasun,pras1239,1750,TITUS
+126,Tregami,treg1243,1750,TITUS
+127,Waigali,waig1243,1750,TITUS
+128,Catalan,stan1289,1750,TITUS
+129,French,stan1290,1750,TITUS
+130,Friulian,friu1240,1750,TITUS
+131,Italian,ital1282,1750,TITUS
+132,Ladin,ladi1250,1750,TITUS
+133,Occitan,occi1239,1750,TITUS
+135,Provençal,occi1239,1750,TITUS
+136,Romanian,roma1327,1750,TITUS
+137,Sardinian,logu1236,1750,TITUS
+138,Spanish,stan1288,1750,TITUS
+139,Walloon,wall1255,1750,TITUS
+140,Georgian,nucl1302,1750,TITUS
+141,Svan,svan1243,1750,TITUS
+142,Laz,lazz1240,1750,TITUS
+143,Megrelian,ming1252,1750,TITUS
+144,Batsbi,bats1242,1750,TITUS
+145,Chechen,chec1245,1750,TITUS
+146,Kryz,kryt1240,1750,TITUS
+147,Lezgian,lezg1247,1750,TITUS
+148,Khwarshi,khva1239,1750,TITUS
+150,Kabardian,kaba1278,1750,TITUS
+151,Uyghur,uigh1240,1750,TITUS
+152,Uzbek,uzbe1247,1750,TITUS
+153,Turkmen,turk1304,1750,TITUS
+154,Turkish,nucl1301,1750,TITUS
+155,Karachay-Balkar,kara1465,1750,TITUS
+156,Kazakh,kaza1248,1750,TITUS
+157,Estonian,,1750,TITUS
+158,Finnish,finn1318,1750,TITUS
+159,Northern Saami,nort2671,1750,TITUS
+160,Hungarian,hung1274,1750,TITUS
+161,Adyghe,adyg1241,1750,TITUS
+162,Ingush,ingu1240,1750,TITUS
+163,Udi,udii1243,1750,TITUS
+164,Beshta,bezh1248,1750,TITUS
+165,Khinalug,khin1240,1750,TITUS
+166,Budukh,budu1248,1750,TITUS
+168,Abaza,abaz1241,1750,TITUS
+169,Avar,avar1256,1750,TITUS
+170,Andi,andi1255,1750,TITUS
+171,Lak,lakk1252,1750,TITUS
+172,Dargwa,darg1241,1750,TITUS
+173,Gagauz,gaga1249,1750,TITUS
+174,Crimean Tatar,crim1257,1750,TITUS
+175,Kumyk,kumy1244,1750,TITUS
+176,Tabasaran,taba1259,1750,TITUS
+177,Aghul,aghu1253,1750,TITUS
+178,Tsakhur,tsak1249,1750,TITUS
+179,Rutul,rutu1240,1750,TITUS
+180,Azerbaijani,nort2697,1750,TITUS
+181,Tuvan,tuvi1240,1750,Asher & Moseley 2007; TITUS
+182,Belarusian,bela1254,1750,TITUS
+183,Slovak,slov1269,1750,TITUS
+184,Southern Altai,sout2694,1750,TITUS
+191,Xokleng,xokl1240,1750,TITUS
+193,Hixkaryána,hixk1239,1750,TITUS
+194,Cusco Quechua,cusc1236,1750,TITUS
+195,Karitiâna,kari1311,1750,TITUS
+196,Selk'nam,onaa1245,1750,TITUS
+197,Asuriní of Xingú,xing1248,1750,TITUS
+198,Guaraní (Eastern Bolivian),east2555,1750,TITUS
+199,Kuruáya,kuru1309,1750,TITUS
+200,Emerillon,emer1243,1750,TITUS
+201,Guajajára,guaj1255,1750,TITUS
+202,Jurúna,juru1256,1750,TITUS
+203,Kamayurá,kama1373,1750,TITUS
+204,Kayabí,kaya1329,1750,TITUS
+205,Mundurukú,mund1330,1750,TITUS
+206,Wayampi do Amapari,waya1270,1750,TITUS
+207,Sateré-Mawé,sate1243,1750,TITUS
+208,Sirionó,siri1273,1750,TITUS
+209,Suruí Paitér,suru1262,1750,TITUS
+210,Tapiete,tapi1253,1750,TITUS
+211,Tembé,temb1279,1750,TITUS
+212,Tupinambá,tupi1273,1750,TITUS
+213,Urubú-Ka'apór,urub1250,1750,TITUS
+214,Apinayé,apin1244,1750,TITUS
+215,Canela-Krahô,cane1242,1750,TITUS
+216,Kayapó,kaya1330,1750,TITUS
+217,Xokleng,xokl1240,1750,TITUS
+218,Borôro,boro1282,1750,TITUS
+219,Fulniô,fuln1247,1750,TITUS
+220,Karajá,kara1500,1750,TITUS
+221,Aymara,,1750,TITUS
+222,Callawaya,call1235,1750,TITUS
+224,Jaqaru,jaqa1244,1750,TITUS
+225,Leko,leco1242,1750,TITUS
+226,Puquina,puqu1242,1750,TITUS
+227,South Bolivian Quechua,sout2991,1750,TITUS
+228,Quechua Santiago del Éstero,sant1432,1750,TITUS
+229,Southern Aymara,sout2996,1750,TITUS
+230,Uru-Chipaya,uruu1244,1750,TITUS
+231,Atacameño,kunz1244,1750,TITUS
+232,Huilliche,huil1244,1750,TITUS
+233,Mapudungun,mapu1245,1750,TITUS
+234,Tehuelche,tehu1242,1750,TITUS
+235,Yahgan,yama1264,1750,TITUS
+236,Mocoví,moco1246,1750,TITUS
+237,Qawasqar,qawa1238,1750,TITUS
+238,Huarpe,huar1251,1750,TITUS
+239,Charrúa,char1240,1750,TITUS
+240,Kaingang,kain1272,1750,TITUS
+241,Waimiri-Atroari,waim1253,1750,TITUS
+242,Yurakaré,yura1255,1750,TITUS
+243,Mosetén,mose1249,1750,TITUS
+244,Ignaciano,igna1246,1750,TITUS
+245,Puelche,puel1244,1750,TITUS
+246,Guaraní (Mbyá),mbya1239,1750,TITUS
+247,Guaraní (Paraguayan),para1311,1750,TITUS
+248,Kaiwá,kaiw1246,1750,TITUS
+249,Pai-Tavyterá,pait1247,1750,TITUS
+250,Guaraní (Avá),chir1286,1750,TITUS
+251,Aché-Guayakí,ache1246,1750,TITUS
+252,Toba,toba1269,1750,TITUS
+253,Pilagá,pila1245,1750,TITUS
+254,Mak'a,maca1260,1750,TITUS
+255,Niwaklé,niva1238,1750,TITUS
+256,Chorotí,chor1274,1750,TITUS
+257,Movima,movi1243,1750,TITUS
+258,Itené,iten1243,1750,TITUS
+259,Shipibo-Conibo,ship1254,1750,TITUS
+260,Ofayé,ofay1240,1750,TITUS
+261,Carirí,kari1254,1750,TITUS
+262,Palikúr,pali1279,1750,TITUS
+263,Galibi Carib,gali1262,1750,TITUS
+264,Shebayo,sheb1234,1750,TITUS
+265,Arawak,,1750,TITUS
+266,Achagua,acha1250,1750,TITUS
+267,Wayuu,wayu1243,1750,TITUS
+268,Kogi,cogu1240,1750,TITUS
+269,Arhuaco,arhu1242,1750,TITUS
+270,Apalaí,apal1257,1750,TITUS
+271,Wayana,waya1269,1750,TITUS
+272,Macushi,macu1259,1750,TITUS
+273,Waiwai,waiw1244,1750,TITUS
+274,Trió,trio1238,1750,TITUS
+275,Ese'ejja,esee1248,1750,TITUS
+276,Araona,arao1248,1750,TITUS
+277,Lengua-Mascoy,leng1261,1750,TITUS
+278,Guató,guat1253,1750,TITUS
+279,Xavánte,xava1240,1750,TITUS
+280,Xerente,xere1240,1750,TITUS
+281,Paunaca,paun1241,1750,TITUS
+282,Sabané,saba1268,1750,TITUS
+283,Cinta Larga,cint1239,1750,TITUS
+284,Awetí,awet1244,1750,TITUS
+285,Cashibo-Cacataibo,cash1251,1750,TITUS
+286,Marawan,mara1408,1750,TITUS
+287,Aguaruna,agua1253,1750,TITUS
+288,Bermejo Wichí,wich1263,1750,TITUS
+289,Guarayó,guar1292,1750,TITUS
+290,Chiquitano,chiq1248,1750,TITUS
+291,Maxakalí,maxa1247,1750,Glottolog; TITUS
+292,Botocudo,kren1239,1750,Glottolog; TITUS
+293,Kamakã,kama1372,1750,TITUS
+294,Nhengatu,nhen1239,1750,TITUS,Seems to be a spread out language
+296,Warao,wara1303,1750,TITUS
+297,Yanomamö,yano1261,1750,TITUS
+298,Ninam,nina1238,1750,TITUS
+299,Sanumá,sanu1240,1750,TITUS
+300,Saraveca,sara1331,1750,TITUS
+301,Parecís,pare1272,1750,TITUS
+302,Bakairí,baka1277,1750,Glottolog; TITUS
+303,Ye'kuana,maqu1238,1750,TITUS
+304,Pemón,pemo1248,1750,TITUS
+305,Barí,bari1297,1750,TITUS
+306,Piapoco,piap1246,1750,TITUS
+307,Cuiba,cuib1242,1750,TITUS
+308,Guahibo,guah1255,1750,TITUS
+309,Guayabero,guay1257,1750,TITUS
+310,Carijona,cari1279,1750,TITUS
+311,Secoya,seco1241,1750,TITUS
+312,Orejón,orej1242,1750,TITUS
+313,Shuar,shua1257,1750,TITUS
+314,Huambisa,huam1247,1750,TITUS
+315,Achuar,achu1249,1750,Glottolog; TITUS
+316,Jebero,jebe1250,1750,TITUS
+317,Chayahuita,chay1248,1750,TITUS
+318,Chamicuro,cham1318,1750,TITUS
+319,Urarina,urar1246,1750,TITUS
+320,Urarina,urar1246,1750,Glottolog; TITUS
+321,Candoshi,cand1248,1750,TITUS
+322,Záparo,zapa1253,1750,TITUS
+323,Auishiri,aush1242,1750,Glottolog; TITUS
+324,Sabela,waor1240,1750,TITUS
+325,Cofán,cofa1242,1750,TITUS
+326,Páez,paez1247,1750,TITUS
+327,Guambiano,guam1248,1750,TITUS
+328,Awa-Cuaiquer,awac1239,1750,TITUS
+329,Tsafiki,colo1256,1750,TITUS
+330,Cha'palaa,chac1249,1750,TITUS
+331,Gamela,game1240,1750,TITUS
+332,Tarairiu,tara1303,1750,TITUS
+333,Paumarí,paum1247,1750,TITUS
+334,Jamamadí,jama1261,1750,TITUS
+335,Culina,culi1244,1750,TITUS
+336,Machiguenga,mach1267,1750,TITUS
+337,Nomatsiguenga,noma1263,1750,TITUS
+338,Apurinã,apur1254,1750,TITUS
+339,Yanesha',yane1238,1750,TITUS
+340,Maipure,maip1246,1750,TITUS
+341,Curripaco,curr1243,1750,TITUS
+342,Baniwa,bani1255,1750,TITUS
+343,Paraujano,para1316,1750,TITUS
+344,Wapishana,wapi1253,1750,TITUS
+345,Atorai,ator1243,1750,TITUS
+346,Panare,enap1235,1750,TITUS
+347,Hoti,yuwa1244,1750,TITUS
+348,Piaroa,piar1243,1750,TITUS
+349,Sáliva,sali1298,1750,TITUS
+350,Bora,bora1263,1750,TITUS
+351,Andoque,ando1254,1750,TITUS
+352,Minica Huitoto,mini1256,1750,TITUS
+353,Murui Huitoto,muru1274,1750,TITUS
+354,Ocaína,ocai1244,1750,Glottolog; TITUS
+355,Jabutí,djeo1235,1750,TITUS
+356,Pirahã,pira1253,1750,TITUS
+357,Parintintin,pari1258,1750,TITUS
+358,Puruborá,puru1264,1750,TITUS
+359,Rikbatsá,rikb1245,1750,TITUS
+360,Aikanã,aika1237,1750,TITUS
+361,Aruá,arua1261,1750,TITUS
+362,Coreguaje,kore1283,1750,TITUS
+363,Cubeo,cube1242,1750,TITUS
+364,Desano,desa1247,1750,TITUS
+365,Tatuyo,tatu1247,1750,TITUS
+366,Tuyuca,tuyu1244,1750,TITUS
+367,Macuna,macu1260,1750,TITUS
+368,Kokáma,coca1260,1750,TITUS
+369,Yagua,yagu1244,1750,TITUS
+370,Iñapari,inap1242,1750,TITUS
+371,Baré,bare1276,1750,TITUS
+372,Cauixána,kais1242,1750,TITUS
+373,Yawalapití,yawa1261,1750,TITUS
+374,Yabaâna,yaba1249,1750,TITUS
+375,Wirina,uiri1238,1750,TITUS
+376,Apolista,apol1242,1750,TITUS
+377,Araua,arua1264,1750,TITUS
+378,Mapidian,mapi1252,1750,TITUS
+379,Yine,yine1238,1750,TITUS
+380,Pasé,pass1250,1750,TITUS
+381,Cayuishana,kais1242,1750,TITUS
+382,Waurá,waur1244,1750,TITUS
+383,Waraicu,arai1239,1750,TITUS
+384,Katukina,katu1274,1750,TITUS
+385,Arauá,arua1263,1750,TITUS
+386,Marawa,mara1409,1750,TITUS
+387,Matsés,mats1244,1750,TITUS
+388,Catuqina do Acre,kana1291,1750,TITUS
+389,Itonama,iton1250,1750,TITUS
+390,Cavineña,cavi1250,1750,TITUS
+391,Chácobo,chac1251,1750,TITUS
+392,Kashinawá,cash1254,1750,TITUS
+393,Pacahuara,paca1246,1750,TITUS
+394,Yaminahua,yami1256,1750,TITUS
+395,Amahuaca,amah1246,1750,TITUS
+396,Marúbo,maru1252,1750,TITUS
+397,Macu,maku1246,1750,TITUS
+398,Manao,mana1299,1750,TITUS
+399,Catío,embe1260,1750,TITUS
+400,Chimila,chim1309,1750,TITUS
+401,Woun Meu,woun1238,1750,TITUS
+402,Northern Emberá,nort2972,1750,TITUS
+403,Quimbaya,,1750,TITUS
+404,Yurumanguí,yuru1243,1750,TITUS
+405,Central Tunebo,cent2150,1750,TITUS
+406,Yucpa,yukp1241,1750,TITUS
+407,Jirajara,jira1235,1750,TITUS
+408,Timote,timo1237,1750,TITUS
+409,Guamo,guam1236,1750,TITUS
+410,Otomaco,otom1301,1750,TITUS
+411,Yaruro,pume1238,1750,TITUS
+412,Manajé,aman1266,1750,TITUS
+413,Pankarurú,pank1250,1750,TITUS
+414,Xukuru,xuku1239,1750,TITUS
+415,Huamoi,uamu1236,1750,TITUS
+416,Tushá,tuxa1239,1750,TITUS
+417,Katembri,,1750,TITUS
+418,Puri-Coroado,coro1249,1750,TITUS
+419,Txikāo,ikpe1245,1750,TITUS
+420,Suyá,suya1243,1750,TITUS
+421,Kuikúro-Kalapálo,kuik1246,1750,TITUS
+422,Kuikúro-Kalapálo,kuik1246,1750,TITUS
+423,Geico,geic1236,1750,TITUS
+424,Chané,chan1322,1750,TITUS
+425,Terêna,tere1281,1750,TITUS
+426,Guaná,guan1268,1750,TITUS
+427,Kadiwéu,kadi1248,1750,TITUS
+428,Zamuco,zamu1245,1750,TITUS
+429,Ayoreo,ayor1240,1750,TITUS
+430,Esmeralda,atac1235,1750,TITUS
+431,Kamsá,cams1241,1750,TITUS
+432,Andoquí,anda1286,1750,TITUS
+433,Quingnam,quig1235,1750,TITUS
+434,Muchik,moch1259,1750,TITUS
+435,Sec,secc1234,1750,TITUS
+436,Muniche,muni1258,1750,TITUS
+437,Hibito-Cholón,hibi1242,1750,TITUS
+438,Culli,cull1235,1750,TITUS
+439,Vilela,vile1241,1750,TITUS
+440,Baure,baur1253,1750,TITUS
+441,Canichana,cani1243,1750,TITUS
+442,Cayubaba,cayu1262,1750,TITUS
+443,Western Bolivian Paraguay,west2640,1750,TITUS
+444,Otuké,otuk1240,1750,TITUS
+445,Mehináku,mehi1240,1750,TITUS
+446,Gorgotoqui,,1750,TITUS
+447,Siona-Tetete,sion1247,1750,TITUS
+448,Puinave,puin1248,1750,TITUS
+450,Macaguane,maca1259,1750,TITUS
+451,Sapé,sape1238,1750,TITUS
+452,Awaké,awak1251,1750,TITUS
+453,Kukura,kuku1286,1750,TITUS
+454,Taruma,taru1236,1750,TITUS
+455,Bane,,1750,TITUS
+457,Lule,lule1238,1750,TITUS
+458,Proto-Jê,jeee1236,1750,TITUS
+459,Cuniba,culi1244,1750,TITUS
+460,Ticuna,ticu1245,1750,TITUS
+461,Yuri,juri1235,1750,TITUS
+462,Wainuma,wain1249,1750,TITUS
+463,Guarú,guar1294,1750,TITUS
+464,Yanomám,yano1262,1750,TITUS
+465,Capón,,1750,TITUS
+466,Nahukuá,nahu1343,1750,TITUS
+467,Southern Nambikuára,sout2994,1750,TITUS
+468,Mamaindé,mama1278,1750,TITUS
+469,Chapacura,chap1271,1750,TITUS
+470,Urupá,urup1245,1750,TITUS
+471,Kwaza,kwaz1243,1750,TITUS
+472,Irantxe,iran1263,1750,TITUS
+473,Matanawí,mata1275,1750,TITUS
+474,Trumai,trum1247,1750,TITUS
+475,San Blas Kuna,sanb1242,1750,TITUS
+476,Bocota,bugl1243,1750,TITUS
+477,Guaimi,ngab1239,1750,TITUS
+478,Bribri,brib1243,1750,Glottolog; TITUS
+479,Bribri,brib1243,1750,Glottolog; TITUS
+480,Cabécar,cabe1245,1750,TITUS
+481,Guatuso,male1297,1750,Glottolog; TITUS
+482,Rama,rama1270,1750,TITUS
+483,Matagalpa,mata1288,1750,TITUS
+484,Mískito,misk1235,1750,TITUS
+485,Sumo,maya1285,1750,TITUS
+487,Yaqui,yaqu1251,1750,TITUS
+488,El Nayar Cora,elna1235,1750,TITUS
+489,Huichol,huic1243,1750,TITUS
+490,Central Tarahumara,cent2131,1750,TITUS
+491,Northern Tepehuan,nort2959,1750,TITUS
+492,Southeastern Tepehuan,sout2976,1750,TITUS
+493,Mayo,mayo1264,1750,TITUS
+494,Guerrero Amuzgo,guer1243,1750,TITUS
+495,Zapotec,zapo1436,1750,TITUS
+496,Chinantec,chin1484,1750,TITUS
+497,Yucatec Maya,yuca1254,1750,TITUS
+498,Huastec,huas1242,1750,TITUS
+499,Garifúna,gari1256,1750,TITUS
+500,Chortí,chor1273,1750,TITUS
+501,Tabasco Chontal,taba1266,1750,TITUS
+502,Chol,chol1282,1750,TITUS
+503,Totonac,toto1252,1750,TITUS
+504,Mezquital Otomi,mezq1235,1750,TITUS
+505,Mixtec,mixt1427,1750,TITUS
+506,Mixtec,mixt1427,1750,TITUS
+507,Lacandon,laca1243,1750,TITUS
+508,Tzotzil,tzot1259,1750,TITUS
+509,Tzeltal,tzel1254,1750,TITUS
+510,Tcholabal,tojo1241,1750,TITUS
+511,Mazahua,cent2144,1750,TITUS
+512,Xincan,xinc1237,1750,TITUS
+513,Tlapanec,subt1249,1750,TITUS
+514,San Juan Atzingo Popoloca,sanj1285,1750,TITUS
+515,Tarasca,tara1323,1750,TITUS
+516,Lenca,lenc1239,1750,TITUS
+517,Tz'utujil,tzut1248,1750,TITUS
+518,Mam,mamm1241,1750,TITUS
+519,K'iche',kich1262,1750,TITUS
+520,Poqomam,poqo1253,1750,TITUS
+521,Aguacateco,agua1252,1750,TITUS
+522,Uspantec,uspa1245,1750,TITUS
+523,Q'anjob'al,qanj1241,1750,TITUS
+524,Mocho,moch1257,1750,TITUS
+525,Kekchí,kekc1242,1750,TITUS
+526,Poqomchi',poqo1254,1750,TITUS
+527,Achi,achi1256,1750,TITUS
+528,Coatlán Mixe,coat1238,1750,TITUS
+529,Coatlán Mixe,coat1238,1750,TITUS
+530,Copainalá Zoque,copa1236,1750,TITUS
+531,Highland Popoluca,high1276,1750,TITUS
+532,Classical Nahuatl,clas1250,1750,TITUS
+533,Highland Puebla Nahuatl,high1278,1750,TITUS
+534,Morelos Nahuatl,more1259,1750,TITUS
+535,Michoacán Nahuatl,mich1245,1750,TITUS
+536,Tlaxcala-Puebla-Central Nahuatl,cent2132,1750,TITUS
+537,Eastern Huasteca Nahuatl,east2538,1750,TITUS
+538,Isthmus-Mecayapan Nahuatl,isth1242,1750,TITUS
+539,Pech,pech1241,1750,TITUS
+541,Eyak,eyak1241,1750,TITUS
+544,Beothuk,beot1247,1750,TITUS
+545,Northwest Alaska Iñupiatun,nort2945,1750,Asher & Moseley 2007
+546,Central Alaskan Yupik,cent2127,1750,Asher & Moseley 2007
+547,North Alaskan Iñupiatun,nort2943,1750,Asher & Moseley 2007
+549,Alutiiq,paci1278,1750,Asher & Moseley 2007
+550,Denaʼina,tana1289,1750,Asher & Moseley 2007
+552,Degexit'an,dege1248,1750,Asher & Moseley 2007
+553,Ahtna,ahte1237,1750,Asher & Moseley 2007
+555,South Slavey,sout2959,1750,Asher & Moseley 2007; TITUS
+556,North Slavey,nort2942,1750,Asher & Moseley 2007; TITUS
+557,Lower Tanana,lowe1425,1750,Asher & Moseley 2007
+558,Han,hann1241,1750,Asher & Moseley 2007
+559,Holicachuk,holi1241,1750,Asher & Moseley 2007
+560,Koyukon,koyu1237,1750,Asher & Moseley 2007
+561,Gwich'in,gwic1235,1750,Asher & Moseley 2007; TITUS
+562,Tlingit,tlin1245,1750,Asher & Moseley 2007; TITUS
+563,Tagish,tagi1240,1750,Asher & Moseley 2007; TITUS
+564,Kaska,kask1239,1750,Asher & Moseley 2007; TITUS
+565,North Slavey,nort2942,1750,Asher & Moseley 2007
+566,North Slavey,nort2942,1750,Asher & Moseley 2007
+568,Sekani,seka1250,1750,Asher & Moseley 2007
+569,Tsetsaut,tset1236,1750,Asher & Moseley 2007
+570,Southern Tutchone,sout2957,1750,Asher & Moseley 2007; TITUS
+571,Northern Tutchone,nort2941,1750,Asher & Moseley 2007
+572,Tanacross,tana1290,1750,Asher & Moseley 2007
+573,Tahltan,tahl1239,1750,Asher & Moseley 2007; TITUS
+574,Upper Kuskokwim,uppe1438,1750,Asher & Moseley 2007
+575,Upper Tanana,uppe1437,1750,Asher & Moseley 2007
+576,Chipewyan,chip1261,1750,Asher & Moseley 2007; TITUS
+577,Dogrib,dogr1252,1750,Asher & Moseley 2007
+578,Dakelh,carr1249,1750,Asher & Moseley 2007; TITUS
+579,Babine-Witsuwit'en,babi1235,1750,Asher & Moseley 2007; TITUS
+580,Tsimshian,nucl1649,1750,Asher & Moseley 2007; TITUS
+581,Tsilhqot'in,chil1280,1750,Asher & Moseley 2007; TITUS
+582,Haisla,hais1244,1750,Asher & Moseley 2007
+583,Kwak'wala,kwak1269,1750,Asher & Moseley 2007; TITUS
+584,Nuxalk,bell1243,1750,Asher & Moseley 2007; TITUS
+585,Heiltsuk-Oowekyala,heil1246,1750,Asher & Moseley 2007
+586,Blackfoot,siks1238,1750,Asher & Moseley 2007; TITUS
+587,Severn Ojibwa,seve1240,1750,Asher & Moseley 2007; TITUS
+588,Western Ojibwa,west1510,1750,Asher & Moseley 2007
+589,Central Ojibwa,cent2136,1750,Asher & Moseley 2007; TITUS
+590,Plains Cree,plai1258,1750,Asher & Moseley 2007; TITUS
+591,Woods Cree,wood1236,1750,Asher & Moseley 2007; TITUS
+592,Montagnais,mont1268,1750,Asher & Moseley 2007; TITUS
+593,Naskapi,nask1242,1750,Asher & Moseley 2007; TITUS
+594,Swampy Cree,swam1239,1750,Asher & Moseley 2007; TITUS
+595,Swampy Cree,swam1239,1750,TITUS
+596,Dakota,dako1258,1750,Asher & Moseley 2007; TITUS
+597,Omaha-Ponca,omah1247,1750,Asher & Moseley 2007
+598,Iowa-Otoe-Missouria,iowa1245,1750,Asher & Moseley 2007
+599,Kansa,kans1243,1750,Asher & Moseley 2007
+600,Osage,osag1243,1750,Asher & Moseley 2007; TITUS
+601,Quapaw,quap1242,1750,Asher & Moseley 2007
+602,Lakota,lako1247,1750,Asher & Moseley 2007; TITUS
+603,Mandan,mand1446,1750,Asher & Moseley 2007
+604,Crow,crow1244,1750,Asher & Moseley 2007; TITUS
+605,Assiniboine,assi1247,1750,Asher & Moseley 2007; TITUS
+606,Hidatsa,hida1246,1750,Asher & Moseley 2007; TITUS
+607,Arikara,arik1262,1750,TITUS
+608,East Cree,cree1272,1750,Asher & Moseley 2007; TITUS
+609,Cheyenne,chey1247,1750,TITUS
+610,Malecite-Passamaquoddy,male1292,1750,Asher & Moseley 2007; TITUS
+611,Mi'kmaq,mikm1235,1750,Asher & Moseley 2007; TITUS
+612,Tsuutʼina,sars1236,1750,Asher & Moseley 2007; TITUS
+613,Shuswap,shus1248,1750,TITUS
+614,Nuu-chah-nulth,nuuc1236,1750,Asher & Moseley 2007; TITUS
+615,Comox,como1259,1750,Asher & Moseley 2007; TITUS
+616,Sechelt,sech1246,1750,Asher & Moseley 2007; TITUS
+617,Pentlacht,pent1242,1750,Asher & Moseley 2007; TITUS
+618,Squamish,squa1248,1750,Asher & Moseley 2007; TITUS
+619,Halkomelem,halk1245,1750,Asher & Moseley 2007; TITUS
+620,Lushootseed,lush1252,1750,Asher & Moseley 2007
+621,Atikamekw,atik1240,1750,Asher & Moseley 2007; TITUS
+622,Eastern Ojibwa,east2542,1750,Asher & Moseley 2007; TITUS
+623,Algonquin,algo1255,1750,Asher & Moseley 2007; TITUS
+624,Eastern Abenaki,east2544,1750,Asher & Moseley 2007; TITUS
+625,Western Abenaki,west2630,1750,Asher & Moseley 2007; TITUS
+626,Laurentian,laur1250,1750,Asher & Moseley 2007; TITUS
+627,Mohegan-Montauk-Narragansett,mohe1244,1750,Asher & Moseley 2007; TITUS
+628,Loup A,loup1243,1750,Asher & Moseley 2007; TITUS
+629,Dane-zaa,beav1236,1750,Asher & Moseley 2007; TITUS
+630,Huron-Wyandot,wyan1247,1750,Asher & Moseley 2007; TITUS
+631,Mohawk,moha1258,1750,Asher & Moseley 2007; TITUS
+632,Seneca,sene1264,1750,Asher & Moseley 2007; TITUS
+633,Oneida,onei1249,1750,Asher & Moseley 2007; TITUS
+634,Onondaga,onon1246,1750,Asher & Moseley 2007; TITUS
+635,Cayuga,cayu1261,1750,Asher & Moseley 2007; TITUS
+636,Wenro,wenr1236,1750,Asher & Moseley 2007; TITUS
+637,Erie,erie1238,1750,Asher & Moseley 2007; TITUS
+638,Neutral,neut1237,1750,Asher & Moseley 2007; TITUS
+639,Susquehannock,susq1241,1750,Asher & Moseley 2007; TITUS
+640,Nottoway,nott1246,1750,Asher & Moseley 2007; TITUS
+641,Tuscarora,tusc1257,1750,Asher & Moseley 2007; TITUS
+642,Tutelo,tute1247,1750,Asher & Moseley 2007; TITUS
+643,Catawba,cata1286,1750,Asher & Moseley 2007; TITUS
+644,Cherokee,cher1273,1750,Asher & Moseley 2007; TITUS
+645,Creek,cree1270,1750,Asher & Moseley 2007; TITUS
+646,Apalachee,apal1237,1750,Asher & Moseley 2007; TITUS
+647,Timucua,timu1245,1750,Asher & Moseley 2007; TITUS
+648,Koasati,koas1236,1750,Asher & Moseley 2007; TITUS
+649,Alabama,alab1237,1750,Asher & Moseley 2007; TITUS
+650,Chickasaw,chic1270,1750,Asher & Moseley 2007; TITUS
+651,Choctaw,choc1276,1750,Asher & Moseley 2007; TITUS
+652,Natchez,natc1249,1750,Asher & Moseley 2007; TITUS
+653,Natchez,natc1249,1750,Asher & Moseley 2007; TITUS
+654,Caddo,cadd1256,1750,Asher & Moseley 2007; TITUS
+655,Wichita,wich1260,1750,TITUS
+656,Comanche,coma1245,1750,Asher & Moseley 2007; TITUS
+657,Kiowa,kiow1266,1750,TITUS
+658,Pawnee,pawn1254,1750,TITUS
+659,Iroquian,iroq1247,1750,TITUS
+660,Alsea,alse1251,1750,Asher & Moseley 2007; TITUS
+661,Barbareño,barb1263,1750,Asher & Moseley 2007; TITUS
+662,Kathlamet,kath1253,1750,Asher & Moseley 2007; TITUS
+663,Central Kalapuyan,kala1400,1750,Asher & Moseley 2007; TITUS
+664,Chimakum,chim1310,1750,Asher & Moseley 2007; TITUS
+665,Klallam,clal1241,1750,Asher & Moseley 2007; TITUS
+666,Cowlitz,cowl1242,1750,Asher & Moseley 2007; TITUS
+667,Hanis,coos1249,1750,Asher & Moseley 2007; TITUS
+668,Hupa,hupa1239,1750,Asher & Moseley 2007; TITUS
+669,Ineseño,ines1240,1750,Asher & Moseley 2007; TITUS
+670,Cruzeño,cruz1243,1750,Asher & Moseley 2007; TITUS
+671,Kato,kato1244,1750,Asher & Moseley 2007; TITUS
+672,Upper Chinook,wasc1239,1750,Asher & Moseley 2007; TITUS
+673,Lower Chehalis,lowe1427,1750,Asher & Moseley 2007; TITUS
+674,Lower Chinook,chin1286,1750,Asher & Moseley 2007; TITUS
+675,Mahican,mahi1248,1750,Asher & Moseley 2007; TITUS
+676,Makah,maka1318,1750,Asher & Moseley 2007; TITUS
+677,Mattole,matt1238,1750,Asher & Moseley 2007; TITUS
+678,Miluk,milu1241,1750,Asher & Moseley 2007; TITUS
+679,Munsee,muns1251,1750,Asher & Moseley 2007; TITUS
+680,Nanticoke,nant1249,1750,Asher & Moseley 2007; TITUS
+681,Ditidaht,diti1235,1750,Asher & Moseley 2007; TITUS
+682,Obispeño,obis1242,1750,Asher & Moseley 2007; TITUS
+683,Potawatomi,pota1247,1750,Asher & Moseley 2007; TITUS
+684,Purisimeño,puri1259,1750,Asher & Moseley 2007; TITUS
+685,Quileute,quil1240,1750,Asher & Moseley 2007; TITUS
+686,Quinault,quin1251,1750,Asher & Moseley 2007; TITUS
+687,Siuslaw,sius1254,1750,Asher & Moseley 2007; TITUS
+688,Tillamook,till1254,1750,Asher & Moseley 2007; TITUS
+689,Tolowa-Chetco,tolo1259,1750,Asher & Moseley 2007; TITUS
+690,Tualatin-Yamhill,tual1242,1750,Asher & Moseley 2007; TITUS
+691,Tututni,tutu1242,1750,Asher & Moseley 2007; TITUS
+692,Twana (Skokomish),twan1247,1750,Asher & Moseley 2007; TITUS
+693,Unami,unam1242,1750,TITUS
+694,Upper Chehalis,uppe1439,1750,Asher & Moseley 2007; TITUS
+695,Upper Umpqua,uppe1436,1750,Asher & Moseley 2007; TITUS
+696,Wailaki,wail1244,1750,Asher & Moseley 2007; TITUS
+697,Yaquina,yaqu1250,1750,TITUS
+698,Yoncalla,yonc1234,1750,Asher & Moseley 2007; TITUS
+699,Wiyot,wiyo1248,1750,TITUS
+700,Wintu,wint1259,1750,Asher & Moseley 2007; TITUS
+701,Karok,karo1304,1750,Asher & Moseley 2007; TITUS
+702,Yana,yana1271,1750,Asher & Moseley 2007; TITUS
+703,Konkow,nort2951,1750,Asher & Moseley 2007; TITUS
+704,Maidu,nort2952,1750,Asher & Moseley 2007; TITUS
+705,Washo,wash1253,1750,Asher & Moseley 2007; TITUS
+706,Northern Paiute,nort2954,1750,Asher & Moseley 2007; TITUS
+707,Wappo,wapp1239,1750,Asher & Moseley 2007; TITUS
+708,Yurok,yuro1248,1750,Asher & Moseley 2007; TITUS
+709,Nisenan,nise1244,1750,Asher & Moseley 2007; TITUS
+710,Yokuts,yoku1256,1750,Asher & Moseley 2007; TITUS
+711,Panamint,pana1305,1750,Asher & Moseley 2007; TITUS
+712,Mono (Numic),mono1275,1750,TITUS
+714,Shoshoni,shos1248,1750,Asher & Moseley 2007; TITUS
+715,Nez Percé,nezp1238,1750,Asher & Moseley 2007; TITUS
+716,Takelma,take1257,1750,Asher & Moseley 2007; TITUS
+717,Yakama,yaki1237,1750,Asher & Moseley 2007; TITUS
+718,Klamath-Modoc,klam1254,1750,Asher & Moseley 2007; TITUS
+719,Achumawi,achu1247,1750,Asher & Moseley 2007; TITUS
+720,Northern Straits Salish,stra1244,1750,Asher & Moseley 2007; TITUS
+721,Sahaptin,sout1502,1750,Asher & Moseley 2007; TITUS
+722,Coast Miwok,coas1301,1750,TITUS
+723,Nlaka'pamux,thom1243,1750,Asher & Moseley 2007; TITUS
+724,Lillooet,lill1248,1750,Asher & Moseley 2007; TITUS
+725,Columbia-Wenatchi,colu1241,1750,Asher & Moseley 2007; TITUS
+726,Okanagan,okan1243,1750,Asher & Moseley 2007; TITUS
+727,Kalipsel,kali1307,1750,Asher & Moseley 2007; TITUS
+728,Kutenai,kute1249,1750,Asher & Moseley 2007; TITUS
+729,Kwalhioqua,kwal1258,1750,Asher & Moseley 2007; TITUS
+730,Yuki,yuki1243,1750,Asher & Moseley 2007; TITUS
+731,Haida,haid1248,1750,TITUS
+732,Salinan,sali1253,1750,Asher & Moseley 2007; TITUS
+733,Ventureño,vent1242,1750,Asher & Moseley 2007; TITUS
+734,Tongva,tong1329,1750,Asher & Moseley 2007; TITUS
+735,Luiseno,luis1253,1750,Asher & Moseley 2007; TITUS
+736,Cahuilla,cahu1264,1750,Asher & Moseley 2007; TITUS
+738,Tübatulabal,tuba1278,1750,Asher & Moseley 2007; TITUS
+739,Western Apache,west2615,1750,Asher & Moseley 2007; TITUS
+740,Mescalero-Chiricahua Apache,mesc1238,1750,Asher & Moseley 2007; TITUS
+741,Zuni,zuni1245,1750,Asher & Moseley 2007; TITUS
+742,Hopi,hopi1249,1750,Asher & Moseley 2007; TITUS
+743,Navajo,nava1243,1750,Asher & Moseley 2007; TITUS
+745,Jicarilla Apache,jica1244,1750,Asher & Moseley 2007; TITUS
+746,Mikasuki,mika1239,1750,Asher & Moseley 2007; TITUS
+747,Muskogean,musk1252,1750,TITUS
+748,Menominee,meno1252,1750,Asher & Moseley 2007; TITUS
+749,Ho-Chunk,hoch1243,1750,Asher & Moseley 2007; TITUS
+750,Shawnee,shaw1249,1750,Asher & Moseley 2007; TITUS
+751,Miami,miam1252,1750,Asher & Moseley 2007; TITUS
+752,Meskwaki,mesk1242,1750,Asher & Moseley 2007; TITUS,Polygon matches source in Asher & Moseley although this location does not match Glottolog or the description in Wikipedia.
+753,Wampano,wamp1250,1750,Asher & Moseley 2007; TITUS
+754,Mohegan-Montauk-Narragansett,mohe1244,1750,"Asher & Moseley 2007; Gamudze, Hadzata and King 2013"
+756,Southern Paiute,sout2969,1750,Asher & Moseley 2007; TITUS
+757,Chemehuevi,chem1251,1750,Asher & Moseley 2007; TITUS
+758,Ute,utee1244,1750,Asher & Moseley 2007; TITUS
+759,Havasupai-Walapai-Yavapai,hava1248,1750,Asher & Moseley 2007; TITUS
+760,Havasupai-Walapai-Yavapai,hava1248,1750,Asher & Moseley 2007; TITUS
+761,Havasupai-Walapai-Yavapai,hava1248,1750,Asher & Moseley 2007; TITUS
+762,Seri,seri1257,1750,Asher & Moseley 2007; TITUS
+763,Pima Bajo,pima1248,1750,Asher & Moseley 2007; TITUS
+764,Tohono O'odham,toho1245,1750,Asher & Moseley 2007; TITUS
+765,Cocopa,coco1261,1750,Asher & Moseley 2007; TITUS
+766,Mohave,moha1256,1750,Asher & Moseley 2007; TITUS
+767,Quechan,quec1382,1750,Asher & Moseley 2007; TITUS
+769,Ipai,ipai1240,1750,Asher & Moseley 2007; TITUS
+770,Paipai,paip1241,1750,Asher & Moseley 2007; TITUS
+771,Tipai,kumi1248,1750,TITUS
+773,Kiliwa,kili1268,1750,Asher & Moseley 2007; TITUS
+774,Ipai,ipai1240,1750,Asher & Moseley 2007; TITUS
+775,Ventureño,vent1242,1750,TITUS
+776,Etchemin,,1750,Asher & Moseley 2007; TITUS
+777,Carolinan Algonquian,caro1243,1750,Asher & Moseley 2007; TITUS
+778,Powhatan,powh1243,1750,Asher & Moseley 2007; TITUS
+780,Pericú,peri1250,1750,Asher & Moseley 2007
+781,Cochimí,coch1272,1750,Asher & Moseley 2007; TITUS
+782,Cochimí,coch1272,1750,Asher & Moseley 2007
+783,Cochimí,coch1272,1750,Asher & Moseley 2007
+784,Cochimí,coch1272,1750,Asher & Moseley 2007
+785,Maricopa,mari1440,1750,Asher & Moseley 2007; TITUS
+786,Monqui,monq1236,1750,Asher & Moseley 2007
+787,Guaicura,guai1237,1750,Asher & Moseley 2007
+788,Huchití,guai1237,1750,Asher & Moseley 2007
+789,Serrano,serr1255,1750,Asher & Moseley 2007; TITUS
+790,Na-Dené,atha1245,1750,TITUS
+791,Algic,algi1248,1750,TITUS
+792,Even,even1260,1750,Asher & Moseley 2007; TITUS
+794,Chukchi,chuk1273,1750,Asher & Moseley 2007; TITUS
+796,Southern Yukaghir,sout2750,1750,Asher & Moseley 2007; TITUS
+797,Nivkh,gily1242,1750,Asher & Moseley 2007; TITUS
+798,Koryak,kory1246,1750,Asher & Moseley 2007; TITUS
+799,Buryat (Russia),russ1264,1750,Asher & Moseley 2007; TITUS
+800,Bashkir,bash1264,1750,Asher & Moseley 2007; TITUS
+801,Evenki,even1259,1750,Asher & Moseley 2007; TITUS
+802,Ket,kett1243,1750,Asher & Moseley 2007; TITUS
+803,Nganasan,ngan1291,1750,Asher & Moseley 2007; TITUS
+804,Selkup,selk1253,1750,Asher & Moseley 2007; TITUS
+805,Shor,shor1247,1750,Asher & Moseley 2007; TITUS
+806,Skolt Sami,skol1241,1750,Asher & Moseley 2007; TITUS
+807,Kola Sami,kild1236,1750,Asher & Moseley 2007; TITUS
+808,Karelian,kare1335,1750,Asher & Moseley 2007; TITUS
+810,Tundra Nenets,nene1249,1750,Asher & Moseley 2007; TITUS
+811,Tundra Nenets,nene1249,1750,Asher & Moseley 2007; TITUS
+813,Khanty,khan1273,1750,Asher & Moseley 2007; TITUS
+814,Komi,komi1267,1750,Asher & Moseley 2007; TITUS
+815,Udmurt,udmu1245,1750,Asher & Moseley 2007; TITUS
+816,Chuvash,chuv1255,1750,Asher & Moseley 2007; TITUS
+817,Kalmyk,kalm1243,1750,Asher & Moseley 2007; TITUS
+818,Moksha,moks1248,1750,Asher & Moseley 2007; TITUS
+819,Erzya,erzy1239,1750,Asher & Moseley 2007; TITUS
+820,Tatar,tata1255,1750,Asher & Moseley 2007; TITUS
+821,Sakha,yaku1245,1750,Asher & Moseley 2007; TITUS
+822,Kyrgyz,kirg1245,1750,Asher & Moseley 2007; TITUS
+823,Oroch,oroc1248,1750,Asher & Moseley 2007; TITUS
+824,Udihe,udih1248,1750,Asher & Moseley 2007; TITUS
+825,Nanai,nana1257,1750,Asher & Moseley 2007; TITUS,Match with Glottolog is probably close enough for the region.
+826,Hakka Chinese,hakk1236,1750,TITUS
+827,Tibetan,tibe1272,1750,TITUS
+828,Mongolian (Khalkha),halh1238,1750,TITUS
+829,Peripheral Mongolian,peri1253,1750,TITUS
+830,Khamnigan Mongol,kham1281,1750,TITUS
+832,She,,1750,TITUS,The location given here does neither match Glottolog's point location for shee1238 nor Wikipedia's description as "two small pockets to the west and east of Huizhou City".
+833,Wu Chinese,wuch1236,1750,TITUS
+834,Wu Chinese,wuch1236,1750,TITUS
+835,Min Nan Chinese,minn1241,1750,TITUS
+836,East Yugur,east2337,1750,TITUS
+837,Salar,sala1264,1750,TITUS
+838,Sarikoli,sari1246,1750,TITUS
+839,Bouyei,bouy1240,1750,TITUS
+840,Sui,suii1243,1750,TITUS
+841,Mienic,mien1242,1750,TITUS
+842,Hmongic,hmon1337,1750,TITUS
+843,Hlai,hlai1239,1750,TITUS
+844,Nuosu,sich1238,1750,TITUS
+845,Naxi,naxi1245,1750,TITUS
+846,Lizu,lizu1234,1750,TITUS
+847,Bai,baic1239,1750,TITUS
+848,Jingpho,kach1280,1750,TITUS
+849,Yue Chinese,yuec1235,1750,TITUS
+850,Zhuang,nort3180,1750,TITUS
+851,Hani,hani1248,1750,TITUS
+852,Bunun,bunu1267,1750,TITUS
+853,Paiwan,paiw1248,1750,TITUS
+854,Amis,amis1246,1750,TITUS
+855,Atayal (Ci'uli),atay1247,1750,TITUS
+856,Atayal (Squliq),atay1247,1750,TITUS
+857,Seediq,taro1264,1750,TITUS
+858,Yami,yami1254,1750,TITUS
+859,Mandarin Chinese,mand1415,1750,TITUS
+860,Min Bei Chinese,minb1244,1750,TITUS
+861,Kannada,nucl1305,1750,TITUS
+862,Malayalam,mala1464,1750,TITUS
+863,Telugu,telu1262,1750,TITUS
+864,Tamil,tami1289,1750,TITUS
+866,Southeastern Kolami,sout1549,1750,TITUS
+867,Kui,kuii1252,1750,TITUS
+868,Duruwa,duru1236,1750,TITUS
+869,Pottangi Ollar Gadaba,pott1240,1750,TITUS
+870,Konda-Dora,kond1295,1750,TITUS
+871,Kurukh,kuru1302,1750,TITUS
+872,Hindi,hind1269,1750,TITUS
+873,Mundaic,mund1335,1750,TITUS
+874,Bhojpuri,bhoj1244,1750,TITUS
+875,Magahi,maga1260,1750,TITUS
+876,Central Dravidian,cent2227,1750,TITUS
+877,Khandesi,khan1272,1750,TITUS
+878,Leh Ladakhi,lada1244,1750,TITUS
+879,Shina,shin1264,1750,TITUS
+880,Burushaski,buru1296,1750,TITUS
+881,Indus Kohistani,indu1241,1750,TITUS
+882,Kullu Pahari,kull1236,1750,TITUS
+883,Dari,dari1249,1750,TITUS
+884,Yazgulyami,yazg1240,1750,TITUS
+885,Ishkashimi,ishk1246,1750,TITUS
+886,Ormuri,ormu1247,1750,TITUS
+887,Munji,munj1244,1750,TITUS
+888,Yidgha,yidg1240,1750,TITUS
+890,Plateau Malagasy,plat1254,1750,TITUS
+891,Afrikaans,afri1274,1750,TITUS
+892,Khoe-Kwadi,khoe1240,1750,Asher & Moseley 2007; TITUS
+893,Tswana,tswa1253,1750,Asher & Moseley 2007; TITUS
+895,Western Canadian Inuktitut,west2618,1750,Asher & Moseley 2007; TITUS
+896,Eastern Canadian Inuktitut,east2534,1750,TITUS
+897,Aleut,aleu1260,1750,Asher & Moseley 2007; TITUS
+898,East Greenlandic,tunu1234,1750,Asher & Moseley 2007; TITUS
+899,West Greenlandic,kala1399,1750,Asher & Moseley 2007; TITUS
+900,Swati,swat1243,1750,TITUS
+901,Taa-!Kwi,tuuu1241,1750,TITUS
+902,Southern Sotho,sout2807,1750,TITUS
+903,Kx'a,kxaa1236,1750,Asher & Moseley 2007; TITUS
+905,Cushitic,cush1243,1750,TITUS
+906,Somali,soma1255,1750,Asher & Moseley 2007; TITUS
+907,Oromoid,nucl1701,1750,Asher & Moseley 2007; TITUS
+908,Omotic,,1750,Asher & Moseley 2007; TITUS
+909,Amharic,amha1245,1750,Asher & Moseley 2007; TITUS
+910,Afar,afar1241,1750,Asher & Moseley 2007; TITUS
+911,Saho,saho1246,1750,Asher & Moseley 2007; TITUS
+912,Tigre,tigr1270,1750,Asher & Moseley 2007; TITUS
+913,Tigrinya,tigr1271,1750,Asher & Moseley 2007; TITUS
+914,Beja,beja1238,1750,Asher & Moseley 2007; TITUS
+915,Coptic,copt1239,1750,TITUS
+917,Berber,berb1260,1750,TITUS
+918,Arabic,arab1395,1750,TITUS
+919,Songhay,song1307,1750,TITUS
+922,Zaghawa,zagh1240,1750,Asher & Moseley 2007; TITUS
+924,Central Kanuri,cent2050,1750,Asher & Moseley 2007; TITUS
+925,Fur,furr1244,1750,TITUS
+927,Nubian,nubi1251,1750,TITUS
+928,Maban,maba1276,1750,Asher & Moseley 2007; TITUS
+933,Wolof,nucl1347,1750,Asher & Moseley 2007; TITUS
+935,Kikongo,koon1244,1750,Asher & Moseley 2007; TITUS
+936,Umbundu,umbu1257,1750,Asher & Moseley 2007; TITUS
+937,Kimbundu,kimb1241,1750,Asher & Moseley 2007; TITUS
+938,Bemba,bemb1257,1750,Asher & Moseley 2007; TITUS
+942,Banda-Yangere,band1348,1750,Asher & Moseley 2007; TITUS
+945,Vute,vute1244,1750,Asher & Moseley 2007; TITUS
+946,Chokwe,chok1245,1750,Asher & Moseley 2007; TITUS
+947,Luimbi,luim1238,1750,Asher & Moseley 2007; TITUS
+948,Luchazi,luch1239,1750,Asher & Moseley 2007; TITUS
+949,Luvale,luva1239,1750,Asher & Moseley 2007; TITUS
+950,Fwe,fwee1238,1750,Asher & Moseley 2007; TITUS
+951,Chitonga,tong1318,1750,Asher & Moseley 2007; TITUS
+952,Soli,soli1239,1750,Asher & Moseley 2007; TITUS
+953,Shanjo,shan1291,1750,Asher & Moseley 2007; TITUS
+954,Lenje,lenj1248,1750,Asher & Moseley 2007; TITUS
+955,Sala,sala1266,1750,Asher & Moseley 2007; TITUS
+956,Ila,ilaa1246,1750,Asher & Moseley 2007; TITUS
+960,Akan,akan1250,1750,Asher & Moseley 2007; TITUS
+962,Godié,godi1239,1750,Asher & Moseley 2007; TITUS
+963,Mooré,moss1236,1750,Asher & Moseley 2007; TITUS
+964,Herero,here1253,1750,Asher & Moseley 2007; TITUS
+965,Southern Grebo,sout2826,1750,Asher & Moseley 2007; TITUS
+966,Lundwe,lund1265,1750,Asher & Moseley 2007; TITUS
+967,Swahili,swah1253,1750,Asher & Moseley 2007; TITUS
+968,Shona,shon1251,1750,Asher & Moseley 2007; TITUS
+970,Lala-Bisa,lala1264,1750,Asher & Moseley 2007; TITUS
+971,Lamba,lamb1271,1750,Asher & Moseley 2007; TITUS
+972,Lala-Bisa,lala1264,1750,Asher & Moseley 2007; TITUS
+973,Lala-Bisa,lala1264,1750,Asher & Moseley 2007; TITUS
+974,Luyi,luya1241,1750,Asher & Moseley 2007; TITUS
+975,Kaonde,kaon1241,1750,Asher & Moseley 2007; TITUS
+976,Lunda,lund1266,1750,Asher & Moseley 2007; TITUS
+977,Tumbuka,tumb1250,1750,Asher & Moseley 2007; TITUS
+978,Tongwe,tong1320,1750,Asher & Moseley 2007; TITUS
+979,Luba-Katanga,luba1250,1750,Asher & Moseley 2007; TITUS
+980,Sena,nucl1396,1750,Asher & Moseley 2007; TITUS
+981,Tswa,tswa1255,1750,Asher & Moseley 2007; TITUS
+982,Zulu,zulu1248,1750,Asher & Moseley 2007; TITUS
+983,Ngoni,ngon1269,1750,Asher & Moseley 2007; TITUS
+984,Nyamwezi,nyam1276,1750,Asher & Moseley 2007; TITUS
+985,Venda,vend1245,1750,Asher & Moseley 2007; TITUS
+986,Kimbu,kimb1242,1750,Asher & Moseley 2007; TITUS
+987,Kota,kota1274,1750,Asher & Moseley 2007; TITUS
+988,Mbesa,mbes1238,1750,Asher & Moseley 2007; TITUS
+989,Ngando,ngan1302,1750,Asher & Moseley 2007; TITUS
+990,Mongo,mong1338,1750,Asher & Moseley 2007; TITUS
+991,Kinyarwanda,kiny1244,1750,Asher & Moseley 2007; TITUS
+992,Nyoro,nyor1246,1750,Asher & Moseley 2007; TITUS
+993,Konzo,konz1239,1750,Asher & Moseley 2007; TITUS
+994,Zande,zand1248,1750,Asher & Moseley 2007; TITUS
+995,Ndendeule,nden1249,1750,Asher & Moseley 2007; TITUS
+996,Bena (Tanzania),bena1262,1750,Asher & Moseley 2007; TITUS
+997,Bondei,bond1247,1750,TITUS
+998,Gogo,gogo1263,1750,Asher & Moseley 2007; TITUS
+999,Chimwera,mwer1248,1750,Asher & Moseley 2007; TITUS
+1000,Machinga,mach1265,1750,Asher & Moseley 2007; TITUS
+1001,Makonde,mako1251,1750,Asher & Moseley 2007; TITUS
+1002,Yao,yaoo1241,1750,Asher & Moseley 2007; TITUS
+1003,Hehe,hehe1240,1750,Asher & Moseley 2007; TITUS
+1004,Shambala,sham1280,1750,Asher & Moseley 2007; TITUS
+1005,Ngbaka Minagende,ngba1285,1750,Asher & Moseley 2007; TITUS
+1006,Ngbaka-Ma'bo,ngba1284,1750,Asher & Moseley 2007; TITUS
+1007,Ngbaka-Manza,ngba1287,1750,Asher & Moseley 2007; TITUS
+1008,Monzombo,monz1249,1750,Asher & Moseley 2007; TITUS
+1009,Mbanza,mban1263,1750,Asher & Moseley 2007; TITUS
+1010,Makhuwa,makh1264,1750,Asher & Moseley 2007; TITUS
+1011,Nyanja,nyan1308,1750,Asher & Moseley 2007; TITUS
+1012,Mono (Banda),mono1270,1750,Asher & Moseley 2007; TITUS
+1013,Bagirmi,bagi1246,1750,Asher & Moseley 2007; TITUS
+1014,Matumbi,matu1259,1750,Asher & Moseley 2007; TITUS
+1015,Vidunda,vidu1238,1750,Asher & Moseley 2007; TITUS
+1016,Masai,masa1300,1750,Asher & Moseley 2007; TITUS
+1017,Ndengereko,nden1248,1750,Asher & Moseley 2007; TITUS
+1018,Sagala,saga1256,1750,Asher & Moseley 2007; TITUS
+1019,Ewe,ewee1241,1750,Asher & Moseley 2007; TITUS
+1020,Fon,fonn1241,1750,Asher & Moseley 2007; TITUS
+1021,Ga,gaaa1244,1750,Asher & Moseley 2007; TITUS
+1022,Busa,busa1253,1750,Asher & Moseley 2007; TITUS
+1023,Idoma,idom1241,1750,Asher & Moseley 2007; TITUS
+1024,Nupe-Nupe-Tako,nupe1254,1750,Asher & Moseley 2007; TITUS
+1025,Gbari,gbar1246,1750,Asher & Moseley 2007; TITUS
+1026,Gbagyi,gbag1258,1750,Asher & Moseley 2007; TITUS
+1027,Yoruba,yoru1245,1750,Asher & Moseley 2007; TITUS
+1028,Bini,bini1246,1750,Asher & Moseley 2007; TITUS
+1029,Igbo,nucl1417,1750,Asher & Moseley 2007; TITUS
+1030,Biseni-Okordia,bise1239,1750,Asher & Moseley 2007; TITUS
+1031,Izon,izon1238,1750,Asher & Moseley 2007; TITUS
+1032,Kalabari,kala1381,1750,Asher & Moseley 2007; TITUS
+1033,Ibani,iban1261,1750,Asher & Moseley 2007; TITUS
+1034,Kirike,kiri1254,1750,Asher & Moseley 2007; TITUS
+1035,Tumulung Sisaala,tumu1242,1750,Asher & Moseley 2007; TITUS
+1036,Gourmanchéma,gour1243,1750,Asher & Moseley 2007; TITUS
+1037,Kusaal,kusa1250,1750,Asher & Moseley 2007; TITUS
+1038,Dagbani,dagb1246,1750,Asher & Moseley 2007; TITUS
+1039,Lama (Togo),lama1275,1750,Asher & Moseley 2007; TITUS
+1040,Baatonum,baat1238,1750,Asher & Moseley 2007; TITUS
+1041,Ngangam,ngan1299,1750,Asher & Moseley 2007; TITUS
+1042,Pular,pula1262,1750,Asher & Moseley 2007; TITUS
+1043,Sereer,sere1260,1750,Asher & Moseley 2007; TITUS
+1044,Klao,klao1243,1750,Asher & Moseley 2007; TITUS
+1045,Guere,guer1240,1750,Asher & Moseley 2007; TITUS
+1046,Bakwé,bakw1243,1750,Asher & Moseley 2007; TITUS
+1047,Bassa,nucl1418,1750,Asher & Moseley 2007; TITUS
+1048,Bandi,band1352,1750,Asher & Moseley 2007; TITUS
+1049,Liberia Kpelle,libe1247,1750,Asher & Moseley 2007; TITUS
+1050,Loma,loma1260,1750,Asher & Moseley 2007; TITUS
+1051,Mende,mend1266,1750,Asher & Moseley 2007; TITUS
+1052,Kuwaa,kuwa1247,1750,Asher & Moseley 2007; TITUS
+1053,Anii,anyi1245,1750,Asher & Moseley 2007; TITUS
+1054,Awutu,awut1241,1750,Asher & Moseley 2007; TITUS
+1055,Baoulé,baou1238,1750,Asher & Moseley 2007; TITUS
+1056,Nzima,nzim1238,1750,Asher & Moseley 2007; TITUS
+1057,Chumburung,chum1261,1750,Asher & Moseley 2007; TITUS
+1058,Akan,akan1250,1750,TITUS
+1059,Gonja,gonj1241,1750,Asher & Moseley 2007; TITUS
+1060,Abron,abro1238,1750,Asher & Moseley 2007; TITUS
+1061,Djimini Senoufo,djim1235,1750,Asher & Moseley 2007; TITUS
+1062,Nyarafolo Senoufo,nyar1245,1750,Asher & Moseley 2007; TITUS
+1063,Palaka Senoufo,pala1342,1750,Asher & Moseley 2007; TITUS
+1064,Senari,ceba1235,1750,Asher & Moseley 2007; TITUS
+1065,Tagwana Senoufo,tagw1240,1750,Asher & Moseley 2007; TITUS
+1066,Fe'fe',fefe1239,1750,Asher & Moseley 2007; TITUS
+1067,Efik,efik1245,1750,Asher & Moseley 2007; TITUS
+1068,Ibibio,ibib1240,1750,Asher & Moseley 2007; TITUS
+1069,Ejagham,ejag1239,1750,Asher & Moseley 2007; TITUS
+1070,Oroko,orok1266,1750,Asher & Moseley 2007; TITUS
+1071,Tunen,tune1261,1750,Asher & Moseley 2007; TITUS
+1072,Malba Birifor,malb1235,1750,Asher & Moseley 2007; TITUS
+1073,Obolo,obol1243,1750,Asher & Moseley 2007; TITUS
+1074,Bamun,bamu1253,1750,Asher & Moseley 2007; TITUS
+1075,Tuki,tuki1240,1750,Asher & Moseley 2007; TITUS
+1076,Mandinka,mand1436,1750,Asher & Moseley 2007; TITUS
+1077,Sankaran Maninka,sank1253,1750,Asher & Moseley 2007; TITUS
+1078,Soninke,soni1259,1750,Asher & Moseley 2007; TITUS
+1079,Supyire Senoufo,supy1237,1750,Asher & Moseley 2007; TITUS
+1080,Kasem,kase1253,1750,Asher & Moseley 2007; TITUS
+1081,Konni,konn1242,1750,TITUS
+1082,Chakali,chak1271,1750,Asher & Moseley 2007; TITUS
+1083,Buli (Ghana),buli1254,1750,Asher & Moseley 2007; TITUS
+1084,Téén,teen1242,1750,Asher & Moseley 2007; TITUS
+1085,Bondoukou Kulango,bond1246,1750,Asher & Moseley 2007; TITUS
+1086,Bouna Kulango,boun1243,1750,Asher & Moseley 2007; TITUS
+1087,Kuranko,kura1250,1750,Asher & Moseley 2007; TITUS
+1088,Konyanka Maninka,kony1250,1750,Asher & Moseley 2007; TITUS
+1089,Tera,tera1251,1750,Asher & Moseley 2007; TITUS
+1090,Bole,nucl1695,1750,Asher & Moseley 2007; TITUS
+1091,Bura-Pabir,bura1292,1750,Asher & Moseley 2007; TITUS
+1093,Ngambay,ngam1268,1750,Asher & Moseley 2007; TITUS
+1094,Kaba,kaba1281,1750,Asher & Moseley 2007; TITUS
+1095,Sara Kaba Náà,sara1321,1750,Asher & Moseley 2007; TITUS
+1096,Samburu,samb1315,1750,Asher & Moseley 2007; TITUS
+1097,Turkana,turk1308,1750,TITUS
+1098,Ganda,gand1255,1750,Asher & Moseley 2007; TITUS
+1099,Kamba (Kenya),kamb1297,1750,Asher & Moseley 2007; TITUS
+1100,Meru,meru1245,1750,Asher & Moseley 2007; TITUS
+1101,Fang,fang1246,1750,Asher & Moseley 2007; TITUS
+1102,Gbaya-Bossangoa,gbay1287,1750,Asher & Moseley 2007; TITUS
+1103,Northwest Gbaya,nort2775,1750,Asher & Moseley 2007; TITUS
+1104,Gbaya-Toongo,sout2785,1750,Asher & Moseley 2007; TITUS
+1105,Gbaya-Biyanda,sout2785,1750,Asher & Moseley 2007; TITUS
+1106,Kanembu,kane1243,1750,Asher & Moseley 2007; TITUS
+1107,Buduma,budu1265,1750,Asher & Moseley 2007; TITUS
+1108,Hausa,haus1257,1750,Asher & Moseley 2007; TITUS
+1109,Putai,puta1243,1750,Asher & Moseley 2007; TITUS
+1110,Bambara,bamb1269,1750,Asher & Moseley 2007; TITUS
+1111,Yalunka,yalu1240,1750,Asher & Moseley 2007; TITUS
+1112,Wojenaka,woje1238,1750,TITUS
+1113,Vai,vaii1241,1750,Asher & Moseley 2007; TITUS
+1114,Sherbro,sher1258,1750,TITUS
+1115,Susu,susu1250,1750,TITUS
+1116,Temne,timn1235,1750,Asher & Moseley 2007; TITUS
+1117,Southern Kisi,sout2778,1750,TITUS
+1118,Limba,limb1267,1750,Asher & Moseley 2007; TITUS
+1119,Dogon,dogo1299,1750,Asher & Moseley 2007; TITUS
+1120,Central Dagaare,sout2789,1750,Asher & Moseley 2007; TITUS
+1121,Nuni,nuni1253,1750,Asher & Moseley 2007; TITUS
+1122,Lyélé,lyel1241,1750,TITUS
+1123,Bimoba,bimo1239,1750,Asher & Moseley 2007; TITUS
+1124,Mampruli,mamp1244,1750,Asher & Moseley 2007; TITUS
+1125,Konkomba,konk1269,1750,Asher & Moseley 2007; TITUS
+1126,Dyula,dyul1238,1750,Asher & Moseley 2007; TITUS
+1127,Marka,mark1256,1750,Asher & Moseley 2007; TITUS
+1128,Mande Samo,mand1437,1750,Asher & Moseley 2007; TITUS
+1129,Southern Bobo Madaré,sout2840,1750,Asher & Moseley 2007; TITUS
+1130,Bomu,bomu1247,1750,Asher & Moseley 2007; TITUS
+1131,Bissa,biss1248,1750,Asher & Moseley 2007; TITUS
+1132,Tiv,tivv1240,1750,Asher & Moseley 2007; TITUS
+1133,Jukun Takum,juku1254,1750,Asher & Moseley 2007; TITUS
+1135,Tigon Mbembe,tigo1236,1750,Asher & Moseley 2007; TITUS
+1136,Kpan,kpan1246,1750,Asher & Moseley 2007; TITUS
+1137,TIikar,tika1246,1750,Asher & Moseley 2007; TITUS
+1138,Mambila,mamb1312,1750,Asher & Moseley 2007; TITUS
+1139,Bokoto,boko1261,1750,Asher & Moseley 2007; TITUS
+1140,Mbay,mbay1241,1750,Asher & Moseley 2007; TITUS
+1141,Mbum,mbum1254,1750,Asher & Moseley 2007; TITUS
+1142,Gbanu,gban1260,1750,Asher & Moseley 2007; TITUS
+1143,Bata,bata1314,1750,Asher & Moseley 2007; TITUS
+1144,Suma,suma1264,1750,Asher & Moseley 2007; TITUS
+1145,Marba,marb1239,1750,Asher & Moseley 2007; TITUS
+1146,Marba,marb1239,1750,Asher & Moseley 2007; TITUS
+1147,Musey,muse1242,1750,Asher & Moseley 2007; TITUS
+1148,Mesme,mesm1239,1750,Asher & Moseley 2007; TITUS
+1149,Kunama,kuna1268,1750,Asher & Moseley 2007; TITUS
+1150,Nilotic,nilo1247,1750,Asher & Moseley 2007; TITUS
+1151,Surmic,surm1244,1750,Asher & Moseley 2007; TITUS
+1152,Ethiopic,ethi1244,1750,Asher & Moseley 2007; TITUS
+1153,Ilwana,ilwa1237,1750,Asher & Moseley 2007; TITUS
+1154,Pokomo,poko1261,1750,Asher & Moseley 2007; TITUS
+1155,Mijikenda,miji1238,1750,Asher & Moseley 2007; TITUS
+1156,Seuta,seut1234,1750,Asher & Moseley 2007; TITUS
+1157,Ruvu,ruvu1235,1750,Asher & Moseley 2007; TITUS
