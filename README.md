@@ -1,16 +1,18 @@
-# Glottography dataset derived from the Geographical Presences in the Diachronic Atlas of Comparative Linguistics
+# Glottography dataset derived from the Geographical Presences in the DiACL/TITUS Polygon Archive
 
-[![CLDF validation](https://github.com/glottography/carling2025diacl/workflows/CLDF-validation/badge.svg)](https://github.com/glottography/carling2025diacl/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/Glottography/carling2025diacl/workflows/CLDF-validation/badge.svg)](https://github.com/Glottography/carling2025diacl/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Carling, Gerd (ed.) 2025. Diachronic Atlas of Comparative Linguistics Online. Frankfurt am Main: Goethe University. (URL: https://diacl.uni-frankfurt.de/. Accessed on: date.).
+  > Carling, Gerd & Jost Gippert (eds.) 2025. DiACL/TITUS Polygon Archive. Frankfurt am Main: Goethe University (URL: https://diacl.uni-frankfurt.de/GeographicalPresence/Index)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
+
+See https://compling.eu/polygon-data/
 
 This dataset is licensed under a CC-BY-4.0 license
 

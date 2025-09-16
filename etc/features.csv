@@ -138,7 +138,7 @@ id,name,glottocode,year,map_name_full,comment
 199,Kuruáya,kuru1309,1750,TITUS
 200,Emerillon,emer1243,1750,TITUS
 201,Guajajára,guaj1255,1750,TITUS
-202,Jurúna,juru1256,1750,TITUS
+202,Jurúna,juru1256,1750,TITUS,language with several dialects
 203,Kamayurá,kama1373,1750,TITUS
 204,Kayabí,kaya1329,1750,TITUS
 205,Mundurukú,mund1330,1750,TITUS
@@ -218,7 +218,7 @@ id,name,glottocode,year,map_name_full,comment
 280,Xerente,xere1240,1750,TITUS
 281,Paunaca,paun1241,1750,TITUS
 282,Sabané,saba1268,1750,TITUS
-283,Cinta Larga,cint1239,1750,TITUS
+283,Cinta Larga,cint1239,1750,TITUS,described as a dialect cluster
 284,Awetí,awet1244,1750,TITUS
 285,Cashibo-Cacataibo,cash1251,1750,TITUS
 286,Marawan,mara1408,1750,TITUS
@@ -312,21 +312,21 @@ id,name,glottocode,year,map_name_full,comment
 375,Wirina,uiri1238,1750,TITUS
 376,Apolista,apol1242,1750,TITUS
 377,Araua,arua1264,1750,TITUS
-378,Mapidian,mapi1252,1750,TITUS
+378,Mapidian,mapi1252,1750,TITUS,"Location fits the description 'ethnic Wai-wai and Tiriyó villages in Brazil, Guyana and Suriname' given in Wikioedia."
 379,Yine,yine1238,1750,TITUS
 380,Pasé,pass1250,1750,TITUS
 381,Cayuishana,kais1242,1750,TITUS
 382,Waurá,waur1244,1750,TITUS
-383,Waraicu,arai1239,1750,TITUS
+383,Waraicu,arai1239,1750,TITUS,poorly attested; unclear where location info in TITUS comes from
 384,Katukina,katu1274,1750,TITUS
 385,Arauá,arua1263,1750,TITUS
 386,Marawa,mara1409,1750,TITUS
 387,Matsés,mats1244,1750,TITUS
-388,Catuqina do Acre,kana1291,1750,TITUS
+388,Catuqina do Acre,kana1291,1750,TITUS,language with several dialects
 389,Itonama,iton1250,1750,TITUS
 390,Cavineña,cavi1250,1750,TITUS
 391,Chácobo,chac1251,1750,TITUS
-392,Kashinawá,cash1254,1750,TITUS
+392,Kashinawá,cash1254,1750,TITUS,language with several dialects
 393,Pacahuara,paca1246,1750,TITUS
 394,Yaminahua,yami1256,1750,TITUS
 395,Amahuaca,amah1246,1750,TITUS
@@ -368,7 +368,7 @@ id,name,glottocode,year,map_name_full,comment
 431,Kamsá,cams1241,1750,TITUS
 432,Andoquí,anda1286,1750,TITUS
 433,Quingnam,quig1235,1750,TITUS
-434,Muchik,moch1259,1750,TITUS
+434,Muchik,moch1259,1750,TITUS,The northerly location given here somewhat overlaps with areas described as influenced by the Moche culture (https://en.wikipedia.org/wiki/Moche_culture). But most information points to a more southerly location such as given by Glottolog.
 435,Sec,secc1234,1750,TITUS
 436,Muniche,muni1258,1750,TITUS
 437,Hibito-Cholón,hibi1242,1750,TITUS
@@ -396,7 +396,7 @@ id,name,glottocode,year,map_name_full,comment
 461,Yuri,juri1235,1750,TITUS
 462,Wainuma,wain1249,1750,TITUS
 463,Guarú,guar1294,1750,TITUS
-464,Yanomám,yano1262,1750,TITUS
+464,Yanomám,yano1262,1750,TITUS,language with several dialects
 465,Capón,,1750,TITUS
 466,Nahukuá,nahu1343,1750,TITUS
 467,Southern Nambikuára,sout2994,1750,TITUS
@@ -514,7 +514,7 @@ id,name,glottocode,year,map_name_full,comment
 587,Severn Ojibwa,seve1240,1750,Asher & Moseley 2007; TITUS
 588,Western Ojibwa,west1510,1750,Asher & Moseley 2007
 589,Central Ojibwa,cent2136,1750,Asher & Moseley 2007; TITUS
-590,Plains Cree,plai1258,1750,Asher & Moseley 2007; TITUS
+590,Plains Cree,plai1258,1750,Asher & Moseley 2007; TITUS,language with several dialects
 591,Woods Cree,wood1236,1750,Asher & Moseley 2007; TITUS
 592,Montagnais,mont1268,1750,Asher & Moseley 2007; TITUS
 593,Naskapi,nask1242,1750,Asher & Moseley 2007; TITUS
@@ -752,7 +752,7 @@ id,name,glottocode,year,map_name_full,comment
 837,Salar,sala1264,1750,TITUS
 838,Sarikoli,sari1246,1750,TITUS
 839,Bouyei,bouy1240,1750,TITUS
-840,Sui,suii1243,1750,TITUS
+840,Sui,suii1243,1750,TITUS,language with several dialects
 841,Mienic,mien1242,1750,TITUS
 842,Hmongic,hmon1337,1750,TITUS
 843,Hlai,hlai1239,1750,TITUS

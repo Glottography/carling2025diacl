@@ -69,7 +69,7 @@ class Dataset(pyglottography.Dataset):
                 feature = load(geojson_path)
                 if geojson_path.stat().st_size > 1000000:
                     feature['geometry'] = simplify(shape(feature['geometry']), tolerance=0.005).__geo_interface__
-                #shapely_fixed_geometry(feature)
+                shapely_fixed_geometry(feature)
                 del feature['crs']
                 if 'bbox' in feature['geometry']:
                     del feature['geometry']['bbox']

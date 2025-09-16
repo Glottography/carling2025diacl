@@ -1,0 +1,8 @@
+{
+    "id": "carling2025diacl",
+    "title": "Glottography dataset derived from the Geographical Presences in the DiACL/TITUS Polygon Archive",
+    "description": "See https://compling.eu/polygon-data/",
+    "license": "CC-BY-4.0",
+    "url": "https://diacl.uni-frankfurt.de/GeographicalPresence/Index",
+    "citation": "Carling, Gerd & Jost Gippert (eds.) 2025. DiACL/TITUS Polygon Archive. Frankfurt am Main: Goethe University (URL: https://diacl.uni-frankfurt.de/GeographicalPresence/Index)"
+}
