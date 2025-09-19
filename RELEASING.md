@@ -40,8 +40,8 @@ We
   Glottolog location using the `cldfbench geojson.glottolog_distance` command, outputting the results
   as TSV, then
 - reformat as CSV
-- select only rows with distances greater than 2 grid units (corresponding to about 200km close to 
-  the equator)
+- select only rows with distances greater than 2 grid units in the lat/lon coordinate system 
+  (corresponding to about 220km close to the equator)
 - join data about [outliers with known explanations](etc/known_outliers.csv) and
 - filter these out
 - sort by Distance and format the result suitable as input for `termgraph`
