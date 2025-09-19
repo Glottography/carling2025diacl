@@ -1,9 +1,12 @@
 """
 """
+import typing
 import pathlib
+import collections
 import urllib.parse
 import urllib.request
 
+from pyglottography.dataset import Feature, FeatureSpec
 from shapely import simplify
 from shapely.geometry import shape
 import pyglottography
@@ -12,41 +15,40 @@ from clldutils.jsonlib import load, dump
 from cldfgeojson.create import feature_collection, shapely_fixed_geometry
 
 SOURCES = {
-    10731: 'Glottolog',
-    1: 'Asher & Moseley 2007',
-    2: 'MML 2015',
-    6: 'BFS 2005',
-    3453: 'Asher & Moseley 2007',
-    3451: 'TITUS',
-    5617: 'Gamudze, Hadzata and King 2013',
+    10731: None,  # Only point coordinates are taken from Glottolog
+    1: 'asher_moseley_2007',
+    2: 'mml2015',
+    6: 'bfs2005',
+    3453: 'asher_moseley_2007',
+    3451: 'titus',
+    5617: None,  # Wrong assignment of a source on Papua New Guinea to a North-American language.
+}
+GC_CORRECTIONS = {
+    'Ossetian (Iron)': 'iron1242',
+    'Otomaco': 'otom1301',
+    'Mazahua': 'cent2144',
+    'Anii': 'anyi1245',
+    'Burunge': 'buru1320',
 }
 
 
 class Dataset(pyglottography.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "carling2025diacl"
-    #_buffer = None
 
     def get(self, url, refresh=False):
         url = 'https://diacl.uni-frankfurt.de/' + url
         purl = urllib.parse.urlparse(url)
         path = self.raw_dir / purl.path.lstrip("/")
         path.parent.mkdir(parents=True, exist_ok=True)
-        if refresh or (not path.exists()):
-            if not refresh:
-                print(path)
-            try:
-                urllib.request.urlretrieve(url, path)
-            except:
-                print('---', path)
-                pass
+        #if refresh or (not path.exists()):
+        #    urllib.request.urlretrieve(url, path)
         return path
 
     def cmd_download(self, args):
-        srcss = {int(r['id']): r for r in self.raw_dir.read_csv('sources.csv', dicts=True)}
         geofeatures, mdfeatures = [], []
         for i, lg in enumerate(reader(self.get('Language/CSV/List', refresh=True), delimiter=';', dicts=True)):
-            md = load(self.get('Language/JSON/' + lg['LanguageId'], refresh=True))#True))
+            md = load(self.get('Language/JSON/' + lg['LanguageId'], refresh=True))
             tfs = sorted({(gpmd['TimeFrame']['From'], gpmd['TimeFrame'].get('Until')) for gpmd in
                    md['GeographicalPresences'].values()}, reverse=True)
             if len(md['GeographicalPresences']) > 1:  # All presences pertain to the same timeframe.
@@ -60,12 +62,10 @@ class Dataset(pyglottography.Dataset):
                     assert tfs[0][0] <= 1750 <= (tfs[0][1] or 2000), lg['Name']
                     year = 1750
                 for d in gpmd['SourceReferences']:
-                    for sid in {d['FkSourceId']} if isinstance(d['FkSourceId'], int) else set(d['FkSourceId']):
-                        assert sid in srcss
                     sources |= {d['FkSourceId']} if isinstance(d['FkSourceId'], int) else set(d['FkSourceId'])
-                sources = [SOURCES[s] for s in sources]
-                sources = '; '.join(sorted(sources))
-                geojson_path = self.get('GeographicalPresence/GeoJSON/' + gpid)
+                sources = [SOURCES[s] for s in sources if SOURCES[s]]
+                sources = ' '.join(sorted(sources))
+                geojson_path = self.get('GeographicalPresence/GeoJSON/' + gpid, refresh=True)
                 feature = load(geojson_path)
                 if geojson_path.stat().st_size > 1000000:
                     feature['geometry'] = simplify(shape(feature['geometry']), tolerance=0.005).__geo_interface__
@@ -76,19 +76,23 @@ class Dataset(pyglottography.Dataset):
                 feature['properties'].update(
                     name=lg['Name'], year=year, id=gpid, map_name_full=sources)
                 geofeatures.append(feature)
-                mdfeatures.append(dict(
-                    name=lg['Name'],
-                    year=year,
-                    id=gpid,
-                    glottocode=lg['Glottocode'],
-                    map_name_full=sources))
+                mdfeatures.append(collections.OrderedDict([
+                    ('id', gpid),
+                    ('name', lg['Name']),
+                    ('glottocode', GC_CORRECTIONS.get(lg['Name'], lg['Glottocode'])),
+                    ('year', year),
+                    ('map_name_full', sources),
+                ]))
 
-        #
-        # FIXME: Add source metadata - or URL to DIACL website? https://diacl.uni-frankfurt.de/Source/Details/3451
-        #
         dump(feature_collection(geofeatures), self.raw_dir / 'dataset.geojson')
-        cols = ['id', 'name', 'glottocode', 'year', 'map_name_full']
-        with UnicodeWriter('f.csv') as writer:
-            writer.writerow(cols)
-            for feature in sorted(mdfeatures, key=lambda f: int(f['id'])):
-                writer.writerow([feature[col] for col in cols])
+        with UnicodeWriter(self.etc_dir / 'features.csv') as writer:
+            writer.writerows(sorted(mdfeatures, key=lambda f: int(f['id'])))
+
+    def make_contribution(self,
+                          pid: str,
+                          gc: typing.Optional[str],
+                          f: Feature,
+                          fmd: FeatureSpec) -> dict:
+        res = pyglottography.Dataset.make_contribution(self, pid, gc, f, fmd)
+        res['Source'] = res['Source'] + f.properties['map_name_full'].split()
+        return res

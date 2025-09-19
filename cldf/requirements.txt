@@ -16,7 +16,7 @@ click==8.1.7
 clldutils==3.24.1
 colorama==0.4.6
 colorlog==6.9.0
-csvw==3.5.1
+csvw==3.6.0
 gitdb==4.0.11
 greenlet==3.1.1
 idna==3.10
@@ -50,6 +50,7 @@ referencing==0.35.1
 requests==2.32.3
 rfc3986==1.5.0
 shapely==2.0.6
+simplepybtex==0.1.0
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.6

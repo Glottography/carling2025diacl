@@ -6,117 +6,92 @@
 cldfbench download cldfbench_carling2025diacl.py
 ```
 
+
 ## Recreate the CLDF data
 
 ```shell
 cldfbench makecldf cldfbench_carling2025diacl.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_carling2025diacl.py
-cldfbench zenodo cldfbench_carling2025diacl.py
+cldfbench zenodo --communities glottography cldfbench_carling2025diacl.py
 cldfbench readme cldfbench_carling2025diacl.py
 ```
 
 ## Validation
 
+Make sure the CLDF dataset is valid:
+
 ```shell
 cldf validate cldf
 ```
+
+Make sure the GeoJSON data contains only valid (Multi)Polygon shapes:
 
 ```shell
 cldfbench geojson.validate cldf
 ```
 
+The agreement with the point locations for languages given in Glottolog can be checked as follows.
+Note that this requires the [csvkit](https://csvkit.readthedocs.io/en/latest/index.html) and
+[termgraph](https://github.com/mkaz/termgraph) commands to be installed and the 
+[Glottolog data repository](https://github.com/glottolog/glottolog) to be available locally.
+
+We 
+- compute the distances between polygon features in the language-level GeoJSON and the corresponding
+  Glottolog location using the `cldfbench geojson.glottolog_distance` command, outputting the results
+  as TSV, then
+- reformat as CSV
+- select only rows with distances greater than 2 grid units (corresponding to about 200km close to 
+  the equator)
+- join data about outliers with known explanations and
+- filter these out
+- sort by Distance and format the result suitable as input for `termgraph`
+- pipe the data into `termgraph`
+
 ```shell
-cldfbench geojson.glottolog_distance cldf --format tsv | csvformat -t | csvgrep -c Distance -r"^0\.?" -i | csvsort -c Distance | csvcut -c ID,Distance | csvformat -E | termgraph
+cldfbench geojson.glottolog_distance cldf --glottolog ../../glottolog/glottolog --glottolog-version v5.2 --format tsv | \
+csvformat -t | \
+csvgrep -c Distance -r"^[01]\.?" -i | \
+csvjoin --left -c ID,Glottocode - etc/known_outliers.csv | \
+csvgrep -i -c Comment -r".+" | \
+csvsort -c Distance | \
+csvcut -c ID,Distance | \
+csvformat -E | \
+termgraph
 ```
 
 ```
-mara1409: ▇▇▇▇▇▇▇ 1.01 
-muni1258: ▇▇▇▇▇▇▇ 1.03 
-mong1338: ▇▇▇▇▇▇▇ 1.05 
-pait1247: ▇▇▇▇▇▇▇ 1.05 
-iris1253: ▇▇▇▇▇▇▇ 1.05 
-pank1250: ▇▇▇▇▇▇▇ 1.06 
-leco1242: ▇▇▇▇▇▇▇ 1.07 
-yine1238: ▇▇▇▇▇▇▇ 1.09 
-pira1253: ▇▇▇▇▇▇▇ 1.09 
-cham1318: ▇▇▇▇▇▇▇ 1.11 
-sius1254: ▇▇▇▇▇▇▇▇ 1.14 
-kuii1252: ▇▇▇▇▇▇▇▇ 1.14 
-tere1279: ▇▇▇▇▇▇▇▇ 1.15 
-puru1264: ▇▇▇▇▇▇▇▇ 1.16 
-kwaz1243: ▇▇▇▇▇▇▇▇ 1.18 
-wich1260: ▇▇▇▇▇▇▇▇ 1.21 
-tswa1255: ▇▇▇▇▇▇▇▇ 1.22 
-matt1238: ▇▇▇▇▇▇▇▇ 1.24 
-macu1260: ▇▇▇▇▇▇▇▇ 1.25 
-nucl1418: ▇▇▇▇▇▇▇▇▇ 1.25 
-kuru1301: ▇▇▇▇▇▇▇▇▇ 1.26 
-guam1248: ▇▇▇▇▇▇▇▇▇ 1.26 
-lule1238: ▇▇▇▇▇▇▇▇▇ 1.28 
-yaqu1251: ▇▇▇▇▇▇▇▇▇ 1.29 
-nask1242: ▇▇▇▇▇▇▇▇▇ 1.30 
-west2630: ▇▇▇▇▇▇▇▇▇ 1.31 
-tuyu1244: ▇▇▇▇▇▇▇▇▇ 1.31 
-para1299: ▇▇▇▇▇▇▇▇▇ 1.38 
-call1235: ▇▇▇▇▇▇▇▇▇▇ 1.39 
-sali1298: ▇▇▇▇▇▇▇▇▇▇ 1.43 
-geic1236: ▇▇▇▇▇▇▇▇▇▇ 1.43 
-tong1320: ▇▇▇▇▇▇▇▇▇▇ 1.43 
-desa1247: ▇▇▇▇▇▇▇▇▇▇ 1.44 
-nort2959: ▇▇▇▇▇▇▇▇▇▇ 1.48 
-uain1239: ▇▇▇▇▇▇▇▇▇▇ 1.49 
-sout2750: ▇▇▇▇▇▇▇▇▇▇ 1.50 
-uiri1238: ▇▇▇▇▇▇▇▇▇▇ 1.51 
-urup1245: ▇▇▇▇▇▇▇▇▇▇▇ 1.53 
-gaga1249: ▇▇▇▇▇▇▇▇▇▇▇ 1.54 
-yalu1240: ▇▇▇▇▇▇▇▇▇▇▇ 1.55 
-jica1244: ▇▇▇▇▇▇▇▇▇▇▇ 1.55 
-east2337: ▇▇▇▇▇▇▇▇▇▇▇ 1.55 
-cube1242: ▇▇▇▇▇▇▇▇▇▇▇ 1.55 
-nort2945: ▇▇▇▇▇▇▇▇▇▇▇ 1.61 
-amah1246: ▇▇▇▇▇▇▇▇▇▇▇ 1.64 
-afri1274: ▇▇▇▇▇▇▇▇▇▇▇ 1.64 
-shan1291: ▇▇▇▇▇▇▇▇▇▇▇ 1.66 
-puin1248: ▇▇▇▇▇▇▇▇▇▇▇▇ 1.67 
-tatu1247: ▇▇▇▇▇▇▇▇▇▇▇▇ 1.71 
-paun1241: ▇▇▇▇▇▇▇▇▇▇▇▇ 1.72 
-suya1243: ▇▇▇▇▇▇▇▇▇▇▇▇ 1.72 
-wiyo1248: ▇▇▇▇▇▇▇▇▇▇▇▇ 1.72 
-rikb1245: ▇▇▇▇▇▇▇▇▇▇▇▇ 1.76 
-saba1268: ▇▇▇▇▇▇▇▇▇▇▇▇▇ 1.81 
-inap1242: ▇▇▇▇▇▇▇▇▇▇▇▇▇ 1.87 
-yami1256: ▇▇▇▇▇▇▇▇▇▇▇▇▇ 1.89 
-paca1246: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 1.95 
-swah1253: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 1.99 
-ikpe1245: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.06 
-mara1408: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.14 
-lizu1234: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.16 
-west2386: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.16 
-suii1243: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.27 
-guan1268: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.32 
-cree1270: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.36 
-chey1247: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.38 
-miam1252: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.48 
-cint1239: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.62 
-djeo1235: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.73 
-juru1256: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.74 
-mapi1252: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.75 
-moch1259: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.76 
-cash1254: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.80 
-arai1239: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.00 
-yano1262: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.21 
-plai1258: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.24 
-kana1291: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.27 
-sant1432: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.27 
-pota1247: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.65 
-pula1262: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.67 
-konk1267: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.81 
-nana1257: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.84 
-mesk1242: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.97 
-nhen1239: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4.12 
-sheb1234: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4.12 
-urdu1245: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4.24 
-nort2943: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 5.74 
-koas1236: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 6.26 
-alab1237: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 6.92 
+mara1408: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.14 
+lizu1234: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.16 
+west2386: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.16 
+suii1243: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.27 
+cree1270: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.36 
+chey1247: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.38 
+miam1252: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.48 
+cint1239: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.62 
+djeo1235: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.73 
+cash1254: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 2.80 
+arai1239: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.00 
+yano1262: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.21 
+plai1258: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.24 
+sant1432: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.27 
+pota1247: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.65 
+pula1262: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.67 
+nana1257: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.84 
+mesk1242: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 3.97 
+shee1238: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4.58 
 ```
+
+To get a better idea of the languages and distances, we can render the areas and Glottolog locations
+as [GeoJSON file](etc/outliers.geojson) using the command below. This file can be inspected e.g. 
+using the https://geojson.io/ service.
+
+```shell
+cldfbench geojson.glottolog_distance cldf --glottolog ../../glottolog/glottolog --glottolog-version v5.2 --format tsv | \
+csvformat -t | csvgrep -c Distance -r"^[01]\.?" -i | \
+csvjoin --left -c ID,Glottocode - etc/known_outliers.csv | csvgrep -i -c Comment -r".+" | \
+csvcut -c ID | cldfbench geojson.geojson cldf - > etc/outliers.geojson
+```
+
+This inspection reveals that the majority of the outliers correspond to North American languages where
+Glottolog locations often reflect today's reservations or poorly attested South American languages
+where not much is known at all.

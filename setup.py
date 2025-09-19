@@ -20,6 +20,7 @@ setup(
         ]
     },
     install_requires=[
+        'csvw>=3.6',
         'pyglottography',
     ],
     extras_require={

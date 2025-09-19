@@ -10,6 +10,7 @@
     "dc:description": "See https://compling.eu/polygon-data/",
     "dc:identifier": "https://diacl.uni-frankfurt.de/GeographicalPresence/Index",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:spatial": "westlimit=-180.1; southlimit=-55.8; eastlimit=180.1; northlimit=80.9",
     "dc:title": "Glottography dataset derived from the Geographical Presences in the DiACL/TITUS Polygon Archive",
     "dcat:accessURL": "https://github.com/Glottography/carling2025diacl",
@@ -17,7 +18,7 @@
         {
             "rdf:about": "https://github.com/Glottography/carling2025diacl",
             "rdf:type": "prov:Entity",
-            "dc:created": "fd0fcce",
+            "dc:created": "3d14a95",
             "dc:title": "Repository"
         },
         {
@@ -96,7 +97,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1063,
+            "dc:extent": 909,
             "tableSchema": {
                 "columns": [
                     {
@@ -276,9 +277,23 @@
                         "name": "Source"
                     },
                     {
-                        "dc:description": "Features are linked to GeoJSON files that store the geo data.",
+                        "dc:description": "Contributions of type 'feature' are linked to GeoJSON files that store the geo data.  can be related to various kinds of media. Contributions of type 'map' are linked to the corresponding scans of maps and geo-data derived from these.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
-                        "name": "Media_ID"
+                        "separator": " ",
+                        "name": "Media_IDs"
+                    },
+                    {
+                        "dc:description": "There are two types of contributions: Individual geo-features as depicted in the source and images of maps.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "map|feature"
+                        },
+                        "name": "Type"
+                    },
+                    {
+                        "dc:description": "Contributions of type 'feature' may link to the map on which they appear.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Map_ID"
                     },
                     {
                         "dc:description": "Name of the map as given in the source publication.",
@@ -288,10 +303,21 @@
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Media_ID"
+                            "Media_IDs"
                         ],
                         "reference": {
                             "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Map_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]

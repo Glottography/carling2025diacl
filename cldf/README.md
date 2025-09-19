@@ -4,6 +4,8 @@
 
 **CLDF Metadata**: [Generic-metadata.json](./Generic-metadata.json)
 
+**Sources**: [sources.bib](./sources.bib)
+
 See https://compling.eu/polygon-data/
 
 property | value
@@ -14,7 +16,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | westlimit=-180.1; southlimit=-55.8; eastlimit=180.1; northlimit=80.9
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Glottography/carling2025diacl
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/carling2025diacl/tree/fd0fcce">Glottography/carling2025diacl fd0fcce</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/carling2025diacl/tree/3d14a95">Glottography/carling2025diacl 3d14a95</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | carling2025diacl
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -44,7 +46,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1063
+[dc:extent](http://purl.org/dc/terms/extent) | 909
 
 
 ### Columns
@@ -84,7 +86,9 @@ Name/Property | Datatype | Description
 [Citation](http://cldf.clld.org/v1.0/terms.rdf#citation) | `string` | 
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string`<br>Regex: `[a-z0-9]{4}[1-9][0-9]{3}` | References a Glottolog languoid most closely matching the linguistic entity described by the feature.
 [Year](http://purl.org/dc/terms/temporal) | `string`<br>Regex: `[0-9]{3,4}|traditional` | The time period to which the feature relates, specified as year AD or with the keyword 'traditional', meaning either the time of contact with European maritime powers or period when an ancient language was spoken.
-[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | 
-[Media_ID](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | Features are linked to GeoJSON files that store the geo data.<br>References [media.csv::ID](#table-mediacsv)
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+[Media_IDs](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | list of `string` (separated by ` `) | Contributions of type 'feature' are linked to GeoJSON files that store the geo data.  can be related to various kinds of media. Contributions of type 'map' are linked to the corresponding scans of maps and geo-data derived from these.<br>References [media.csv::ID](#table-mediacsv)
+`Type` | `string`<br>Valid choices:<br> `map` `feature` | There are two types of contributions: Individual geo-features as depicted in the source and images of maps.
+[Map_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | Contributions of type 'feature' may link to the map on which they appear.<br>References [contributions.csv::ID](#table-contributionscsv)
 `Map_Name` | `string` | Name of the map as given in the source publication.
 

@@ -14,5 +14,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Carling, Gerd &amp; Jost Gippert (eds.) 2025. DiACL/TITUS Polygon Archive. Frankfurt am Main: Goethe University (URL: https://diacl.uni-frankfurt.de/GeographicalPresence/Index)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ]
 }
