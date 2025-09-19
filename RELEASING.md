@@ -42,7 +42,7 @@ We
 - reformat as CSV
 - select only rows with distances greater than 2 grid units (corresponding to about 200km close to 
   the equator)
-- join data about outliers with known explanations and
+- join data about [outliers with known explanations](etc/known_outliers.csv) and
 - filter these out
 - sort by Distance and format the result suitable as input for `termgraph`
 - pipe the data into `termgraph`
