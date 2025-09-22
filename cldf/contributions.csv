@@ -1,1067 +1,1068 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_ID,Map_Name
-360,Aikanã,,,,aika1237,1750,carling2025diacl;titus,features,,,titus
-262,Palikúr,,,,,1750,carling2025diacl;titus,features,,,titus
-371,Baré,,,,,1750,carling2025diacl;titus,features,,,titus
-265,Arawak,,,,,1750,carling2025diacl;titus,features,,,titus
-499,Garifúna,,,,,1750,carling2025diacl;titus,features,,,titus
-343,Paraujano,,,,,1750,carling2025diacl;titus,features,,,titus
-267,Wayuu,,,,,1750,carling2025diacl;titus,features,,,titus
-344,Wapishana,,,,,1750,carling2025diacl;titus,features,,,titus
-342,Baniwa,,,,,1750,carling2025diacl;titus,features,,,titus
-266,Achagua,,,,,1750,carling2025diacl;titus,features,,,titus
-306,Piapoco,,,,,1750,carling2025diacl;titus,features,,,titus
-372,Cauixána,,,,,1750,carling2025diacl;titus,features,,,titus
-336,Machiguenga,,,,,1750,carling2025diacl;titus,features,,,titus
-337,Nomatsiguenga,,,,,1750,carling2025diacl;titus,features,,,titus
-301,Parecís,,,,,1750,carling2025diacl;titus,features,,,titus
-373,Yawalapití,,,,,1750,carling2025diacl;titus,features,,,titus
-382,Waurá,,,,,1750,carling2025diacl;titus,features,,,titus
-440,Baure,,,,baur1253,1750,carling2025diacl;titus,features,,,titus
-244,Ignaciano,,,,,1750,carling2025diacl;titus,features,,,titus
-425,Terêna,,,,,1750,carling2025diacl;titus,features,,,titus
-338,Apurinã,,,,,1750,carling2025diacl;titus,features,,,titus
-370,Iñapari,,,,,1750,carling2025diacl;titus,features,,,titus
-379,Yine,,,,,1750,carling2025diacl;titus,features,,,titus
-318,Chamicuro,,,,,1750,carling2025diacl;titus,features,,,titus
-339,Yanesha',,,,,1750,carling2025diacl;titus,features,,,titus
-855,Atayal (Ci'uli),,,,atay1247,1750,carling2025diacl;titus,features,,,titus
-856,Atayal (Squliq),,,,atay1247,1750,carling2025diacl;titus,features,,,titus
-857,Seediq,,,,taro1264,1750,carling2025diacl;titus,features,,,titus
-852,Bunun,,,,bunu1267,1750,carling2025diacl;titus,features,,,titus
-854,Amis,,,,amis1246,1750,carling2025diacl;titus,features,,,titus
-858,Yami,,,,yami1254,1750,carling2025diacl;titus,features,,,titus
-853,Paiwan,,,,paiw1248,1750,carling2025diacl;titus,features,,,titus
-221,Aymara,,,,,1750,carling2025diacl;titus,features,,,titus
-57,Basque (East),,,,,1750,carling2025diacl;titus,features,,,titus
-58,Basque (West),,,,,1750,carling2025diacl;titus,features,,,titus
-421,Kuikúro-Kalapálo,,,,kuik1246,1750,carling2025diacl;titus,features,,,titus
-422,Kuikúro-Kalapálo,,,,kuik1246,1750,carling2025diacl;titus,features,,,titus
-442,Cayubaba,,,,cayu1262,1750,carling2025diacl;titus,features,,,titus
-290,Chiquitano,,,,chiq1248,1750,carling2025diacl;titus,features,,,titus
-59,Albanian (Tosk),,,,tosk1239,1750,carling2025diacl;titus,features,,,titus
-60,Eastern Armenian,,,,nucl1235,1750,carling2025diacl;titus,features,,,titus
-5,Latvian,,,,latv1249,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-61,Latvian,,,,latv1249,1750,carling2025diacl;titus,features,,,titus
-62,Lithuanian,,,,lith1251,1750,carling2025diacl;titus,features,,,titus
-63,Russian,,,,russ1263,1750,carling2025diacl;titus,features,,,titus
-64,Ukrainian,,,,ukra1253,1750,carling2025diacl;titus,features,,,titus
-65,Bulgarian,,,,bulg1262,1750,carling2025diacl;titus,features,,,titus
-66,Croatian,,,,croa1245,1750,carling2025diacl;titus,features,,,titus
-67,Serbian,,,,serb1264,1750,carling2025diacl;titus,features,,,titus
-68,Slovene,,,,slov1268,1750,carling2025diacl;titus,features,,,titus
-69,Czech,,,,czec1258,1750,carling2025diacl;titus,features,,,titus
-70,Polish,,,,poli1260,1750,carling2025diacl;titus,features,,,titus
-71,Upper Sorbian,,,,,1750,carling2025diacl;titus,features,,,titus
-72,Breton,,,,bret1244,1750,carling2025diacl;titus,features,,,titus
-73,Cornish,,,,corn1251,1750,carling2025diacl;titus,features,,,titus
-74,Welsh,,,,wels1247,1750,carling2025diacl;titus,features,,,titus
-75,Irish,,,,iris1253,1750,carling2025diacl;titus,features,,,titus
-76,Scottish Gaelic,,,,scot1245,1750,carling2025diacl;titus,features,,,titus
-77,Danish,,,,dani1285,1750,carling2025diacl;titus,features,,,titus
-78,Elfdalian,,,,elfd1234,1750,carling2025diacl;titus,features,,,titus
-79,Faroese,,,,faro1244,1750,carling2025diacl;titus,features,,,titus
-80,Icelandic,,,,icel1247,1750,carling2025diacl;titus,features,,,titus
-81,Norwegian,,,,norw1258,1750,carling2025diacl;titus,features,,,titus
-82,Norwegian (Bokmål),,,,norw1259,1750,carling2025diacl;titus,features,,,titus
-83,Norwegian (Nynorsk),,,,norw1262,1750,carling2025diacl;titus,features,,,titus
-24,Swedish,,,,swed1254,1750,carling2025diacl;asher_moseley_2007;mml2015,features,,,asher_moseley_2007 mml2015
-84,Dutch,,,,dutc1256,1750,carling2025diacl;titus,features,,,titus
-26,English,,,,stan1293,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-86,Frisian,,,,west2354,1750,carling2025diacl;titus,features,,,titus
-87,German,,,,stan1295,1750,carling2025diacl;titus,features,,,titus
-88,Low German,,,,nort2627,1750,carling2025diacl;titus,features,,,titus
-89,Swiss German,,,,swis1247,1750,carling2025diacl;titus,features,,,titus
-90,Yiddish,,,,east2295,1750,carling2025diacl;titus,features,,,titus
-31,Modern Greek,,,,mode1248,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-872,Hindi,,,,hind1269,1750,carling2025diacl;titus,features,,,titus
-92,Urdu,,,,,1750,carling2025diacl;titus,features,,,titus
-93,Kumaoni,,,,kuma1273,1750,carling2025diacl;titus,features,,,titus
-94,Rajasthani,,,,raja1256,1750,carling2025diacl;titus,features,,,titus
-98,Punjabi,,,,panj1256,1750,carling2025diacl;titus,features,,,titus
-99,Assamese,,,,assa1263,1750,carling2025diacl;titus,features,,,titus
-100,Bengali,,,,beng1280,1750,carling2025diacl;titus,features,,,titus
-101,Maithili,,,,mait1250,1750,carling2025diacl;titus,features,,,titus
-96,Nepali,,,,nepa1254,1750,carling2025diacl;titus,features,,,titus
-97,Kashmiri,,,,kash1277,1750,carling2025diacl;titus,features,,,titus
-102,Khowar,,,,khow1242,1750,carling2025diacl;titus,features,,,titus
-103,Lahnda,,,,west2386,1750,carling2025diacl;titus,features,,,titus
-104,Sindhi,,,,sind1272,1750,carling2025diacl;titus,features,,,titus
-105,Maldivian,,,,dhiv1236,1750,carling2025diacl;titus,features,,,titus
-106,Sinhalese,,,,sinh1246,1750,carling2025diacl;titus,features,,,titus
-107,Konkani,,,,konk1267,1750,carling2025diacl;titus,features,,,titus
-108,Marathi,,,,mara1378,1750,carling2025diacl;titus,features,,,titus
-109,Gujarati,,,,guja1252,1750,carling2025diacl;titus,features,,,titus
-110,Ossetian (Iron),,,,iron1242,1750,carling2025diacl;titus,features,,,titus
-111,Pashto,,,,nucl1276,1750,carling2025diacl;titus,features,,,titus
-112,Shughni,,,,shug1248,1750,carling2025diacl;titus,features,,,titus
-113,Wakhi,,,,wakh1245,1750,carling2025diacl;titus,features,,,titus
-114,Yagnobi,,,,yagn1238,1750,carling2025diacl;titus,features,,,titus
-115,Baluchi,,,,sout2642,1750,carling2025diacl;titus,features,,,titus
-116,Gilaki,,,,gila1241,1750,carling2025diacl;titus,features,,,titus
-117,Kurdish (Kurmanji),,,,nort2641,1750,carling2025diacl;titus,features,,,titus
-118,Kurdish (Sorani),,,,cent1972,1750,carling2025diacl;titus,features,,,titus
-119,Parachi,,,,para1299,1750,carling2025diacl;titus,features,,,titus
-120,Persian,,,,west2369,1750,carling2025diacl;titus,features,,,titus
-121,Tajik,,,,taji1245,1750,carling2025diacl;titus,features,,,titus
-122,Talysh,,,,taly1247,1750,carling2025diacl;titus,features,,,titus
-123,Ashkun,,,,ashk1246,1750,carling2025diacl;titus,features,,,titus
-124,Kati,,,,kati1270,1750,carling2025diacl;titus,features,,,titus
-125,Prasun,,,,pras1239,1750,carling2025diacl;titus,features,,,titus
-126,Tregami,,,,treg1243,1750,carling2025diacl;titus,features,,,titus
-127,Waigali,,,,waig1243,1750,carling2025diacl;titus,features,,,titus
-128,Catalan,,,,stan1289,1750,carling2025diacl;titus,features,,,titus
-129,French,,,,stan1290,1750,carling2025diacl;titus,features,,,titus
-130,Friulian,,,,friu1240,1750,carling2025diacl;titus,features,,,titus
-131,Italian,,,,ital1282,1750,carling2025diacl;titus,features,,,titus
-132,Ladin,,,,ladi1250,1750,carling2025diacl;titus,features,,,titus
-133,Occitan,,,,occi1239,1750,carling2025diacl;titus,features,,,titus
-37,Portuguese,,,,port1283,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-135,Provençal,,,,occi1239,1750,carling2025diacl;titus,features,,,titus
-136,Romanian,,,,roma1327,1750,carling2025diacl;titus,features,,,titus
-40,Romansh,,,,roma1326,1750,carling2025diacl;bfs2005,features,,,bfs2005
-137,Sardinian,,,,logu1236,1750,carling2025diacl;titus,features,,,titus
-138,Spanish,,,,stan1288,1750,carling2025diacl;titus,features,,,titus
-139,Walloon,,,,wall1255,1750,carling2025diacl;titus,features,,,titus
-389,Itonama,,,,iton1250,1750,carling2025diacl;titus,features,,,titus
-355,Jabutí,,,,djeo1235,1750,carling2025diacl;titus,features,,,titus
-191,Xokleng,,,,xokl1240,1750,carling2025diacl;titus,features,,,titus
-217,Xokleng,,,,xokl1240,1750,carling2025diacl;titus,features,,,titus
-140,Georgian,,,,nucl1302,1750,carling2025diacl;titus,features,,,titus
-141,Svan,,,,svan1243,1750,carling2025diacl;titus,features,,,titus
-142,Laz,,,,lazz1240,1750,carling2025diacl;titus,features,,,titus
-143,Megrelian,,,,ming1252,1750,carling2025diacl;titus,features,,,titus
-471,Kwaza,,,,kwaz1243,1750,carling2025diacl;titus,features,,,titus
-225,Leko,,,,leco1242,1750,carling2025diacl;titus,features,,,titus
-243,Mosetén,,,,mose1249,1750,carling2025diacl;titus,features,,,titus
-257,Movima,,,,movi1243,1750,carling2025diacl;titus,features,,,titus
-468,Mamaindé,,,,mama1278,1750,carling2025diacl;titus,features,,,titus
-282,Sabané,,,,saba1268,1750,carling2025diacl;titus,features,,,titus
-144,Batsbi,,,,bats1242,1750,carling2025diacl;titus,features,,,titus
-145,Chechen,,,,chec1245,1750,carling2025diacl;titus,features,,,titus
-146,Kryz,,,,kryt1240,1750,carling2025diacl;titus,features,,,titus
-147,Lezgian,,,,lezg1247,1750,carling2025diacl;titus,features,,,titus
-148,Khwarshi,,,,khva1239,1750,carling2025diacl;titus,features,,,titus
-150,Kabardian,,,,kaba1278,1750,carling2025diacl;titus,features,,,titus
-391,Chácobo,,,,chac1251,1750,carling2025diacl;titus,features,,,titus
-392,Kashinawá,,,,cash1254,1750,carling2025diacl;titus,features,,,titus
-390,Cavineña,,,,cavi1250,1750,carling2025diacl;titus,features,,,titus
-195,Karitiâna,,,,kari1311,1750,carling2025diacl;titus,features,,,titus
-361,Aruá,,,,arua1261,1750,carling2025diacl;titus,features,,,titus
-283,Cinta Larga,,,,cint1239,1750,carling2025diacl;titus,features,,,titus
-209,Suruí Paitér,,,,suru1262,1750,carling2025diacl;titus,features,,,titus
-358,Puruborá,,,,puru1264,1750,carling2025diacl;titus,features,,,titus
-284,Awetí,,,,,1750,carling2025diacl;titus,features,,,titus
-202,Jurúna,,,,,1750,carling2025diacl;titus,features,,,titus
-207,Sateré-Mawé,,,,,1750,carling2025diacl;titus,features,,,titus
-199,Kuruáya,,,,,1750,carling2025diacl;titus,features,,,titus
-205,Mundurukú,,,,,1750,carling2025diacl;titus,features,,,titus
-250,Guaraní (Avá),,,,,1750,carling2025diacl;titus,features,,,titus
-198,Guaraní (Eastern Bolivian),,,,,1750,carling2025diacl;titus,features,,,titus
-246,Guaraní (Mbyá),,,,,1750,carling2025diacl;titus,features,,,titus
-247,Guaraní (Paraguayan),,,,,1750,carling2025diacl;titus,features,,,titus
-248,Kaiwá,,,,,1750,carling2025diacl;titus,features,,,titus
-210,Tapiete,,,,,1750,carling2025diacl;titus,features,,,titus
-289,Guarayó,,,,,1750,carling2025diacl;titus,features,,,titus
-208,Sirionó,,,,,1750,carling2025diacl;titus,features,,,titus
-200,Emerillon,,,,,1750,carling2025diacl;titus,features,,,titus
-213,Urubú-Ka'apór,,,,,1750,carling2025diacl;titus,features,,,titus
-206,Wayampi do Amapari,,,,,1750,carling2025diacl;titus,features,,,titus
-203,Kamayurá,,,,kama1373,1750,carling2025diacl;titus,features,,,titus
-204,Kayabí,,,,,1750,carling2025diacl;titus,features,,,titus
-357,Parintintin,,,,,1750,carling2025diacl;titus,features,,,titus
-201,Guajajára,,,,,1750,carling2025diacl;titus,features,,,titus
-211,Tembé,,,,,1750,carling2025diacl;titus,features,,,titus
-368,Kokáma,,,,,1750,carling2025diacl;titus,features,,,titus
-294,Nhengatu,,,,,1750,carling2025diacl;titus,features,,,titus
-212,Tupinambá,,,,tupi1273,1750,carling2025diacl;titus,features,,,titus
-197,Asuriní of Xingú,,,,,1750,carling2025diacl;titus,features,,,titus
-151,Uyghur,,,,,1750,carling2025diacl;titus,features,,,titus
-152,Uzbek,,,,,1750,carling2025diacl;titus,features,,,titus
-153,Turkmen,,,,turk1304,1750,carling2025diacl;titus,features,,,titus
-154,Turkish,,,,nucl1301,1750,carling2025diacl;titus,features,,,titus
-155,Karachay-Balkar,,,,,1750,carling2025diacl;titus,features,,,titus
-156,Kazakh,,,,kaza1248,1750,carling2025diacl;titus,features,,,titus
-157,Estonian,,,,,1750,carling2025diacl;titus,features,,,titus
-158,Finnish,,,,finn1318,1750,carling2025diacl;titus,features,,,titus
-159,Northern Saami,,,,nort2671,1750,carling2025diacl;titus,features,,,titus
-160,Hungarian,,,,hung1274,1750,carling2025diacl;titus,features,,,titus
-242,Yurakaré,,,,yura1255,1750,carling2025diacl;titus,features,,,titus
-827,Tibetan,,,,tibe1272,1750,carling2025diacl;titus,features,,,titus
-848,Jingpho,,,,kach1280,1750,carling2025diacl;titus,features,,,titus
-859,Mandarin Chinese,,,,mand1415,1750,carling2025diacl;titus,features,,,titus
-458,Proto-Jê,,,,,1750,carling2025diacl;titus,features,,,titus
-161,Adyghe,,,,adyg1241,1750,carling2025diacl;titus,features,,,titus
-162,Ingush,,,,ingu1240,1750,carling2025diacl;titus,features,,,titus
-163,Udi,,,,udii1243,1750,carling2025diacl;titus,features,,,titus
-164,Beshta,,,,bezh1248,1750,carling2025diacl;titus,features,,,titus
-165,Khinalug,,,,khin1240,1750,carling2025diacl;titus,features,,,titus
-166,Budukh,,,,budu1248,1750,carling2025diacl;titus,features,,,titus
-168,Abaza,,,,abaz1241,1750,carling2025diacl;titus,features,,,titus
-169,Avar,,,,avar1256,1750,carling2025diacl;titus,features,,,titus
-170,Andi,,,,andi1255,1750,carling2025diacl;titus,features,,,titus
-171,Lak,,,,lakk1252,1750,carling2025diacl;titus,features,,,titus
-172,Dargwa,,,,darg1241,1750,carling2025diacl;titus,features,,,titus
-173,Gagauz,,,,gaga1249,1750,carling2025diacl;titus,features,,,titus
-174,Crimean Tatar,,,,crim1257,1750,carling2025diacl;titus,features,,,titus
-175,Kumyk,,,,kumy1244,1750,carling2025diacl;titus,features,,,titus
-176,Tabasaran,,,,taba1259,1750,carling2025diacl;titus,features,,,titus
-177,Aghul,,,,aghu1253,1750,carling2025diacl;titus,features,,,titus
-178,Tsakhur,,,,tsak1249,1750,carling2025diacl;titus,features,,,titus
-179,Rutul,,,,rutu1240,1750,carling2025diacl;titus,features,,,titus
-180,Azerbaijani,,,,nort2697,1750,carling2025diacl;titus,features,,,titus
-181,Tuvan,,,,tuvi1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-182,Belarusian,,,,,1750,carling2025diacl;titus,features,,,titus
-183,Slovak,,,,slov1269,1750,carling2025diacl;titus,features,,,titus
-184,Southern Altai,,,,sout2694,1750,carling2025diacl;titus,features,,,titus
-56,Bhili,,,,,1750,carling2025diacl;titus,features,,,titus
-876,Central Dravidian,,,,cent2227,1750,carling2025diacl;titus,features,,,titus
-868,Duruwa,,,,duru1236,1750,carling2025diacl;titus,features,,,titus
-861,Kannada,,,,nucl1305,1750,carling2025diacl;titus,features,,,titus
-870,Konda-Dora,,,,kond1295,1750,carling2025diacl;titus,features,,,titus
-867,Kui,,,,kuii1252,1750,carling2025diacl;titus,features,,,titus
-871,Kurukh,,,,kuru1302,1750,carling2025diacl;titus,features,,,titus
-862,Malayalam,,,,mala1464,1750,carling2025diacl;titus,features,,,titus
-869,Pottangi Ollar Gadaba,,,,pott1240,1750,carling2025diacl;titus,features,,,titus
-866,Southeastern Kolami,,,,sout1549,1750,carling2025diacl;titus,features,,,titus
-864,Tamil,,,,tami1289,1750,carling2025diacl;titus,features,,,titus
-863,Telugu,,,,telu1262,1750,carling2025diacl;titus,features,,,titus
-873,Mundaic,,,,mund1335,1750,carling2025diacl;titus,features,,,titus
-836,East Yugur,,,,east2337,1750,carling2025diacl;titus,features,,,titus
-828,Mongolian (Khalkha),,,,halh1238,1750,carling2025diacl;titus,features,,,titus
-830,Khamnigan Mongol,,,,kham1281,1750,carling2025diacl;titus,features,,,titus
-817,Kalmyk,,,,kalm1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-829,Peripheral Mongolian,,,,peri1253,1750,carling2025diacl;titus,features,,,titus
-799,Buryat (Russia),,,,russ1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-792,Even,,,,even1260,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-801,Evenki,,,,even1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-825,Nanai,,,,nana1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-824,Udihe,,,,udih1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-800,Bashkir,,,,bash1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-816,Chuvash,,,,chuv1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-822,Kyrgyz,,,,kirg1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-821,Sakha,,,,yaku1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-820,Tatar,,,,tata1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-819,Erzya,,,,erzy1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-813,Khanty,,,,khan1273,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-814,Komi,,,,komi1267,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-803,Nganasan,,,,ngan1291,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-804,Selkup,,,,selk1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-806,Skolt Sami,,,,skol1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-810,Tundra Nenets,,,,nene1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-811,Tundra Nenets,,,,nene1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-815,Udmurt,,,,udmu1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1091,Bura-Pabir,,,,bura1292,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1089,Tera,,,,tera1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-910,Afar,,,,afar1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-911,Saho,,,,saho1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-906,Somali,,,,soma1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-915,Coptic,,,,copt1239,1750,carling2025diacl;titus,features,,,titus
-914,Beja,,,,beja1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-909,Amharic,,,,amha1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-912,Tigre,,,,tigr1270,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-913,Tigrinya,,,,tigr1271,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1160,Alagwa,,,,alag1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1159,Iraqw,,,,iraq1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1090,Bole,,,,nucl1695,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1108,Hausa,,,,haus1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-891,Afrikaans,,,,afri1274,1750,carling2025diacl;titus,features,,,titus
-874,Bhojpuri,,,,bhoj1244,1750,carling2025diacl;titus,features,,,titus
-883,Dari,,,,dari1249,1750,carling2025diacl;titus,features,,,titus
-881,Indus Kohistani,,,,indu1241,1750,carling2025diacl;titus,features,,,titus
-877,Khandesi,,,,khan1272,1750,carling2025diacl;titus,features,,,titus
-882,Kullu Pahari,,,,kull1236,1750,carling2025diacl;titus,features,,,titus
-875,Magahi,,,,maga1260,1750,carling2025diacl;titus,features,,,titus
-886,Ormuri,,,,ormu1247,1750,carling2025diacl;titus,features,,,titus
-838,Sarikoli,,,,sari1246,1750,carling2025diacl;titus,features,,,titus
-879,Shina,,,,shin1264,1750,carling2025diacl;titus,features,,,titus
-1133,Jukun Takum,,,,juku1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1136,Kpan,,,,kpan1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1135,Tigon Mbembe,,,,tigo1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1031,Izon,,,,izon1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1067,Efik,,,,efik1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1068,Ibibio,,,,ibib1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1073,Obolo,,,,obol1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-962,Godié,,,,godi1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1028,Bini,,,,bini1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1069,Ejagham,,,,ejag1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1032,Kalabari,,,,kala1381,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1023,Idoma,,,,idom1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1029,Igbo,,,,nucl1417,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1019,Ewe,,,,ewee1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1020,Fon,,,,fonn1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-945,Vute,,,,vute1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1110,Bambara,,,,bamb1269,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1048,Bandi,,,,band1352,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1131,Bissa,,,,biss1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1022,Busa,,,,busa1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1126,Dyula,,,,dyul1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1049,Liberia Kpelle,,,,libe1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1050,Loma,,,,loma1260,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1076,Mandinka,,,,mand1436,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1051,Mende,,,,mend1266,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1077,Sankaran Maninka,,,,sank1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1129,Southern Bobo Madaré,,,,sout2840,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1115,Susu,,,,susu1250,1750,carling2025diacl;titus,features,,,titus
-1113,Vai,,,,vaii1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1111,Yalunka,,,,yalu1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1070,Oroko,,,,orok1266,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1075,Tuki,,,,tuki1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1071,Tunen,,,,tune1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-990,Mongo,,,,mong1338,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1099,Kamba (Kenya),,,,kamb1297,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1100,Meru,,,,meru1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1162,Langi,,,,lang1320,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1161,Mbugwe,,,,mbug1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-984,Nyamwezi,,,,nyam1276,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1163,Nyaturu,,,,nyat1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-996,Bena (Tanzania),,,,bena1262,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-997,Bondei,,,,bond1247,1750,carling2025diacl;titus,features,,,titus
-998,Gogo,,,,gogo1263,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1158,Kami (Tanzania),,,,kami1256,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1004,Shambala,,,,sham1280,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-967,Swahili,,,,swah1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-935,Kikongo,,,,koon1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1098,Ganda,,,,gand1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1166,Haya,,,,haya1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-991,Kinyarwanda,,,,kiny1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-993,Konzo,,,,konz1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-992,Nyoro,,,,nyor1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1165,Zinza,,,,zinz1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-950,Fwe,,,,fwee1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-948,Luchazi,,,,luch1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-976,Lunda,,,,lund1266,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-949,Luvale,,,,luva1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-974,Luyi,,,,luya1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-975,Kaonde,,,,kaon1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-979,Luba-Katanga,,,,luba1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-938,Bemba,,,,bemb1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-951,Chitonga,,,,tong1318,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-956,Ila,,,,ilaa1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-970,Lala-Bisa,,,,lala1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-972,Lala-Bisa,,,,lala1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-973,Lala-Bisa,,,,lala1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-971,Lamba,,,,lamb1271,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-954,Lenje,,,,lenj1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1164,Nyakyusa-Ngonde,,,,nyak1260,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-952,Soli,,,,soli1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-983,Ngoni,,,,ngon1269,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1011,Nyanja,,,,nyan1308,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-980,Sena,,,,nucl1396,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-977,Tumbuka,,,,tumb1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-999,Chimwera,,,,mwer1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1000,Machinga,,,,mach1265,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1010,Makhuwa,,,,makh1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1001,Makonde,,,,mako1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1014,Matumbi,,,,matu1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1017,Ndengereko,,,,nden1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1002,Yao,,,,yaoo1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-964,Herero,,,,here1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-936,Umbundu,,,,umbu1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-968,Shona,,,,shon1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-902,Southern Sotho,,,,sout2807,1750,carling2025diacl;titus,features,,,titus
-900,Swati,,,,swat1243,1750,carling2025diacl;titus,features,,,titus
-981,Tswa,,,,tswa1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-893,Tswana,,,,tswa1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-985,Venda,,,,vend1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-982,Zulu,,,,zulu1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1042,Pular,,,,pula1262,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1043,Sereer,,,,sere1260,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-933,Wolof,,,,nucl1347,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1040,Baatonum,,,,baat1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1123,Bimoba,,,,bimo1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1083,Buli (Ghana),,,,buli1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1120,Central Dagaare,,,,sout2789,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1038,Dagbani,,,,dagb1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1036,Gourmanchéma,,,,gour1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1081,Konni,,,,konn1242,1750,carling2025diacl;titus,features,,,titus
-1037,Kusaal,,,,kusa1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1072,Malba Birifor,,,,malb1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-963,Mooré,,,,moss1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1041,Ngangam,,,,ngan1299,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1026,Gbagyi,,,,gbag1258,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1025,Gbari,,,,gbar1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1024,Nupe-Nupe-Tako,,,,nupe1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1060,Abron,,,,abro1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-960,Akan,,,,akan1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1058,Akan,,,,akan1250,1750,carling2025diacl;titus,features,,,titus
-1053,Anii,,,,anyi1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1054,Awutu,,,,awut1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1055,Baoulé,,,,baou1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1057,Chumburung,,,,chum1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1021,Ga,,,,gaaa1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1059,Gonja,,,,gonj1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1056,Nzima,,,,nzim1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1079,Supyire Senoufo,,,,supy1237,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1114,Sherbro,,,,sher1258,1750,carling2025diacl;titus,features,,,titus
-1117,Southern Kisi,,,,sout2778,1750,carling2025diacl;titus,features,,,titus
-1116,Temne,,,,timn1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1082,Chakali,,,,chak1271,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1080,Kasem,,,,kase1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1039,Lama (Togo),,,,lama1275,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1035,Tumulung Sisaala,,,,tumu1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1132,Tiv,,,,tivv1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1102,Gbaya-Bossangoa,,,,gbay1287,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1012,Mono (Banda),,,,mono1270,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1005,Ngbaka Minagende,,,,ngba1285,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1103,Northwest Gbaya,,,,nort2775,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-994,Zande,,,,zand1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1044,Klao,,,,klao1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-965,Southern Grebo,,,,sout2826,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1074,Bamun,,,,bamu1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1066,Fe'fe',,,,fefe1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1027,Yoruba,,,,yoru1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-890,Plateau Malagasy,,,,plat1254,1750,carling2025diacl;titus,features,,,titus
-839,Bouyei,,,,bouy1240,1750,carling2025diacl;titus,features,,,titus
-843,Hlai,,,,hlai1239,1750,carling2025diacl;titus,features,,,titus
-840,Sui,,,,suii1243,1750,carling2025diacl;titus,features,,,titus
-826,Hakka Chinese,,,,hakk1236,1750,carling2025diacl;titus,features,,,titus
-860,Min Bei Chinese,,,,minb1244,1750,carling2025diacl;titus,features,,,titus
-835,Min Nan Chinese,,,,minn1241,1750,carling2025diacl;titus,features,,,titus
-833,Wu Chinese,,,,wuch1236,1750,carling2025diacl;titus,features,,,titus
-834,Wu Chinese,,,,wuch1236,1750,carling2025diacl;titus,features,,,titus
-849,Yue Chinese,,,,yuec1235,1750,carling2025diacl;titus,features,,,titus
-847,Bai,,,,baic1239,1750,carling2025diacl;titus,features,,,titus
-844,Nuosu,,,,sich1238,1750,carling2025diacl;titus,features,,,titus
-846,Lizu,,,,lizu1234,1750,carling2025diacl;titus,features,,,titus
-878,Leh Ladakhi,,,,lada1244,1750,carling2025diacl;titus,features,,,titus
-623,Algonquin,,,,algo1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-621,Atikamekw,,,,atik1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-589,Central Ojibwa,,,,cent2136,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-609,Cheyenne,,,,chey1247,1750,carling2025diacl;titus,features,,,titus
-624,Eastern Abenaki,,,,east2544,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-622,Eastern Ojibwa,,,,east2542,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-628,Loup A,,,,loup1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-610,Malecite-Passamaquoddy,,,,male1292,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-748,Menominee,,,,meno1252,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-752,Meskwaki,,,,mesk1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-751,Miami,,,,miam1252,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-611,Mi'kmaq,,,,mikm1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-627,Mohegan-Montauk-Narragansett,,,,mohe1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-754,Mohegan-Montauk-Narragansett,,,,mohe1244,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-592,Montagnais,,,,mont1268,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-679,Munsee,,,,muns1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-590,Plains Cree,,,,plai1258,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-683,Potawatomi,,,,pota1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-587,Severn Ojibwa,,,,seve1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-750,Shawnee,,,,shaw1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-586,Blackfoot,,,,siks1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-594,Swampy Cree,,,,swam1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-595,Swampy Cree,,,,swam1239,1750,carling2025diacl;titus,features,,,titus
-693,Unami,,,,unam1242,1750,carling2025diacl;titus,features,,,titus
-625,Western Abenaki,,,,west2630,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-588,Western Ojibwa,,,,west1510,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-699,Wiyot,,,,wiyo1248,1750,carling2025diacl;titus,features,,,titus
-591,Woods Cree,,,,wood1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-708,Yurok,,,,yuro1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-341,Curripaco,,,,curr1243,1750,carling2025diacl;titus,features,,,titus
-340,Maipure,,,,maip1246,1750,carling2025diacl;titus,features,,,titus
-335,Culina,,,,culi1244,1750,carling2025diacl;titus,features,,,titus
-334,Jamamadí,,,,jama1261,1750,carling2025diacl;titus,features,,,titus
-333,Paumarí,,,,paum1247,1750,carling2025diacl;titus,features,,,titus
-605,Assiniboine,,,,assi1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-643,Catawba,,,,cata1286,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-604,Crow,,,,crow1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-596,Dakota,,,,dako1258,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-606,Hidatsa,,,,hida1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-749,Ho-Chunk,,,,hoch1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-598,Iowa-Otoe-Missouria,,,,iowa1245,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-599,Kansa,,,,kans1243,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-602,Lakota,,,,lako1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-603,Mandan,,,,mand1446,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-597,Omaha-Ponca,,,,omah1247,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-600,Osage,,,,osag1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-601,Quapaw,,,,quap1242,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-642,Tutelo,,,,tute1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-580,Tsimshian,,,,nucl1649,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-363,Cubeo,,,,cube1242,1750,carling2025diacl;titus,features,,,titus
-364,Desano,,,,desa1247,1750,carling2025diacl;titus,features,,,titus
-312,Orejón,,,,orej1242,1750,carling2025diacl;titus,features,,,titus
-447,Siona-Tetete,,,,sion1247,1750,carling2025diacl;titus,features,,,titus
-365,Tatuyo,,,,tatu1247,1750,carling2025diacl;titus,features,,,titus
-736,Cahuilla,,,,cahu1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-490,Central Tarahumara,,,,cent2131,1750,carling2025diacl;titus,features,,,titus
-532,Classical Nahuatl,,,,clas1250,1750,carling2025diacl;titus,features,,,titus
-656,Comanche,,,,coma1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-537,Eastern Huasteca Nahuatl,,,,east2538,1750,carling2025diacl;titus,features,,,titus
-488,El Nayar Cora,,,,elna1235,1750,carling2025diacl;titus,features,,,titus
-533,Highland Puebla Nahuatl,,,,high1278,1750,carling2025diacl;titus,features,,,titus
-742,Hopi,,,,hopi1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-489,Huichol,,,,huic1243,1750,carling2025diacl;titus,features,,,titus
-538,Isthmus-Mecayapan Nahuatl,,,,isth1242,1750,carling2025diacl;titus,features,,,titus
-735,Luiseno,,,,luis1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-493,Mayo,,,,mayo1264,1750,carling2025diacl;titus,features,,,titus
-535,Michoacán Nahuatl,,,,mich1245,1750,carling2025diacl;titus,features,,,titus
-712,Mono (Numic),,,,mono1275,1750,carling2025diacl;titus,features,,,titus
-534,Morelos Nahuatl,,,,more1259,1750,carling2025diacl;titus,features,,,titus
-706,Northern Paiute,,,,nort2954,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-491,Northern Tepehuan,,,,nort2959,1750,carling2025diacl;titus,features,,,titus
-711,Panamint,,,,pana1305,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-763,Pima Bajo,,,,pima1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-789,Serrano,,,,serr1255,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-714,Shoshoni,,,,shos1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-492,Southeastern Tepehuan,,,,sout2976,1750,carling2025diacl;titus,features,,,titus
-536,Tlaxcala-Puebla-Central Nahuatl,,,,cent2132,1750,carling2025diacl;titus,features,,,titus
-764,Tohono O'odham,,,,toho1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-738,Tübatulabal,,,,tuba1278,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-487,Yaqui,,,,yaqu1251,1750,carling2025diacl;titus,features,,,titus
-681,Ditidaht,,,,diti1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-585,Heiltsuk-Oowekyala,,,,heil1246,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-583,Kwak'wala,,,,kwak1269,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-676,Makah,,,,maka1318,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-614,Nuu-chah-nulth,,,,nuuc1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-353,Murui Huitoto,,,,muru1274,1750,carling2025diacl;titus,features,,,titus
-298,Ninam,,,,nina1238,1750,carling2025diacl;titus,features,,,titus
-299,Sanumá,,,,sanu1240,1750,carling2025diacl;titus,features,,,titus
-464,Yanomám,,,,yano1262,1750,carling2025diacl;titus,features,,,titus
-796,Southern Yukaghir,,,,sout2750,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-707,Wappo,,,,wapp1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-730,Yuki,,,,yuki1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-322,Záparo,,,,zapa1253,1750,carling2025diacl;titus,features,,,titus
-635,Cayuga,,,,cayu1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-644,Cherokee,,,,cher1273,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-630,Huron-Wyandot,,,,wyan1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-631,Mohawk,,,,moha1258,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-640,Nottoway,,,,nott1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-633,Oneida,,,,onei1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-634,Onondaga,,,,onon1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-632,Seneca,,,,sene1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-641,Tuscarora,,,,tusc1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-224,Jaqaru,,,,jaqa1244,1750,carling2025diacl;titus,features,,,titus
-229,Southern Aymara,,,,sout2996,1750,carling2025diacl;titus,features,,,titus
-287,Aguaruna,,,,agua1253,1750,carling2025diacl;titus,features,,,titus
-314,Huambisa,,,,huam1247,1750,carling2025diacl;titus,features,,,titus
-313,Shuar,,,,shua1257,1750,carling2025diacl;titus,features,,,titus
-657,Kiowa,,,,kiow1266,1750,carling2025diacl;titus,features,,,titus
-214,Apinayé,,,,apin1244,1750,carling2025diacl;titus,features,,,titus
-215,Canela-Krahô,,,,cane1242,1750,carling2025diacl;titus,features,,,titus
-220,Karajá,,,,kara1500,1750,carling2025diacl;titus,features,,,titus
-216,Kayapó,,,,kaya1330,1750,carling2025diacl;titus,features,,,titus
-709,Nisenan,,,,nise1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-704,Maidu,,,,nort2952,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-703,Konkow,,,,nort2951,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-427,Kadiwéu,,,,kadi1248,1750,carling2025diacl;titus,features,,,titus
-236,Mocoví,,,,moco1246,1750,carling2025diacl;titus,features,,,titus
-253,Pilagá,,,,pila1245,1750,carling2025diacl;titus,features,,,titus
-252,Toba,,,,toba1269,1750,carling2025diacl;titus,features,,,titus
-521,Aguacateco,,,,agua1252,1750,carling2025diacl;titus,features,,,titus
-502,Chol,,,,chol1282,1750,carling2025diacl;titus,features,,,titus
-500,Chortí,,,,chor1273,1750,carling2025diacl;titus,features,,,titus
-498,Huastec,,,,huas1242,1750,carling2025diacl;titus,features,,,titus
-525,Kekchí,,,,kekc1242,1750,carling2025diacl;titus,features,,,titus
-519,K'iche',,,,kich1262,1750,carling2025diacl;titus,features,,,titus
-507,Lacandon,,,,laca1243,1750,carling2025diacl;titus,features,,,titus
-518,Mam,,,,mamm1241,1750,carling2025diacl;titus,features,,,titus
-524,Mocho,,,,moch1257,1750,carling2025diacl;titus,features,,,titus
-520,Poqomam,,,,poqo1253,1750,carling2025diacl;titus,features,,,titus
-526,Poqomchi',,,,poqo1254,1750,carling2025diacl;titus,features,,,titus
-523,Q'anjob'al,,,,qanj1241,1750,carling2025diacl;titus,features,,,titus
-501,Tabasco Chontal,,,,taba1266,1750,carling2025diacl;titus,features,,,titus
-509,Tzeltal,,,,tzel1254,1750,carling2025diacl;titus,features,,,titus
-508,Tzotzil,,,,tzot1259,1750,carling2025diacl;titus,features,,,titus
-517,Tz'utujil,,,,tzut1248,1750,carling2025diacl;titus,features,,,titus
-497,Yucatec Maya,,,,yuca1254,1750,carling2025diacl;titus,features,,,titus
-484,Mískito,,,,misk1235,1750,carling2025diacl;titus,features,,,titus
-528,Coatlán Mixe,,,,coat1238,1750,carling2025diacl;titus,features,,,titus
-529,Coatlán Mixe,,,,coat1238,1750,carling2025diacl;titus,features,,,titus
-530,Copainalá Zoque,,,,copa1236,1750,carling2025diacl;titus,features,,,titus
-531,Highland Popoluca,,,,high1276,1750,carling2025diacl;titus,features,,,titus
-328,Awa-Cuaiquer,,,,awac1239,1750,carling2025diacl;titus,features,,,titus
-330,Cha'palaa,,,,chac1249,1750,carling2025diacl;titus,features,,,titus
-329,Tsafiki,,,,colo1256,1750,carling2025diacl;titus,features,,,titus
-402,Northern Emberá,,,,nort2972,1750,carling2025diacl;titus,features,,,titus
-401,Woun Meu,,,,woun1238,1750,carling2025diacl;titus,features,,,titus
-395,Amahuaca,,,,amah1246,1750,carling2025diacl;titus,features,,,titus
-276,Araona,,,,arao1248,1750,carling2025diacl;titus,features,,,titus
-285,Cashibo-Cacataibo,,,,cash1251,1750,carling2025diacl;titus,features,,,titus
-387,Matsés,,,,mats1244,1750,carling2025diacl;titus,features,,,titus
-259,Shipibo-Conibo,,,,ship1254,1750,carling2025diacl;titus,features,,,titus
-394,Yaminahua,,,,yami1256,1750,carling2025diacl;titus,features,,,titus
-722,Coast Miwok,,,,coas1301,1750,carling2025diacl;titus,features,,,titus
-715,Nez Percé,,,,nezp1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-717,Yakama,,,,yaki1237,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-710,Yokuts,,,,yoku1256,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-194,Cusco Quechua,,,,cusc1236,1750,carling2025diacl;titus,features,,,titus
-227,South Bolivian Quechua,,,,sout2991,1750,carling2025diacl;titus,features,,,titus
-584,Nuxalk,,,,bell1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-665,Klallam,,,,clal1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-725,Columbia-Wenatchi,,,,colu1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-615,Comox,,,,como1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-666,Cowlitz,,,,cowl1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-619,Halkomelem,,,,halk1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-724,Lillooet,,,,lill1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-673,Lower Chehalis,,,,lowe1427,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-620,Lushootseed,,,,lush1252,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-720,Northern Straits Salish,,,,stra1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-726,Okanagan,,,,okan1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-686,Quinault,,,,quin1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-616,Sechelt,,,,sech1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-613,Shuswap,,,,shus1248,1750,carling2025diacl;titus,features,,,titus
-618,Squamish,,,,squa1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-723,Nlaka'pamux,,,,thom1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-688,Tillamook,,,,till1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-692,Twana (Skokomish),,,,twan1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-694,Upper Chehalis,,,,uppe1439,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-348,Piaroa,,,,piar1243,1750,carling2025diacl;titus,features,,,titus
-649,Alabama,,,,alab1237,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-646,Apalachee,,,,apal1237,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-650,Chickasaw,,,,chic1270,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-651,Choctaw,,,,choc1276,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-645,Creek,,,,cree1270,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-648,Koasati,,,,koas1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-746,Mikasuki,,,,mika1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-579,Babine-Witsuwit'en,,,,babi1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-629,Dane-zaa,,,,beav1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-578,Dakelh,,,,carr1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-581,Tsilhqot'in,,,,chil1280,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-576,Chipewyan,,,,chip1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-577,Dogrib,,,,dogr1252,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-541,Eyak,,,,eyak1241,1750,carling2025diacl;titus,features,,,titus
-561,Gwich'in,,,,gwic1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-668,Hupa,,,,hupa1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-745,Jicarilla Apache,,,,jica1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-564,Kaska,,,,kask1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-671,Kato,,,,kato1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-560,Koyukon,,,,koyu1237,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-557,Lower Tanana,,,,lowe1425,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-677,Mattole,,,,matt1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-740,Mescalero-Chiricahua Apache,,,,mesc1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-743,Navajo,,,,nava1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-556,North Slavey,,,,nort2942,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-565,North Slavey,,,,nort2942,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-566,North Slavey,,,,nort2942,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-612,Tsuutʼina,,,,sars1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-570,Southern Tutchone,,,,sout2957,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-563,Tagish,,,,tagi1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-573,Tahltan,,,,tahl1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-572,Tanacross,,,,tana1290,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-550,Denaʼina,,,,tana1289,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-562,Tlingit,,,,tlin1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-689,Tolowa-Chetco,,,,tolo1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-691,Tututni,,,,tutu1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-575,Upper Tanana,,,,uppe1437,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-696,Wailaki,,,,wail1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-739,Western Apache,,,,west2615,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-467,Southern Nambikuára,,,,sout2994,1750,carling2025diacl;titus,features,,,titus
-922,Zaghawa,,,,zagh1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-924,Central Kanuri,,,,cent2050,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1106,Kanembu,,,,kane1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-494,Guerrero Amuzgo,,,,guer1243,1750,carling2025diacl;titus,features,,,titus
-504,Mezquital Otomi,,,,mezq1235,1750,carling2025diacl;titus,features,,,titus
-514,San Juan Atzingo Popoloca,,,,sanj1285,1750,carling2025diacl;titus,features,,,titus
-607,Arikara,,,,arik1262,1750,carling2025diacl;titus,features,,,titus
-654,Caddo,,,,cadd1256,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-658,Pawnee,,,,pawn1254,1750,carling2025diacl;titus,features,,,titus
-655,Wichita,,,,wich1260,1750,carling2025diacl;titus,features,,,titus
-316,Jebero,,,,jebe1250,1750,carling2025diacl;titus,features,,,titus
-317,Chayahuita,,,,chay1248,1750,carling2025diacl;titus,features,,,titus
-270,Apalaí,,,,apal1257,1750,carling2025diacl;titus,features,,,titus
-263,Galibi Carib,,,,gali1262,1750,carling2025diacl;titus,features,,,titus
-193,Hixkaryána,,,,hixk1239,1750,carling2025diacl;titus,features,,,titus
-272,Macushi,,,,macu1259,1750,carling2025diacl;titus,features,,,titus
-303,Ye'kuana,,,,maqu1238,1750,carling2025diacl;titus,features,,,titus
-346,Panare,,,,enap1235,1750,carling2025diacl;titus,features,,,titus
-274,Trió,,,,trio1238,1750,carling2025diacl;titus,features,,,titus
-241,Waimiri-Atroari,,,,waim1253,1750,carling2025diacl;titus,features,,,titus
-273,Waiwai,,,,waiw1244,1750,carling2025diacl;titus,features,,,titus
-271,Wayana,,,,waya1269,1750,carling2025diacl;titus,features,,,titus
-1013,Bagirmi,,,,bagi1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1094,Kaba,,,,kaba1281,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1140,Mbay,,,,mbay1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1093,Ngambay,,,,ngam1268,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1095,Sara Kaba Náà,,,,sara1321,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-269,Arhuaco,,,,arhu1242,1750,carling2025diacl;titus,features,,,titus
-305,Barí,,,,bari1297,1750,carling2025diacl;titus,features,,,titus
-480,Cabécar,,,,cabe1245,1750,carling2025diacl;titus,features,,,titus
-405,Central Tunebo,,,,cent2150,1750,carling2025diacl;titus,features,,,titus
-539,Pech,,,,pech1241,1750,carling2025diacl;titus,features,,,titus
-482,Rama,,,,rama1270,1750,carling2025diacl;titus,features,,,titus
-475,San Blas Kuna,,,,sanb1242,1750,carling2025diacl;titus,features,,,titus
-664,Chimakum,,,,chim1310,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-685,Quileute,,,,quil1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-674,Lower Chinook,,,,chin1286,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-662,Kathlamet,,,,kath1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-672,Upper Chinook,,,,wasc1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-196,Selk'nam,,,,onaa1245,1750,carling2025diacl;titus,features,,,titus
-234,Tehuelche,,,,tehu1242,1750,carling2025diacl;titus,features,,,titus
-794,Chukchi,,,,chuk1273,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-667,Hanis,,,,coos1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-678,Miluk,,,,milu1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1016,Masai,,,,masa1300,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1096,Samburu,,,,samb1315,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1097,Turkana,,,,turk1308,1750,carling2025diacl;titus,features,,,titus
-897,Aleut,,,,aleu1260,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-546,Central Alaskan Yupik,,,,cent2127,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-899,West Greenlandic,,,,kala1399,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-547,North Alaskan Iñupiatun,,,,nort2943,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-545,Northwest Alaska Iñupiatun,,,,nort2945,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-549,Alutiiq,,,,paci1278,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-898,East Greenlandic,,,,tunu1234,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-307,Cuiba,,,,cuib1242,1750,carling2025diacl;titus,features,,,titus
-308,Guahibo,,,,guah1255,1750,carling2025diacl;titus,features,,,titus
-731,Haida,,,,haid1248,1750,carling2025diacl;titus,features,,,titus
-832,She,,,,shee1238,1750,carling2025diacl;titus,features,,,titus
-661,Barbareño,,,,barb1263,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-669,Ineseño,,,,ines1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-733,Ventureño,,,,vent1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-775,Ventureño,,,,vent1242,1750,carling2025diacl;titus,features,,,titus
-781,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-782,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-783,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-784,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-765,Cocopa,,,,coco1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-759,Havasupai-Walapai-Yavapai,,,,hava1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-760,Havasupai-Walapai-Yavapai,,,,hava1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-761,Havasupai-Walapai-Yavapai,,,,hava1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-769,Ipai,,,,ipai1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-774,Ipai,,,,ipai1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-773,Kiliwa,,,,kili1268,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-785,Maricopa,,,,mari1440,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-766,Mohave,,,,moha1256,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-770,Paipai,,,,paip1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-767,Quechan,,,,quec1382,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-771,Tipai,,,,kumi1248,1750,carling2025diacl;titus,features,,,titus
-719,Achumawi,,,,achu1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-429,Ayoreo,,,,ayor1240,1750,carling2025diacl;titus,features,,,titus
-350,Bora,,,,bora1263,1750,carling2025diacl;titus,features,,,titus
-218,Borôro,,,,boro1282,1750,carling2025diacl;titus,features,,,titus
-880,Burushaski,,,,buru1296,1750,carling2025diacl;titus,features,,,titus
-219,Fulniô,,,,fuln1247,1750,carling2025diacl;titus,features,,,titus
-925,Fur,,,,furr1244,1750,carling2025diacl;titus,features,,,titus
-802,Ket,,,,kett1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-718,Klamath-Modoc,,,,klam1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1149,Kunama,,,,kuna1268,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-233,Mapudungun,,,,mapu1245,1750,carling2025diacl;titus,features,,,titus
-474,Trumai,,,,trum1247,1750,carling2025diacl;titus,features,,,titus
-230,Uru-Chipaya,,,,uruu1244,1750,carling2025diacl;titus,features,,,titus
-705,Washo,,,,wash1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-369,Yagua,,,,yagu1244,1750,carling2025diacl;titus,features,,,titus
-235,Yahgan,,,,yama1264,1750,carling2025diacl;titus,features,,,titus
-702,Yana,,,,yana1271,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-228,Quechua Santiago del Éstero,,,,sant1432,1750,carling2025diacl;titus,features,,,titus
-222,Callawaya,,,,call1235,1750,carling2025diacl;titus,features,,,titus
-226,Puquina,,,,puqu1242,1750,carling2025diacl;titus,features,,,titus
-231,Atacameño,,,,,1750,carling2025diacl;titus,features,,,titus
-232,Huilliche,,,,huil1244,1750,carling2025diacl;titus,features,,,titus
-237,Qawasqar,,,,,1750,carling2025diacl;titus,features,,,titus
-238,Huarpe,,,,huar1251,1750,carling2025diacl;titus,features,,,titus
-239,Charrúa,,,,char1240,1750,carling2025diacl;titus,features,,,titus
-240,Kaingang,,,,,1750,carling2025diacl;titus,features,,,titus
-245,Puelche,,,,,1750,carling2025diacl;titus,features,,,titus
-249,Pai-Tavyterá,,,,,1750,carling2025diacl;titus,features,,,titus
-251,Aché-Guayakí,,,,,1750,carling2025diacl;titus,features,,,titus
-254,Mak'a,,,,,1750,carling2025diacl;titus,features,,,titus
-255,Niwaklé,,,,,1750,carling2025diacl;titus,features,,,titus
-256,Chorotí,,,,,1750,carling2025diacl;titus,features,,,titus
-258,Itené,,,,,1750,carling2025diacl;titus,features,,,titus
-260,Ofayé,,,,,1750,carling2025diacl;titus,features,,,titus
-261,Carirí,,,,kari1254,1750,carling2025diacl;titus,features,,,titus
-264,Shebayo,,,,,1750,carling2025diacl;titus,features,,,titus
-268,Kogi,,,,cogu1240,1750,carling2025diacl;titus,features,,,titus
-275,Ese'ejja,,,,esee1248,1750,carling2025diacl;titus,features,,,titus
-277,Lengua-Mascoy,,,,,1750,carling2025diacl;titus,features,,,titus
-278,Guató,,,,,1750,carling2025diacl;titus,features,,,titus
-279,Xavánte,,,,xava1240,1750,carling2025diacl;titus,features,,,titus
-280,Xerente,,,,xere1240,1750,carling2025diacl;titus,features,,,titus
-281,Paunaca,,,,paun1241,1750,carling2025diacl;titus,features,,,titus
-286,Marawan,,,,mara1408,1750,carling2025diacl;titus,features,,,titus
-288,Bermejo Wichí,,,,wich1263,1750,carling2025diacl;titus,features,,,titus
-291,Maxakalí,,,,maxa1247,1750,carling2025diacl;titus,features,,,titus
-292,Botocudo,,,,kren1239,1750,carling2025diacl;titus,features,,,titus
-293,Kamakã,,,,kama1372,1750,carling2025diacl;titus,features,,,titus
-398,Manao,,,,mana1299,1750,carling2025diacl;titus,features,,,titus
-296,Warao,,,,wara1303,1750,carling2025diacl;titus,features,,,titus
-297,Yanomamö,,,,yano1261,1750,carling2025diacl;titus,features,,,titus
-300,Saraveca,,,,sara1331,1750,carling2025diacl;titus,features,,,titus
-302,Bakairí,,,,baka1277,1750,carling2025diacl;titus,features,,,titus
-304,Pemón,,,,,1750,carling2025diacl;titus,features,,,titus
-309,Guayabero,,,,,1750,carling2025diacl;titus,features,,,titus
-310,Carijona,,,,,1750,carling2025diacl;titus,features,,,titus
-311,Secoya,,,,,1750,carling2025diacl;titus,features,,,titus
-315,Achuar,,,,,1750,carling2025diacl;titus,features,,,titus
-321,Candoshi,,,,,1750,carling2025diacl;titus,features,,,titus
-319,Urarina,,,,,1750,carling2025diacl;titus,features,,,titus
-320,Urarina,,,,,1750,carling2025diacl;titus,features,,,titus
-323,Auishiri,,,,,1750,carling2025diacl;titus,features,,,titus
-324,Sabela,,,,,1750,carling2025diacl;titus,features,,,titus
-325,Cofán,,,,,1750,carling2025diacl;titus,features,,,titus
-326,Páez,,,,,1750,carling2025diacl;titus,features,,,titus
-327,Guambiano,,,,,1750,carling2025diacl;titus,features,,,titus
-331,Gamela,,,,,1750,carling2025diacl;titus,features,,,titus
-332,Tarairiu,,,,tara1303,1750,carling2025diacl;titus,features,,,titus
-345,Atorai,,,,,1750,carling2025diacl;titus,features,,,titus
-347,Hoti,,,,,1750,carling2025diacl;titus,features,,,titus
-349,Sáliva,,,,,1750,carling2025diacl;titus,features,,,titus
-351,Andoque,,,,ando1254,1750,carling2025diacl;titus,features,,,titus
-352,Minica Huitoto,,,,,1750,carling2025diacl;titus,features,,,titus
-354,Ocaína,,,,,1750,carling2025diacl;titus,features,,,titus
-356,Pirahã,,,,,1750,carling2025diacl;titus,features,,,titus
-359,Rikbatsá,,,,,1750,carling2025diacl;titus,features,,,titus
-362,Coreguaje,,,,,1750,carling2025diacl;titus,features,,,titus
-366,Tuyuca,,,,,1750,carling2025diacl;titus,features,,,titus
-367,Macuna,,,,,1750,carling2025diacl;titus,features,,,titus
-374,Yabaâna,,,,,1750,carling2025diacl;titus,features,,,titus
-375,Wirina,,,,uiri1238,1750,carling2025diacl;titus,features,,,titus
-376,Apolista,,,,apol1242,1750,carling2025diacl;titus,features,,,titus
-377,Araua,,,,arua1264,1750,carling2025diacl;titus,features,,,titus
-378,Mapidian,,,,,1750,carling2025diacl;titus,features,,,titus
-380,Pasé,,,,pass1250,1750,carling2025diacl;titus,features,,,titus
-381,Cayuishana,,,,kais1242,1750,carling2025diacl;titus,features,,,titus
-383,Waraicu,,,,arai1239,1750,carling2025diacl;titus,features,,,titus
-384,Katukina,,,,katu1274,1750,carling2025diacl;titus,features,,,titus
-385,Arauá,,,,,1750,carling2025diacl;titus,features,,,titus
-386,Marawa,,,,mara1409,1750,carling2025diacl;titus,features,,,titus
-388,Catuqina do Acre,,,,,1750,carling2025diacl;titus,features,,,titus
-393,Pacahuara,,,,,1750,carling2025diacl;titus,features,,,titus
-396,Marúbo,,,,,1750,carling2025diacl;titus,features,,,titus
-397,Macu,,,,,1750,carling2025diacl;titus,features,,,titus
-399,Catío,,,,,1750,carling2025diacl;titus,features,,,titus
-400,Chimila,,,,,1750,carling2025diacl;titus,features,,,titus
-403,Quimbaya,,,,,1750,carling2025diacl;titus,features,,,titus
-404,Yurumanguí,,,,yuru1243,1750,carling2025diacl;titus,features,,,titus
-406,Yucpa,,,,,1750,carling2025diacl;titus,features,,,titus
-407,Jirajara,,,,jira1235,1750,carling2025diacl;titus,features,,,titus
-408,Timote,,,,timo1237,1750,carling2025diacl;titus,features,,,titus
-409,Guamo,,,,guam1236,1750,carling2025diacl;titus,features,,,titus
-410,Otomaco,,,,otom1301,1750,carling2025diacl;titus,features,,,titus
-411,Yaruro,,,,,1750,carling2025diacl;titus,features,,,titus
-412,Manajé,,,,,1750,carling2025diacl;titus,features,,,titus
-413,Pankarurú,,,,,1750,carling2025diacl;titus,features,,,titus
-414,Xukuru,,,,,1750,carling2025diacl;titus,features,,,titus
-415,Huamoi,,,,,1750,carling2025diacl;titus,features,,,titus
-416,Tushá,,,,,1750,carling2025diacl;titus,features,,,titus
-417,Katembri,,,,,1750,carling2025diacl;titus,features,,,titus
-418,Puri-Coroado,,,,coro1249,1750,carling2025diacl;titus,features,,,titus
-419,Txikāo,,,,,1750,carling2025diacl;titus,features,,,titus
-420,Suyá,,,,,1750,carling2025diacl;titus,features,,,titus
-423,Geico,,,,geic1236,1750,carling2025diacl;titus,features,,,titus
-424,Chané,,,,,1750,carling2025diacl;titus,features,,,titus
-426,Guaná,,,,,1750,carling2025diacl;titus,features,,,titus
-428,Zamuco,,,,zamu1245,1750,carling2025diacl;titus,features,,,titus
-430,Esmeralda,,,,,1750,carling2025diacl;titus,features,,,titus
-431,Kamsá,,,,,1750,carling2025diacl;titus,features,,,titus
-432,Andoquí,,,,,1750,carling2025diacl;titus,features,,,titus
-433,Quingnam,,,,quig1235,1750,carling2025diacl;titus,features,,,titus
-434,Muchik,,,,,1750,carling2025diacl;titus,features,,,titus
-435,Sec,,,,,1750,carling2025diacl;titus,features,,,titus
-436,Muniche,,,,,1750,carling2025diacl;titus,features,,,titus
-437,Hibito-Cholón,,,,hibi1242,1750,carling2025diacl;titus,features,,,titus
-438,Culli,,,,cull1235,1750,carling2025diacl;titus,features,,,titus
-439,Vilela,,,,,1750,carling2025diacl;titus,features,,,titus
-441,Canichana,,,,,1750,carling2025diacl;titus,features,,,titus
-443,Western Bolivian Paraguay,,,,,1750,carling2025diacl;titus,features,,,titus
-444,Otuké,,,,,1750,carling2025diacl;titus,features,,,titus
-445,Mehináku,,,,,1750,carling2025diacl;titus,features,,,titus
-446,Gorgotoqui,,,,,1750,carling2025diacl;titus,features,,,titus
-448,Puinave,,,,,1750,carling2025diacl;titus,features,,,titus
-450,Macaguane,,,,,1750,carling2025diacl;titus,features,,,titus
-451,Sapé,,,,,1750,carling2025diacl;titus,features,,,titus
-452,Awaké,,,,,1750,carling2025diacl;titus,features,,,titus
-453,Kukura,,,,,1750,carling2025diacl;titus,features,,,titus
-454,Taruma,,,,,1750,carling2025diacl;titus,features,,,titus
-455,Bane,,,,,1750,carling2025diacl;titus,features,,,titus
-457,Lule,,,,,1750,carling2025diacl;titus,features,,,titus
-459,Cuniba,,,,,1750,carling2025diacl;titus,features,,,titus
-460,Ticuna,,,,,1750,carling2025diacl;titus,features,,,titus
-461,Yuri,,,,,1750,carling2025diacl;titus,features,,,titus
-462,Wainuma,,,,,1750,carling2025diacl;titus,features,,,titus
-463,Guarú,,,,,1750,carling2025diacl;titus,features,,,titus
-465,Capón,,,,,1750,carling2025diacl;titus,features,,,titus
-466,Nahukuá,,,,,1750,carling2025diacl;titus,features,,,titus
-469,Chapacura,,,,,1750,carling2025diacl;titus,features,,,titus
-470,Urupá,,,,,1750,carling2025diacl;titus,features,,,titus
-472,Irantxe,,,,,1750,carling2025diacl;titus,features,,,titus
-473,Matanawí,,,,,1750,carling2025diacl;titus,features,,,titus
-476,Bocota,,,,bugl1243,1750,carling2025diacl;titus,features,,,titus
-477,Guaimi,,,,ngab1239,1750,carling2025diacl;titus,features,,,titus
-478,Bribri,,,,brib1243,1750,carling2025diacl;titus,features,,,titus
-479,Bribri,,,,brib1243,1750,carling2025diacl;titus,features,,,titus
-481,Guatuso,,,,male1297,1750,carling2025diacl;titus,features,,,titus
-483,Matagalpa,,,,mata1288,1750,carling2025diacl;titus,features,,,titus
-485,Sumo,,,,maya1285,1750,carling2025diacl;titus,features,,,titus
-495,Zapotec,,,,zapo1436,1750,carling2025diacl;titus,features,,,titus
-496,Chinantec,,,,chin1484,1750,carling2025diacl;titus,features,,,titus
-503,Totonac,,,,toto1252,1750,carling2025diacl;titus,features,,,titus
-505,Mixtec,,,,mixt1427,1750,carling2025diacl;titus,features,,,titus
-506,Mixtec,,,,mixt1427,1750,carling2025diacl;titus,features,,,titus
-510,Tcholabal,,,,tojo1241,1750,carling2025diacl;titus,features,,,titus
-511,Mazahua,,,,cent2144,1750,carling2025diacl;titus,features,,,titus
-512,Xincan,,,,xinc1237,1750,carling2025diacl;titus,features,,,titus
-513,Tlapanec,,,,subt1249,1750,carling2025diacl;titus,features,,,titus
-515,Tarasca,,,,tara1323,1750,carling2025diacl;titus,features,,,titus
-516,Lenca,,,,lenc1239,1750,carling2025diacl;titus,features,,,titus
-522,Uspantec,,,,uspa1245,1750,carling2025diacl;titus,features,,,titus
-527,Achi,,,,achi1256,1750,carling2025diacl;titus,features,,,titus
-790,Na-Dené,,,,atha1245,1750,carling2025diacl;titus,features,,,titus
-659,Iroquian,,,,iroq1247,1750,carling2025diacl;titus,features,,,titus
-544,Beothuk,,,,beot1247,1750,carling2025diacl;titus,features,,,titus
-552,Degexit'an,,,,dege1248,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-553,Ahtna,,,,ahte1237,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-747,Muskogean,,,,musk1252,1750,carling2025diacl;titus,features,,,titus
-555,South Slavey,,,,sout2959,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-558,Han,,,,hann1241,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-559,Holicachuk,,,,holi1241,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-568,Sekani,,,,seka1250,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-569,Tsetsaut,,,,tset1236,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-571,Northern Tutchone,,,,nort2941,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-574,Upper Kuskokwim,,,,uppe1438,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-582,Haisla,,,,hais1244,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-593,Naskapi,,,,nask1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-608,East Cree,,,,cree1272,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-617,Pentlacht,,,,pent1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-626,Laurentian,,,,laur1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-636,Wenro,,,,wenr1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-637,Erie,,,,erie1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-638,Neutral,,,,neut1237,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-639,Susquehannock,,,,susq1241,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-647,Timucua,,,,timu1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-652,Natchez,,,,natc1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-653,Natchez,,,,natc1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-660,Alsea,,,,alse1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-663,Central Kalapuyan,,,,kala1400,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-670,Cruzeño,,,,cruz1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-675,Mahican,,,,mahi1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-680,Nanticoke,,,,nant1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-682,Obispeño,,,,obis1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-684,Purisimeño,,,,puri1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-687,Siuslaw,,,,sius1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-690,Tualatin-Yamhill,,,,tual1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-695,Upper Umpqua,,,,uppe1436,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-697,Yaquina,,,,yaqu1250,1750,carling2025diacl;titus,features,,,titus
-698,Yoncalla,,,,yonc1234,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-700,Wintu,,,,wint1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-701,Karok,,,,karo1304,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-716,Takelma,,,,take1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-721,Sahaptin,,,,sout1502,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-727,Kalipsel,,,,kali1307,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-728,Kutenai,,,,kute1249,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-729,Kwalhioqua,,,,kwal1258,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-732,Salinan,,,,sali1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-734,Tongva,,,,tong1329,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-741,Zuni,,,,zuni1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-753,Wampano,,,,wamp1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-756,Southern Paiute,,,,sout2969,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-757,Chemehuevi,,,,chem1251,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-758,Ute,,,,utee1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-762,Seri,,,,seri1257,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-776,Etchemin,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-777,Carolinan Algonquian,,,,caro1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-778,Powhatan,,,,powh1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-780,Pericú,,,,peri1250,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-786,Monqui,,,,,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-787,Guaicura,,,,,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-788,Huchití,,,,,1750,carling2025diacl;asher_moseley_2007,features,,,asher_moseley_2007
-791,Algic,,,,algi1248,1750,carling2025diacl;titus,features,,,titus
-797,Nivkh,,,,gily1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-798,Koryak,,,,kory1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-805,Shor,,,,shor1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-807,Kola Sami,,,,kild1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-808,Karelian,,,,kare1335,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-818,Moksha,,,,moks1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-823,Oroch,,,,oroc1248,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-837,Salar,,,,sala1264,1750,carling2025diacl;titus,features,,,titus
-841,Mienic,,,,mien1242,1750,carling2025diacl;titus,features,,,titus
-842,Hmongic,,,,hmon1337,1750,carling2025diacl;titus,features,,,titus
-845,Naxi,,,,naxi1245,1750,carling2025diacl;titus,features,,,titus
-850,Zhuang,,,,nort3180,1750,carling2025diacl;titus,features,,,titus
-851,Hani,,,,hani1248,1750,carling2025diacl;titus,features,,,titus
-884,Yazgulyami,,,,yazg1240,1750,carling2025diacl;titus,features,,,titus
-885,Ishkashimi,,,,ishk1246,1750,carling2025diacl;titus,features,,,titus
-887,Munji,,,,munj1244,1750,carling2025diacl;titus,features,,,titus
-888,Yidgha,,,,yidg1240,1750,carling2025diacl;titus,features,,,titus
-892,Khoe-Kwadi,,,,khoe1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-895,Western Canadian Inuktitut,,,,west2618,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-896,Eastern Canadian Inuktitut,,,,east2534,1750,carling2025diacl;titus,features,,,titus
-901,Taa-!Kwi,,,,tuuu1241,1750,carling2025diacl;titus,features,,,titus
-903,Kx'a,,,,kxaa1236,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-917,Berber,,,,berb1260,1750,carling2025diacl;titus,features,,,titus
-905,Cushitic,,,,cush1243,1750,carling2025diacl;titus,features,,,titus
-907,Oromoid,,,,nucl1701,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1172,Omotic,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-918,Arabic,,,,arab1395,1750,carling2025diacl;titus,features,,,titus
-919,Songhay,,,,song1307,1750,carling2025diacl;titus,features,,,titus
-1150,Nilotic,,,,nilo1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-927,Nubian,,,,nubi1251,1750,carling2025diacl;titus,features,,,titus
-928,Maban,,,,maba1276,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-946,Chokwe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-937,Kimbundu,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-942,Banda-Yangere,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1009,Mbanza,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-947,Luimbi,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-953,Shanjo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-955,Sala,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-966,Lundwe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-978,Tongwe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-986,Kimbu,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-987,Kota,,,,kota1274,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-988,Mbesa,,,,mbes1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-989,Ngando,,,,ngan1302,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-995,Ndendeule,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1003,Hehe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1006,Ngbaka-Ma'bo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1007,Ngbaka-Manza,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1008,Monzombo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1015,Vidunda,,,,vidu1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1018,Sagala,,,,saga1256,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1030,Biseni-Okordia,,,,bise1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1033,Ibani,,,,iban1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1034,Kirike,,,,kiri1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1045,Guere,,,,guer1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1046,Bakwé,,,,bakw1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1047,Bassa,,,,nucl1418,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1052,Kuwaa,,,,kuwa1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1062,Nyarafolo Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1063,Palaka Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1064,Senari,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1065,Tagwana Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1061,Djimini Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1078,Soninke,,,,soni1259,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1084,Téén,,,,teen1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1085,Bondoukou Kulango,,,,bond1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1086,Bouna Kulango,,,,boun1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1087,Kuranko,,,,kura1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1088,Konyanka Maninka,,,,kony1250,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1101,Fang,,,,fang1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1104,Gbaya-Toongo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1105,Gbaya-Biyanda,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1107,Buduma,,,,budu1265,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1109,Putai,,,,puta1243,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1112,Wojenaka,,,,woje1238,1750,carling2025diacl;titus,features,,,titus
-1118,Limba,,,,limb1267,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1119,Dogon,,,,dogo1299,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1121,Nuni,,,,nuni1253,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1122,Lyélé,,,,lyel1241,1750,carling2025diacl;titus,features,,,titus
-1124,Mampruli,,,,mamp1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1125,Konkomba,,,,konk1269,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1127,Marka,,,,mark1256,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1128,Mande Samo,,,,mand1437,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1130,Bomu,,,,bomu1247,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1137,TIikar,,,,tika1246,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1138,Mambila,,,,mamb1312,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1139,Bokoto,,,,boko1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1141,Mbum,,,,mbum1254,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1142,Gbanu,,,,gban1260,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1143,Bata,,,,bata1314,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1144,Suma,,,,suma1264,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1145,Marba,,,,marb1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1146,Marba,,,,marb1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1147,Musey,,,,muse1242,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1148,Mesme,,,,mesm1239,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1151,Surmic,,,,surm1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1152,Ethiopic,,,,ethi1244,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1153,Ilwana,,,,ilwa1237,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1154,Pokomo,,,,poko1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1155,Mijikenda,,,,miji1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1156,Seuta,,,,seut1234,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1157,Ruvu,,,,ruvu1235,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1167,Tooro,,,,toor1238,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1168,Sukuma,,,,suku1261,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1169,Luyia,,,,luyi1234,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1170,Ikoma-Nata,,,,ikom1245,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1171,Sumbwa,,,,sumb1240,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1173,Moru-Madi,,,,moru1252,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1174,Mangbutu-Efe,,,,mang1425,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1175,Mangbetu-Asua,,,,mang1393,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1176,Burunge,,,,buru1320,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1177,Gbaya-Bozoum,,,,gbay1286,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1178,Northern Ngbandi,,,,nort2774,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
-1179,Mbangi,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,,,asher_moseley_2007 titus
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+map_1,,,,,,,carling2025diacl,,map,
+360,Aikanã,,,,aika1237,1750,carling2025diacl;titus,features,feature,map_1
+262,Palikúr,,,,,1750,carling2025diacl;titus,features,feature,map_1
+371,Baré,,,,,1750,carling2025diacl;titus,features,feature,map_1
+265,Arawak,,,,,1750,carling2025diacl;titus,features,feature,map_1
+499,Garifúna,,,,,1750,carling2025diacl;titus,features,feature,map_1
+343,Paraujano,,,,,1750,carling2025diacl;titus,features,feature,map_1
+267,Wayuu,,,,,1750,carling2025diacl;titus,features,feature,map_1
+344,Wapishana,,,,,1750,carling2025diacl;titus,features,feature,map_1
+342,Baniwa,,,,,1750,carling2025diacl;titus,features,feature,map_1
+266,Achagua,,,,,1750,carling2025diacl;titus,features,feature,map_1
+306,Piapoco,,,,,1750,carling2025diacl;titus,features,feature,map_1
+372,Cauixána,,,,,1750,carling2025diacl;titus,features,feature,map_1
+336,Machiguenga,,,,,1750,carling2025diacl;titus,features,feature,map_1
+337,Nomatsiguenga,,,,,1750,carling2025diacl;titus,features,feature,map_1
+301,Parecís,,,,,1750,carling2025diacl;titus,features,feature,map_1
+373,Yawalapití,,,,,1750,carling2025diacl;titus,features,feature,map_1
+382,Waurá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+440,Baure,,,,baur1253,1750,carling2025diacl;titus,features,feature,map_1
+244,Ignaciano,,,,,1750,carling2025diacl;titus,features,feature,map_1
+425,Terêna,,,,,1750,carling2025diacl;titus,features,feature,map_1
+338,Apurinã,,,,,1750,carling2025diacl;titus,features,feature,map_1
+370,Iñapari,,,,,1750,carling2025diacl;titus,features,feature,map_1
+379,Yine,,,,,1750,carling2025diacl;titus,features,feature,map_1
+318,Chamicuro,,,,,1750,carling2025diacl;titus,features,feature,map_1
+339,Yanesha',,,,,1750,carling2025diacl;titus,features,feature,map_1
+855,Atayal (Ci'uli),,,,atay1247,1750,carling2025diacl;titus,features,feature,map_1
+856,Atayal (Squliq),,,,atay1247,1750,carling2025diacl;titus,features,feature,map_1
+857,Seediq,,,,taro1264,1750,carling2025diacl;titus,features,feature,map_1
+852,Bunun,,,,bunu1267,1750,carling2025diacl;titus,features,feature,map_1
+854,Amis,,,,amis1246,1750,carling2025diacl;titus,features,feature,map_1
+858,Yami,,,,yami1254,1750,carling2025diacl;titus,features,feature,map_1
+853,Paiwan,,,,paiw1248,1750,carling2025diacl;titus,features,feature,map_1
+221,Aymara,,,,,1750,carling2025diacl;titus,features,feature,map_1
+57,Basque (East),,,,,1750,carling2025diacl;titus,features,feature,map_1
+58,Basque (West),,,,,1750,carling2025diacl;titus,features,feature,map_1
+421,Kuikúro-Kalapálo,,,,kuik1246,1750,carling2025diacl;titus,features,feature,map_1
+422,Kuikúro-Kalapálo,,,,kuik1246,1750,carling2025diacl;titus,features,feature,map_1
+442,Cayubaba,,,,cayu1262,1750,carling2025diacl;titus,features,feature,map_1
+290,Chiquitano,,,,chiq1248,1750,carling2025diacl;titus,features,feature,map_1
+59,Albanian (Tosk),,,,tosk1239,1750,carling2025diacl;titus,features,feature,map_1
+60,Eastern Armenian,,,,nucl1235,1750,carling2025diacl;titus,features,feature,map_1
+5,Latvian,,,,latv1249,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+61,Latvian,,,,latv1249,1750,carling2025diacl;titus,features,feature,map_1
+62,Lithuanian,,,,lith1251,1750,carling2025diacl;titus,features,feature,map_1
+63,Russian,,,,russ1263,1750,carling2025diacl;titus,features,feature,map_1
+64,Ukrainian,,,,ukra1253,1750,carling2025diacl;titus,features,feature,map_1
+65,Bulgarian,,,,bulg1262,1750,carling2025diacl;titus,features,feature,map_1
+66,Croatian,,,,croa1245,1750,carling2025diacl;titus,features,feature,map_1
+67,Serbian,,,,serb1264,1750,carling2025diacl;titus,features,feature,map_1
+68,Slovene,,,,slov1268,1750,carling2025diacl;titus,features,feature,map_1
+69,Czech,,,,czec1258,1750,carling2025diacl;titus,features,feature,map_1
+70,Polish,,,,poli1260,1750,carling2025diacl;titus,features,feature,map_1
+71,Upper Sorbian,,,,,1750,carling2025diacl;titus,features,feature,map_1
+72,Breton,,,,bret1244,1750,carling2025diacl;titus,features,feature,map_1
+73,Cornish,,,,corn1251,1750,carling2025diacl;titus,features,feature,map_1
+74,Welsh,,,,wels1247,1750,carling2025diacl;titus,features,feature,map_1
+75,Irish,,,,iris1253,1750,carling2025diacl;titus,features,feature,map_1
+76,Scottish Gaelic,,,,scot1245,1750,carling2025diacl;titus,features,feature,map_1
+77,Danish,,,,dani1285,1750,carling2025diacl;titus,features,feature,map_1
+78,Elfdalian,,,,elfd1234,1750,carling2025diacl;titus,features,feature,map_1
+79,Faroese,,,,faro1244,1750,carling2025diacl;titus,features,feature,map_1
+80,Icelandic,,,,icel1247,1750,carling2025diacl;titus,features,feature,map_1
+81,Norwegian,,,,norw1258,1750,carling2025diacl;titus,features,feature,map_1
+82,Norwegian (Bokmål),,,,norw1259,1750,carling2025diacl;titus,features,feature,map_1
+83,Norwegian (Nynorsk),,,,norw1262,1750,carling2025diacl;titus,features,feature,map_1
+24,Swedish,,,,swed1254,1750,carling2025diacl;asher_moseley_2007;mml2015,features,feature,map_1
+84,Dutch,,,,dutc1256,1750,carling2025diacl;titus,features,feature,map_1
+26,English,,,,stan1293,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+86,Frisian,,,,west2354,1750,carling2025diacl;titus,features,feature,map_1
+87,German,,,,stan1295,1750,carling2025diacl;titus,features,feature,map_1
+88,Low German,,,,nort2627,1750,carling2025diacl;titus,features,feature,map_1
+89,Swiss German,,,,swis1247,1750,carling2025diacl;titus,features,feature,map_1
+90,Yiddish,,,,east2295,1750,carling2025diacl;titus,features,feature,map_1
+31,Modern Greek,,,,mode1248,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+872,Hindi,,,,hind1269,1750,carling2025diacl;titus,features,feature,map_1
+92,Urdu,,,,,1750,carling2025diacl;titus,features,feature,map_1
+93,Kumaoni,,,,kuma1273,1750,carling2025diacl;titus,features,feature,map_1
+94,Rajasthani,,,,raja1256,1750,carling2025diacl;titus,features,feature,map_1
+98,Punjabi,,,,panj1256,1750,carling2025diacl;titus,features,feature,map_1
+99,Assamese,,,,assa1263,1750,carling2025diacl;titus,features,feature,map_1
+100,Bengali,,,,beng1280,1750,carling2025diacl;titus,features,feature,map_1
+101,Maithili,,,,mait1250,1750,carling2025diacl;titus,features,feature,map_1
+96,Nepali,,,,nepa1254,1750,carling2025diacl;titus,features,feature,map_1
+97,Kashmiri,,,,kash1277,1750,carling2025diacl;titus,features,feature,map_1
+102,Khowar,,,,khow1242,1750,carling2025diacl;titus,features,feature,map_1
+103,Lahnda,,,,west2386,1750,carling2025diacl;titus,features,feature,map_1
+104,Sindhi,,,,sind1272,1750,carling2025diacl;titus,features,feature,map_1
+105,Maldivian,,,,dhiv1236,1750,carling2025diacl;titus,features,feature,map_1
+106,Sinhalese,,,,sinh1246,1750,carling2025diacl;titus,features,feature,map_1
+107,Konkani,,,,konk1267,1750,carling2025diacl;titus,features,feature,map_1
+108,Marathi,,,,mara1378,1750,carling2025diacl;titus,features,feature,map_1
+109,Gujarati,,,,guja1252,1750,carling2025diacl;titus,features,feature,map_1
+110,Ossetian (Iron),,,,iron1242,1750,carling2025diacl;titus,features,feature,map_1
+111,Pashto,,,,nucl1276,1750,carling2025diacl;titus,features,feature,map_1
+112,Shughni,,,,shug1248,1750,carling2025diacl;titus,features,feature,map_1
+113,Wakhi,,,,wakh1245,1750,carling2025diacl;titus,features,feature,map_1
+114,Yagnobi,,,,yagn1238,1750,carling2025diacl;titus,features,feature,map_1
+115,Baluchi,,,,sout2642,1750,carling2025diacl;titus,features,feature,map_1
+116,Gilaki,,,,gila1241,1750,carling2025diacl;titus,features,feature,map_1
+117,Kurdish (Kurmanji),,,,nort2641,1750,carling2025diacl;titus,features,feature,map_1
+118,Kurdish (Sorani),,,,cent1972,1750,carling2025diacl;titus,features,feature,map_1
+119,Parachi,,,,para1299,1750,carling2025diacl;titus,features,feature,map_1
+120,Persian,,,,west2369,1750,carling2025diacl;titus,features,feature,map_1
+121,Tajik,,,,taji1245,1750,carling2025diacl;titus,features,feature,map_1
+122,Talysh,,,,taly1247,1750,carling2025diacl;titus,features,feature,map_1
+123,Ashkun,,,,ashk1246,1750,carling2025diacl;titus,features,feature,map_1
+124,Kati,,,,kati1270,1750,carling2025diacl;titus,features,feature,map_1
+125,Prasun,,,,pras1239,1750,carling2025diacl;titus,features,feature,map_1
+126,Tregami,,,,treg1243,1750,carling2025diacl;titus,features,feature,map_1
+127,Waigali,,,,waig1243,1750,carling2025diacl;titus,features,feature,map_1
+128,Catalan,,,,stan1289,1750,carling2025diacl;titus,features,feature,map_1
+129,French,,,,stan1290,1750,carling2025diacl;titus,features,feature,map_1
+130,Friulian,,,,friu1240,1750,carling2025diacl;titus,features,feature,map_1
+131,Italian,,,,ital1282,1750,carling2025diacl;titus,features,feature,map_1
+132,Ladin,,,,ladi1250,1750,carling2025diacl;titus,features,feature,map_1
+133,Occitan,,,,occi1239,1750,carling2025diacl;titus,features,feature,map_1
+37,Portuguese,,,,port1283,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+135,Provençal,,,,occi1239,1750,carling2025diacl;titus,features,feature,map_1
+136,Romanian,,,,roma1327,1750,carling2025diacl;titus,features,feature,map_1
+40,Romansh,,,,roma1326,1750,carling2025diacl;bfs2005,features,feature,map_1
+137,Sardinian,,,,logu1236,1750,carling2025diacl;titus,features,feature,map_1
+138,Spanish,,,,stan1288,1750,carling2025diacl;titus,features,feature,map_1
+139,Walloon,,,,wall1255,1750,carling2025diacl;titus,features,feature,map_1
+389,Itonama,,,,iton1250,1750,carling2025diacl;titus,features,feature,map_1
+355,Jabutí,,,,djeo1235,1750,carling2025diacl;titus,features,feature,map_1
+191,Xokleng,,,,xokl1240,1750,carling2025diacl;titus,features,feature,map_1
+217,Xokleng,,,,xokl1240,1750,carling2025diacl;titus,features,feature,map_1
+140,Georgian,,,,nucl1302,1750,carling2025diacl;titus,features,feature,map_1
+141,Svan,,,,svan1243,1750,carling2025diacl;titus,features,feature,map_1
+142,Laz,,,,lazz1240,1750,carling2025diacl;titus,features,feature,map_1
+143,Megrelian,,,,ming1252,1750,carling2025diacl;titus,features,feature,map_1
+471,Kwaza,,,,kwaz1243,1750,carling2025diacl;titus,features,feature,map_1
+225,Leko,,,,leco1242,1750,carling2025diacl;titus,features,feature,map_1
+243,Mosetén,,,,mose1249,1750,carling2025diacl;titus,features,feature,map_1
+257,Movima,,,,movi1243,1750,carling2025diacl;titus,features,feature,map_1
+468,Mamaindé,,,,mama1278,1750,carling2025diacl;titus,features,feature,map_1
+282,Sabané,,,,saba1268,1750,carling2025diacl;titus,features,feature,map_1
+144,Batsbi,,,,bats1242,1750,carling2025diacl;titus,features,feature,map_1
+145,Chechen,,,,chec1245,1750,carling2025diacl;titus,features,feature,map_1
+146,Kryz,,,,kryt1240,1750,carling2025diacl;titus,features,feature,map_1
+147,Lezgian,,,,lezg1247,1750,carling2025diacl;titus,features,feature,map_1
+148,Khwarshi,,,,khva1239,1750,carling2025diacl;titus,features,feature,map_1
+150,Kabardian,,,,kaba1278,1750,carling2025diacl;titus,features,feature,map_1
+391,Chácobo,,,,chac1251,1750,carling2025diacl;titus,features,feature,map_1
+392,Kashinawá,,,,cash1254,1750,carling2025diacl;titus,features,feature,map_1
+390,Cavineña,,,,cavi1250,1750,carling2025diacl;titus,features,feature,map_1
+195,Karitiâna,,,,kari1311,1750,carling2025diacl;titus,features,feature,map_1
+361,Aruá,,,,arua1261,1750,carling2025diacl;titus,features,feature,map_1
+283,Cinta Larga,,,,cint1239,1750,carling2025diacl;titus,features,feature,map_1
+209,Suruí Paitér,,,,suru1262,1750,carling2025diacl;titus,features,feature,map_1
+358,Puruborá,,,,puru1264,1750,carling2025diacl;titus,features,feature,map_1
+284,Awetí,,,,,1750,carling2025diacl;titus,features,feature,map_1
+202,Jurúna,,,,,1750,carling2025diacl;titus,features,feature,map_1
+207,Sateré-Mawé,,,,,1750,carling2025diacl;titus,features,feature,map_1
+199,Kuruáya,,,,,1750,carling2025diacl;titus,features,feature,map_1
+205,Mundurukú,,,,,1750,carling2025diacl;titus,features,feature,map_1
+250,Guaraní (Avá),,,,,1750,carling2025diacl;titus,features,feature,map_1
+198,Guaraní (Eastern Bolivian),,,,,1750,carling2025diacl;titus,features,feature,map_1
+246,Guaraní (Mbyá),,,,,1750,carling2025diacl;titus,features,feature,map_1
+247,Guaraní (Paraguayan),,,,,1750,carling2025diacl;titus,features,feature,map_1
+248,Kaiwá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+210,Tapiete,,,,,1750,carling2025diacl;titus,features,feature,map_1
+289,Guarayó,,,,,1750,carling2025diacl;titus,features,feature,map_1
+208,Sirionó,,,,,1750,carling2025diacl;titus,features,feature,map_1
+200,Emerillon,,,,,1750,carling2025diacl;titus,features,feature,map_1
+213,Urubú-Ka'apór,,,,,1750,carling2025diacl;titus,features,feature,map_1
+206,Wayampi do Amapari,,,,,1750,carling2025diacl;titus,features,feature,map_1
+203,Kamayurá,,,,kama1373,1750,carling2025diacl;titus,features,feature,map_1
+204,Kayabí,,,,,1750,carling2025diacl;titus,features,feature,map_1
+357,Parintintin,,,,,1750,carling2025diacl;titus,features,feature,map_1
+201,Guajajára,,,,,1750,carling2025diacl;titus,features,feature,map_1
+211,Tembé,,,,,1750,carling2025diacl;titus,features,feature,map_1
+368,Kokáma,,,,,1750,carling2025diacl;titus,features,feature,map_1
+294,Nhengatu,,,,,1750,carling2025diacl;titus,features,feature,map_1
+212,Tupinambá,,,,tupi1273,1750,carling2025diacl;titus,features,feature,map_1
+197,Asuriní of Xingú,,,,,1750,carling2025diacl;titus,features,feature,map_1
+151,Uyghur,,,,,1750,carling2025diacl;titus,features,feature,map_1
+152,Uzbek,,,,,1750,carling2025diacl;titus,features,feature,map_1
+153,Turkmen,,,,turk1304,1750,carling2025diacl;titus,features,feature,map_1
+154,Turkish,,,,nucl1301,1750,carling2025diacl;titus,features,feature,map_1
+155,Karachay-Balkar,,,,,1750,carling2025diacl;titus,features,feature,map_1
+156,Kazakh,,,,kaza1248,1750,carling2025diacl;titus,features,feature,map_1
+157,Estonian,,,,,1750,carling2025diacl;titus,features,feature,map_1
+158,Finnish,,,,finn1318,1750,carling2025diacl;titus,features,feature,map_1
+159,Northern Saami,,,,nort2671,1750,carling2025diacl;titus,features,feature,map_1
+160,Hungarian,,,,hung1274,1750,carling2025diacl;titus,features,feature,map_1
+242,Yurakaré,,,,yura1255,1750,carling2025diacl;titus,features,feature,map_1
+827,Tibetan,,,,tibe1272,1750,carling2025diacl;titus,features,feature,map_1
+848,Jingpho,,,,kach1280,1750,carling2025diacl;titus,features,feature,map_1
+859,Mandarin Chinese,,,,mand1415,1750,carling2025diacl;titus,features,feature,map_1
+458,Proto-Jê,,,,,1750,carling2025diacl;titus,features,feature,map_1
+161,Adyghe,,,,adyg1241,1750,carling2025diacl;titus,features,feature,map_1
+162,Ingush,,,,ingu1240,1750,carling2025diacl;titus,features,feature,map_1
+163,Udi,,,,udii1243,1750,carling2025diacl;titus,features,feature,map_1
+164,Beshta,,,,bezh1248,1750,carling2025diacl;titus,features,feature,map_1
+165,Khinalug,,,,khin1240,1750,carling2025diacl;titus,features,feature,map_1
+166,Budukh,,,,budu1248,1750,carling2025diacl;titus,features,feature,map_1
+168,Abaza,,,,abaz1241,1750,carling2025diacl;titus,features,feature,map_1
+169,Avar,,,,avar1256,1750,carling2025diacl;titus,features,feature,map_1
+170,Andi,,,,andi1255,1750,carling2025diacl;titus,features,feature,map_1
+171,Lak,,,,lakk1252,1750,carling2025diacl;titus,features,feature,map_1
+172,Dargwa,,,,darg1241,1750,carling2025diacl;titus,features,feature,map_1
+173,Gagauz,,,,gaga1249,1750,carling2025diacl;titus,features,feature,map_1
+174,Crimean Tatar,,,,crim1257,1750,carling2025diacl;titus,features,feature,map_1
+175,Kumyk,,,,kumy1244,1750,carling2025diacl;titus,features,feature,map_1
+176,Tabasaran,,,,taba1259,1750,carling2025diacl;titus,features,feature,map_1
+177,Aghul,,,,aghu1253,1750,carling2025diacl;titus,features,feature,map_1
+178,Tsakhur,,,,tsak1249,1750,carling2025diacl;titus,features,feature,map_1
+179,Rutul,,,,rutu1240,1750,carling2025diacl;titus,features,feature,map_1
+180,Azerbaijani,,,,nort2697,1750,carling2025diacl;titus,features,feature,map_1
+181,Tuvan,,,,tuvi1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+182,Belarusian,,,,,1750,carling2025diacl;titus,features,feature,map_1
+183,Slovak,,,,slov1269,1750,carling2025diacl;titus,features,feature,map_1
+184,Southern Altai,,,,sout2694,1750,carling2025diacl;titus,features,feature,map_1
+56,Bhili,,,,,1750,carling2025diacl;titus,features,feature,map_1
+876,Central Dravidian,,,,cent2227,1750,carling2025diacl;titus,features,feature,map_1
+868,Duruwa,,,,duru1236,1750,carling2025diacl;titus,features,feature,map_1
+861,Kannada,,,,nucl1305,1750,carling2025diacl;titus,features,feature,map_1
+870,Konda-Dora,,,,kond1295,1750,carling2025diacl;titus,features,feature,map_1
+867,Kui,,,,kuii1252,1750,carling2025diacl;titus,features,feature,map_1
+871,Kurukh,,,,kuru1302,1750,carling2025diacl;titus,features,feature,map_1
+862,Malayalam,,,,mala1464,1750,carling2025diacl;titus,features,feature,map_1
+869,Pottangi Ollar Gadaba,,,,pott1240,1750,carling2025diacl;titus,features,feature,map_1
+866,Southeastern Kolami,,,,sout1549,1750,carling2025diacl;titus,features,feature,map_1
+864,Tamil,,,,tami1289,1750,carling2025diacl;titus,features,feature,map_1
+863,Telugu,,,,telu1262,1750,carling2025diacl;titus,features,feature,map_1
+873,Mundaic,,,,mund1335,1750,carling2025diacl;titus,features,feature,map_1
+836,East Yugur,,,,east2337,1750,carling2025diacl;titus,features,feature,map_1
+828,Mongolian (Khalkha),,,,halh1238,1750,carling2025diacl;titus,features,feature,map_1
+830,Khamnigan Mongol,,,,kham1281,1750,carling2025diacl;titus,features,feature,map_1
+817,Kalmyk,,,,kalm1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+829,Peripheral Mongolian,,,,peri1253,1750,carling2025diacl;titus,features,feature,map_1
+799,Buryat (Russia),,,,russ1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+792,Even,,,,even1260,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+801,Evenki,,,,even1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+825,Nanai,,,,nana1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+824,Udihe,,,,udih1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+800,Bashkir,,,,bash1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+816,Chuvash,,,,chuv1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+822,Kyrgyz,,,,kirg1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+821,Sakha,,,,yaku1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+820,Tatar,,,,tata1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+819,Erzya,,,,erzy1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+813,Khanty,,,,khan1273,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+814,Komi,,,,komi1267,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+803,Nganasan,,,,ngan1291,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+804,Selkup,,,,selk1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+806,Skolt Sami,,,,skol1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+810,Tundra Nenets,,,,nene1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+811,Tundra Nenets,,,,nene1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+815,Udmurt,,,,udmu1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1091,Bura-Pabir,,,,bura1292,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1089,Tera,,,,tera1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+910,Afar,,,,afar1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+911,Saho,,,,saho1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+906,Somali,,,,soma1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+915,Coptic,,,,copt1239,1750,carling2025diacl;titus,features,feature,map_1
+914,Beja,,,,beja1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+909,Amharic,,,,amha1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+912,Tigre,,,,tigr1270,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+913,Tigrinya,,,,tigr1271,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1160,Alagwa,,,,alag1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1159,Iraqw,,,,iraq1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1090,Bole,,,,nucl1695,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1108,Hausa,,,,haus1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+891,Afrikaans,,,,afri1274,1750,carling2025diacl;titus,features,feature,map_1
+874,Bhojpuri,,,,bhoj1244,1750,carling2025diacl;titus,features,feature,map_1
+883,Dari,,,,dari1249,1750,carling2025diacl;titus,features,feature,map_1
+881,Indus Kohistani,,,,indu1241,1750,carling2025diacl;titus,features,feature,map_1
+877,Khandesi,,,,khan1272,1750,carling2025diacl;titus,features,feature,map_1
+882,Kullu Pahari,,,,kull1236,1750,carling2025diacl;titus,features,feature,map_1
+875,Magahi,,,,maga1260,1750,carling2025diacl;titus,features,feature,map_1
+886,Ormuri,,,,ormu1247,1750,carling2025diacl;titus,features,feature,map_1
+838,Sarikoli,,,,sari1246,1750,carling2025diacl;titus,features,feature,map_1
+879,Shina,,,,shin1264,1750,carling2025diacl;titus,features,feature,map_1
+1133,Jukun Takum,,,,juku1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1136,Kpan,,,,kpan1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1135,Tigon Mbembe,,,,tigo1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1031,Izon,,,,izon1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1067,Efik,,,,efik1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1068,Ibibio,,,,ibib1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1073,Obolo,,,,obol1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+962,Godié,,,,godi1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1028,Bini,,,,bini1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1069,Ejagham,,,,ejag1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1032,Kalabari,,,,kala1381,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1023,Idoma,,,,idom1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1029,Igbo,,,,nucl1417,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1019,Ewe,,,,ewee1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1020,Fon,,,,fonn1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+945,Vute,,,,vute1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1110,Bambara,,,,bamb1269,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1048,Bandi,,,,band1352,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1131,Bissa,,,,biss1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1022,Busa,,,,busa1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1126,Dyula,,,,dyul1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1049,Liberia Kpelle,,,,libe1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1050,Loma,,,,loma1260,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1076,Mandinka,,,,mand1436,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1051,Mende,,,,mend1266,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1077,Sankaran Maninka,,,,sank1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1129,Southern Bobo Madaré,,,,sout2840,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1115,Susu,,,,susu1250,1750,carling2025diacl;titus,features,feature,map_1
+1113,Vai,,,,vaii1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1111,Yalunka,,,,yalu1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1070,Oroko,,,,orok1266,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1075,Tuki,,,,tuki1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1071,Tunen,,,,tune1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+990,Mongo,,,,mong1338,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1099,Kamba (Kenya),,,,kamb1297,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1100,Meru,,,,meru1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1162,Langi,,,,lang1320,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1161,Mbugwe,,,,mbug1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+984,Nyamwezi,,,,nyam1276,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1163,Nyaturu,,,,nyat1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+996,Bena (Tanzania),,,,bena1262,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+997,Bondei,,,,bond1247,1750,carling2025diacl;titus,features,feature,map_1
+998,Gogo,,,,gogo1263,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1158,Kami (Tanzania),,,,kami1256,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1004,Shambala,,,,sham1280,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+967,Swahili,,,,swah1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+935,Kikongo,,,,koon1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1098,Ganda,,,,gand1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1166,Haya,,,,haya1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+991,Kinyarwanda,,,,kiny1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+993,Konzo,,,,konz1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+992,Nyoro,,,,nyor1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1165,Zinza,,,,zinz1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+950,Fwe,,,,fwee1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+948,Luchazi,,,,luch1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+976,Lunda,,,,lund1266,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+949,Luvale,,,,luva1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+974,Luyi,,,,luya1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+975,Kaonde,,,,kaon1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+979,Luba-Katanga,,,,luba1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+938,Bemba,,,,bemb1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+951,Chitonga,,,,tong1318,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+956,Ila,,,,ilaa1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+970,Lala-Bisa,,,,lala1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+972,Lala-Bisa,,,,lala1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+973,Lala-Bisa,,,,lala1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+971,Lamba,,,,lamb1271,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+954,Lenje,,,,lenj1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1164,Nyakyusa-Ngonde,,,,nyak1260,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+952,Soli,,,,soli1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+983,Ngoni,,,,ngon1269,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1011,Nyanja,,,,nyan1308,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+980,Sena,,,,nucl1396,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+977,Tumbuka,,,,tumb1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+999,Chimwera,,,,mwer1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1000,Machinga,,,,mach1265,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1010,Makhuwa,,,,makh1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1001,Makonde,,,,mako1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1014,Matumbi,,,,matu1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1017,Ndengereko,,,,nden1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1002,Yao,,,,yaoo1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+964,Herero,,,,here1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+936,Umbundu,,,,umbu1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+968,Shona,,,,shon1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+902,Southern Sotho,,,,sout2807,1750,carling2025diacl;titus,features,feature,map_1
+900,Swati,,,,swat1243,1750,carling2025diacl;titus,features,feature,map_1
+981,Tswa,,,,tswa1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+893,Tswana,,,,tswa1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+985,Venda,,,,vend1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+982,Zulu,,,,zulu1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1042,Pular,,,,pula1262,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1043,Sereer,,,,sere1260,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+933,Wolof,,,,nucl1347,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1040,Baatonum,,,,baat1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1123,Bimoba,,,,bimo1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1083,Buli (Ghana),,,,buli1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1120,Central Dagaare,,,,sout2789,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1038,Dagbani,,,,dagb1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1036,Gourmanchéma,,,,gour1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1081,Konni,,,,konn1242,1750,carling2025diacl;titus,features,feature,map_1
+1037,Kusaal,,,,kusa1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1072,Malba Birifor,,,,malb1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+963,Mooré,,,,moss1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1041,Ngangam,,,,ngan1299,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1026,Gbagyi,,,,gbag1258,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1025,Gbari,,,,gbar1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1024,Nupe-Nupe-Tako,,,,nupe1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1060,Abron,,,,abro1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+960,Akan,,,,akan1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1058,Akan,,,,akan1250,1750,carling2025diacl;titus,features,feature,map_1
+1053,Anii,,,,anyi1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1054,Awutu,,,,awut1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1055,Baoulé,,,,baou1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1057,Chumburung,,,,chum1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1021,Ga,,,,gaaa1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1059,Gonja,,,,gonj1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1056,Nzima,,,,nzim1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1079,Supyire Senoufo,,,,supy1237,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1114,Sherbro,,,,sher1258,1750,carling2025diacl;titus,features,feature,map_1
+1117,Southern Kisi,,,,sout2778,1750,carling2025diacl;titus,features,feature,map_1
+1116,Temne,,,,timn1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1082,Chakali,,,,chak1271,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1080,Kasem,,,,kase1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1039,Lama (Togo),,,,lama1275,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1035,Tumulung Sisaala,,,,tumu1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1132,Tiv,,,,tivv1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1102,Gbaya-Bossangoa,,,,gbay1287,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1012,Mono (Banda),,,,mono1270,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1005,Ngbaka Minagende,,,,ngba1285,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1103,Northwest Gbaya,,,,nort2775,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+994,Zande,,,,zand1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1044,Klao,,,,klao1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+965,Southern Grebo,,,,sout2826,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1074,Bamun,,,,bamu1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1066,Fe'fe',,,,fefe1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1027,Yoruba,,,,yoru1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+890,Plateau Malagasy,,,,plat1254,1750,carling2025diacl;titus,features,feature,map_1
+839,Bouyei,,,,bouy1240,1750,carling2025diacl;titus,features,feature,map_1
+843,Hlai,,,,hlai1239,1750,carling2025diacl;titus,features,feature,map_1
+840,Sui,,,,suii1243,1750,carling2025diacl;titus,features,feature,map_1
+826,Hakka Chinese,,,,hakk1236,1750,carling2025diacl;titus,features,feature,map_1
+860,Min Bei Chinese,,,,minb1244,1750,carling2025diacl;titus,features,feature,map_1
+835,Min Nan Chinese,,,,minn1241,1750,carling2025diacl;titus,features,feature,map_1
+833,Wu Chinese,,,,wuch1236,1750,carling2025diacl;titus,features,feature,map_1
+834,Wu Chinese,,,,wuch1236,1750,carling2025diacl;titus,features,feature,map_1
+849,Yue Chinese,,,,yuec1235,1750,carling2025diacl;titus,features,feature,map_1
+847,Bai,,,,baic1239,1750,carling2025diacl;titus,features,feature,map_1
+844,Nuosu,,,,sich1238,1750,carling2025diacl;titus,features,feature,map_1
+846,Lizu,,,,lizu1234,1750,carling2025diacl;titus,features,feature,map_1
+878,Leh Ladakhi,,,,lada1244,1750,carling2025diacl;titus,features,feature,map_1
+623,Algonquin,,,,algo1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+621,Atikamekw,,,,atik1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+589,Central Ojibwa,,,,cent2136,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+609,Cheyenne,,,,chey1247,1750,carling2025diacl;titus,features,feature,map_1
+624,Eastern Abenaki,,,,east2544,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+622,Eastern Ojibwa,,,,east2542,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+628,Loup A,,,,loup1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+610,Malecite-Passamaquoddy,,,,male1292,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+748,Menominee,,,,meno1252,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+752,Meskwaki,,,,mesk1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+751,Miami,,,,miam1252,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+611,Mi'kmaq,,,,mikm1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+627,Mohegan-Montauk-Narragansett,,,,mohe1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+754,Mohegan-Montauk-Narragansett,,,,mohe1244,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+592,Montagnais,,,,mont1268,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+679,Munsee,,,,muns1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+590,Plains Cree,,,,plai1258,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+683,Potawatomi,,,,pota1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+587,Severn Ojibwa,,,,seve1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+750,Shawnee,,,,shaw1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+586,Blackfoot,,,,siks1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+594,Swampy Cree,,,,swam1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+595,Swampy Cree,,,,swam1239,1750,carling2025diacl;titus,features,feature,map_1
+693,Unami,,,,unam1242,1750,carling2025diacl;titus,features,feature,map_1
+625,Western Abenaki,,,,west2630,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+588,Western Ojibwa,,,,west1510,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+699,Wiyot,,,,wiyo1248,1750,carling2025diacl;titus,features,feature,map_1
+591,Woods Cree,,,,wood1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+708,Yurok,,,,yuro1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+341,Curripaco,,,,curr1243,1750,carling2025diacl;titus,features,feature,map_1
+340,Maipure,,,,maip1246,1750,carling2025diacl;titus,features,feature,map_1
+335,Culina,,,,culi1244,1750,carling2025diacl;titus,features,feature,map_1
+334,Jamamadí,,,,jama1261,1750,carling2025diacl;titus,features,feature,map_1
+333,Paumarí,,,,paum1247,1750,carling2025diacl;titus,features,feature,map_1
+605,Assiniboine,,,,assi1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+643,Catawba,,,,cata1286,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+604,Crow,,,,crow1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+596,Dakota,,,,dako1258,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+606,Hidatsa,,,,hida1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+749,Ho-Chunk,,,,hoch1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+598,Iowa-Otoe-Missouria,,,,iowa1245,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+599,Kansa,,,,kans1243,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+602,Lakota,,,,lako1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+603,Mandan,,,,mand1446,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+597,Omaha-Ponca,,,,omah1247,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+600,Osage,,,,osag1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+601,Quapaw,,,,quap1242,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+642,Tutelo,,,,tute1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+580,Tsimshian,,,,nucl1649,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+363,Cubeo,,,,cube1242,1750,carling2025diacl;titus,features,feature,map_1
+364,Desano,,,,desa1247,1750,carling2025diacl;titus,features,feature,map_1
+312,Orejón,,,,orej1242,1750,carling2025diacl;titus,features,feature,map_1
+447,Siona-Tetete,,,,sion1247,1750,carling2025diacl;titus,features,feature,map_1
+365,Tatuyo,,,,tatu1247,1750,carling2025diacl;titus,features,feature,map_1
+736,Cahuilla,,,,cahu1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+490,Central Tarahumara,,,,cent2131,1750,carling2025diacl;titus,features,feature,map_1
+532,Classical Nahuatl,,,,clas1250,1750,carling2025diacl;titus,features,feature,map_1
+656,Comanche,,,,coma1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+537,Eastern Huasteca Nahuatl,,,,east2538,1750,carling2025diacl;titus,features,feature,map_1
+488,El Nayar Cora,,,,elna1235,1750,carling2025diacl;titus,features,feature,map_1
+533,Highland Puebla Nahuatl,,,,high1278,1750,carling2025diacl;titus,features,feature,map_1
+742,Hopi,,,,hopi1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+489,Huichol,,,,huic1243,1750,carling2025diacl;titus,features,feature,map_1
+538,Isthmus-Mecayapan Nahuatl,,,,isth1242,1750,carling2025diacl;titus,features,feature,map_1
+735,Luiseno,,,,luis1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+493,Mayo,,,,mayo1264,1750,carling2025diacl;titus,features,feature,map_1
+535,Michoacán Nahuatl,,,,mich1245,1750,carling2025diacl;titus,features,feature,map_1
+712,Mono (Numic),,,,mono1275,1750,carling2025diacl;titus,features,feature,map_1
+534,Morelos Nahuatl,,,,more1259,1750,carling2025diacl;titus,features,feature,map_1
+706,Northern Paiute,,,,nort2954,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+491,Northern Tepehuan,,,,nort2959,1750,carling2025diacl;titus,features,feature,map_1
+711,Panamint,,,,pana1305,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+763,Pima Bajo,,,,pima1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+789,Serrano,,,,serr1255,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+714,Shoshoni,,,,shos1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+492,Southeastern Tepehuan,,,,sout2976,1750,carling2025diacl;titus,features,feature,map_1
+536,Tlaxcala-Puebla-Central Nahuatl,,,,cent2132,1750,carling2025diacl;titus,features,feature,map_1
+764,Tohono O'odham,,,,toho1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+738,Tübatulabal,,,,tuba1278,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+487,Yaqui,,,,yaqu1251,1750,carling2025diacl;titus,features,feature,map_1
+681,Ditidaht,,,,diti1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+585,Heiltsuk-Oowekyala,,,,heil1246,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+583,Kwak'wala,,,,kwak1269,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+676,Makah,,,,maka1318,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+614,Nuu-chah-nulth,,,,nuuc1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+353,Murui Huitoto,,,,muru1274,1750,carling2025diacl;titus,features,feature,map_1
+298,Ninam,,,,nina1238,1750,carling2025diacl;titus,features,feature,map_1
+299,Sanumá,,,,sanu1240,1750,carling2025diacl;titus,features,feature,map_1
+464,Yanomám,,,,yano1262,1750,carling2025diacl;titus,features,feature,map_1
+796,Southern Yukaghir,,,,sout2750,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+707,Wappo,,,,wapp1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+730,Yuki,,,,yuki1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+322,Záparo,,,,zapa1253,1750,carling2025diacl;titus,features,feature,map_1
+635,Cayuga,,,,cayu1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+644,Cherokee,,,,cher1273,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+630,Huron-Wyandot,,,,wyan1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+631,Mohawk,,,,moha1258,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+640,Nottoway,,,,nott1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+633,Oneida,,,,onei1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+634,Onondaga,,,,onon1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+632,Seneca,,,,sene1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+641,Tuscarora,,,,tusc1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+224,Jaqaru,,,,jaqa1244,1750,carling2025diacl;titus,features,feature,map_1
+229,Southern Aymara,,,,sout2996,1750,carling2025diacl;titus,features,feature,map_1
+287,Aguaruna,,,,agua1253,1750,carling2025diacl;titus,features,feature,map_1
+314,Huambisa,,,,huam1247,1750,carling2025diacl;titus,features,feature,map_1
+313,Shuar,,,,shua1257,1750,carling2025diacl;titus,features,feature,map_1
+657,Kiowa,,,,kiow1266,1750,carling2025diacl;titus,features,feature,map_1
+214,Apinayé,,,,apin1244,1750,carling2025diacl;titus,features,feature,map_1
+215,Canela-Krahô,,,,cane1242,1750,carling2025diacl;titus,features,feature,map_1
+220,Karajá,,,,kara1500,1750,carling2025diacl;titus,features,feature,map_1
+216,Kayapó,,,,kaya1330,1750,carling2025diacl;titus,features,feature,map_1
+709,Nisenan,,,,nise1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+704,Maidu,,,,nort2952,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+703,Konkow,,,,nort2951,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+427,Kadiwéu,,,,kadi1248,1750,carling2025diacl;titus,features,feature,map_1
+236,Mocoví,,,,moco1246,1750,carling2025diacl;titus,features,feature,map_1
+253,Pilagá,,,,pila1245,1750,carling2025diacl;titus,features,feature,map_1
+252,Toba,,,,toba1269,1750,carling2025diacl;titus,features,feature,map_1
+521,Aguacateco,,,,agua1252,1750,carling2025diacl;titus,features,feature,map_1
+502,Chol,,,,chol1282,1750,carling2025diacl;titus,features,feature,map_1
+500,Chortí,,,,chor1273,1750,carling2025diacl;titus,features,feature,map_1
+498,Huastec,,,,huas1242,1750,carling2025diacl;titus,features,feature,map_1
+525,Kekchí,,,,kekc1242,1750,carling2025diacl;titus,features,feature,map_1
+519,K'iche',,,,kich1262,1750,carling2025diacl;titus,features,feature,map_1
+507,Lacandon,,,,laca1243,1750,carling2025diacl;titus,features,feature,map_1
+518,Mam,,,,mamm1241,1750,carling2025diacl;titus,features,feature,map_1
+524,Mocho,,,,moch1257,1750,carling2025diacl;titus,features,feature,map_1
+520,Poqomam,,,,poqo1253,1750,carling2025diacl;titus,features,feature,map_1
+526,Poqomchi',,,,poqo1254,1750,carling2025diacl;titus,features,feature,map_1
+523,Q'anjob'al,,,,qanj1241,1750,carling2025diacl;titus,features,feature,map_1
+501,Tabasco Chontal,,,,taba1266,1750,carling2025diacl;titus,features,feature,map_1
+509,Tzeltal,,,,tzel1254,1750,carling2025diacl;titus,features,feature,map_1
+508,Tzotzil,,,,tzot1259,1750,carling2025diacl;titus,features,feature,map_1
+517,Tz'utujil,,,,tzut1248,1750,carling2025diacl;titus,features,feature,map_1
+497,Yucatec Maya,,,,yuca1254,1750,carling2025diacl;titus,features,feature,map_1
+484,Mískito,,,,misk1235,1750,carling2025diacl;titus,features,feature,map_1
+528,Coatlán Mixe,,,,coat1238,1750,carling2025diacl;titus,features,feature,map_1
+529,Coatlán Mixe,,,,coat1238,1750,carling2025diacl;titus,features,feature,map_1
+530,Copainalá Zoque,,,,copa1236,1750,carling2025diacl;titus,features,feature,map_1
+531,Highland Popoluca,,,,high1276,1750,carling2025diacl;titus,features,feature,map_1
+328,Awa-Cuaiquer,,,,awac1239,1750,carling2025diacl;titus,features,feature,map_1
+330,Cha'palaa,,,,chac1249,1750,carling2025diacl;titus,features,feature,map_1
+329,Tsafiki,,,,colo1256,1750,carling2025diacl;titus,features,feature,map_1
+402,Northern Emberá,,,,nort2972,1750,carling2025diacl;titus,features,feature,map_1
+401,Woun Meu,,,,woun1238,1750,carling2025diacl;titus,features,feature,map_1
+395,Amahuaca,,,,amah1246,1750,carling2025diacl;titus,features,feature,map_1
+276,Araona,,,,arao1248,1750,carling2025diacl;titus,features,feature,map_1
+285,Cashibo-Cacataibo,,,,cash1251,1750,carling2025diacl;titus,features,feature,map_1
+387,Matsés,,,,mats1244,1750,carling2025diacl;titus,features,feature,map_1
+259,Shipibo-Conibo,,,,ship1254,1750,carling2025diacl;titus,features,feature,map_1
+394,Yaminahua,,,,yami1256,1750,carling2025diacl;titus,features,feature,map_1
+722,Coast Miwok,,,,coas1301,1750,carling2025diacl;titus,features,feature,map_1
+715,Nez Percé,,,,nezp1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+717,Yakama,,,,yaki1237,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+710,Yokuts,,,,yoku1256,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+194,Cusco Quechua,,,,cusc1236,1750,carling2025diacl;titus,features,feature,map_1
+227,South Bolivian Quechua,,,,sout2991,1750,carling2025diacl;titus,features,feature,map_1
+584,Nuxalk,,,,bell1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+665,Klallam,,,,clal1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+725,Columbia-Wenatchi,,,,colu1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+615,Comox,,,,como1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+666,Cowlitz,,,,cowl1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+619,Halkomelem,,,,halk1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+724,Lillooet,,,,lill1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+673,Lower Chehalis,,,,lowe1427,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+620,Lushootseed,,,,lush1252,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+720,Northern Straits Salish,,,,stra1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+726,Okanagan,,,,okan1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+686,Quinault,,,,quin1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+616,Sechelt,,,,sech1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+613,Shuswap,,,,shus1248,1750,carling2025diacl;titus,features,feature,map_1
+618,Squamish,,,,squa1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+723,Nlaka'pamux,,,,thom1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+688,Tillamook,,,,till1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+692,Twana (Skokomish),,,,twan1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+694,Upper Chehalis,,,,uppe1439,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+348,Piaroa,,,,piar1243,1750,carling2025diacl;titus,features,feature,map_1
+649,Alabama,,,,alab1237,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+646,Apalachee,,,,apal1237,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+650,Chickasaw,,,,chic1270,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+651,Choctaw,,,,choc1276,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+645,Creek,,,,cree1270,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+648,Koasati,,,,koas1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+746,Mikasuki,,,,mika1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+579,Babine-Witsuwit'en,,,,babi1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+629,Dane-zaa,,,,beav1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+578,Dakelh,,,,carr1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+581,Tsilhqot'in,,,,chil1280,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+576,Chipewyan,,,,chip1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+577,Dogrib,,,,dogr1252,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+541,Eyak,,,,eyak1241,1750,carling2025diacl;titus,features,feature,map_1
+561,Gwich'in,,,,gwic1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+668,Hupa,,,,hupa1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+745,Jicarilla Apache,,,,jica1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+564,Kaska,,,,kask1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+671,Kato,,,,kato1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+560,Koyukon,,,,koyu1237,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+557,Lower Tanana,,,,lowe1425,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+677,Mattole,,,,matt1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+740,Mescalero-Chiricahua Apache,,,,mesc1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+743,Navajo,,,,nava1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+556,North Slavey,,,,nort2942,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+565,North Slavey,,,,nort2942,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+566,North Slavey,,,,nort2942,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+612,Tsuutʼina,,,,sars1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+570,Southern Tutchone,,,,sout2957,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+563,Tagish,,,,tagi1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+573,Tahltan,,,,tahl1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+572,Tanacross,,,,tana1290,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+550,Denaʼina,,,,tana1289,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+562,Tlingit,,,,tlin1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+689,Tolowa-Chetco,,,,tolo1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+691,Tututni,,,,tutu1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+575,Upper Tanana,,,,uppe1437,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+696,Wailaki,,,,wail1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+739,Western Apache,,,,west2615,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+467,Southern Nambikuára,,,,sout2994,1750,carling2025diacl;titus,features,feature,map_1
+922,Zaghawa,,,,zagh1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+924,Central Kanuri,,,,cent2050,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1106,Kanembu,,,,kane1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+494,Guerrero Amuzgo,,,,guer1243,1750,carling2025diacl;titus,features,feature,map_1
+504,Mezquital Otomi,,,,mezq1235,1750,carling2025diacl;titus,features,feature,map_1
+514,San Juan Atzingo Popoloca,,,,sanj1285,1750,carling2025diacl;titus,features,feature,map_1
+607,Arikara,,,,arik1262,1750,carling2025diacl;titus,features,feature,map_1
+654,Caddo,,,,cadd1256,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+658,Pawnee,,,,pawn1254,1750,carling2025diacl;titus,features,feature,map_1
+655,Wichita,,,,wich1260,1750,carling2025diacl;titus,features,feature,map_1
+316,Jebero,,,,jebe1250,1750,carling2025diacl;titus,features,feature,map_1
+317,Chayahuita,,,,chay1248,1750,carling2025diacl;titus,features,feature,map_1
+270,Apalaí,,,,apal1257,1750,carling2025diacl;titus,features,feature,map_1
+263,Galibi Carib,,,,gali1262,1750,carling2025diacl;titus,features,feature,map_1
+193,Hixkaryána,,,,hixk1239,1750,carling2025diacl;titus,features,feature,map_1
+272,Macushi,,,,macu1259,1750,carling2025diacl;titus,features,feature,map_1
+303,Ye'kuana,,,,maqu1238,1750,carling2025diacl;titus,features,feature,map_1
+346,Panare,,,,enap1235,1750,carling2025diacl;titus,features,feature,map_1
+274,Trió,,,,trio1238,1750,carling2025diacl;titus,features,feature,map_1
+241,Waimiri-Atroari,,,,waim1253,1750,carling2025diacl;titus,features,feature,map_1
+273,Waiwai,,,,waiw1244,1750,carling2025diacl;titus,features,feature,map_1
+271,Wayana,,,,waya1269,1750,carling2025diacl;titus,features,feature,map_1
+1013,Bagirmi,,,,bagi1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1094,Kaba,,,,kaba1281,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1140,Mbay,,,,mbay1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1093,Ngambay,,,,ngam1268,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1095,Sara Kaba Náà,,,,sara1321,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+269,Arhuaco,,,,arhu1242,1750,carling2025diacl;titus,features,feature,map_1
+305,Barí,,,,bari1297,1750,carling2025diacl;titus,features,feature,map_1
+480,Cabécar,,,,cabe1245,1750,carling2025diacl;titus,features,feature,map_1
+405,Central Tunebo,,,,cent2150,1750,carling2025diacl;titus,features,feature,map_1
+539,Pech,,,,pech1241,1750,carling2025diacl;titus,features,feature,map_1
+482,Rama,,,,rama1270,1750,carling2025diacl;titus,features,feature,map_1
+475,San Blas Kuna,,,,sanb1242,1750,carling2025diacl;titus,features,feature,map_1
+664,Chimakum,,,,chim1310,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+685,Quileute,,,,quil1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+674,Lower Chinook,,,,chin1286,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+662,Kathlamet,,,,kath1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+672,Upper Chinook,,,,wasc1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+196,Selk'nam,,,,onaa1245,1750,carling2025diacl;titus,features,feature,map_1
+234,Tehuelche,,,,tehu1242,1750,carling2025diacl;titus,features,feature,map_1
+794,Chukchi,,,,chuk1273,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+667,Hanis,,,,coos1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+678,Miluk,,,,milu1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1016,Masai,,,,masa1300,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1096,Samburu,,,,samb1315,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1097,Turkana,,,,turk1308,1750,carling2025diacl;titus,features,feature,map_1
+897,Aleut,,,,aleu1260,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+546,Central Alaskan Yupik,,,,cent2127,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+899,West Greenlandic,,,,kala1399,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+547,North Alaskan Iñupiatun,,,,nort2943,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+545,Northwest Alaska Iñupiatun,,,,nort2945,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+549,Alutiiq,,,,paci1278,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+898,East Greenlandic,,,,tunu1234,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+307,Cuiba,,,,cuib1242,1750,carling2025diacl;titus,features,feature,map_1
+308,Guahibo,,,,guah1255,1750,carling2025diacl;titus,features,feature,map_1
+731,Haida,,,,haid1248,1750,carling2025diacl;titus,features,feature,map_1
+832,She,,,,shee1238,1750,carling2025diacl;titus,features,feature,map_1
+661,Barbareño,,,,barb1263,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+669,Ineseño,,,,ines1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+733,Ventureño,,,,vent1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+775,Ventureño,,,,vent1242,1750,carling2025diacl;titus,features,feature,map_1
+781,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+782,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+783,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+784,Cochimí,,,,coch1272,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+765,Cocopa,,,,coco1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+759,Havasupai-Walapai-Yavapai,,,,hava1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+760,Havasupai-Walapai-Yavapai,,,,hava1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+761,Havasupai-Walapai-Yavapai,,,,hava1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+769,Ipai,,,,ipai1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+774,Ipai,,,,ipai1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+773,Kiliwa,,,,kili1268,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+785,Maricopa,,,,mari1440,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+766,Mohave,,,,moha1256,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+770,Paipai,,,,paip1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+767,Quechan,,,,quec1382,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+771,Tipai,,,,kumi1248,1750,carling2025diacl;titus,features,feature,map_1
+719,Achumawi,,,,achu1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+429,Ayoreo,,,,ayor1240,1750,carling2025diacl;titus,features,feature,map_1
+350,Bora,,,,bora1263,1750,carling2025diacl;titus,features,feature,map_1
+218,Borôro,,,,boro1282,1750,carling2025diacl;titus,features,feature,map_1
+880,Burushaski,,,,buru1296,1750,carling2025diacl;titus,features,feature,map_1
+219,Fulniô,,,,fuln1247,1750,carling2025diacl;titus,features,feature,map_1
+925,Fur,,,,furr1244,1750,carling2025diacl;titus,features,feature,map_1
+802,Ket,,,,kett1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+718,Klamath-Modoc,,,,klam1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1149,Kunama,,,,kuna1268,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+233,Mapudungun,,,,mapu1245,1750,carling2025diacl;titus,features,feature,map_1
+474,Trumai,,,,trum1247,1750,carling2025diacl;titus,features,feature,map_1
+230,Uru-Chipaya,,,,uruu1244,1750,carling2025diacl;titus,features,feature,map_1
+705,Washo,,,,wash1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+369,Yagua,,,,yagu1244,1750,carling2025diacl;titus,features,feature,map_1
+235,Yahgan,,,,yama1264,1750,carling2025diacl;titus,features,feature,map_1
+702,Yana,,,,yana1271,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+228,Quechua Santiago del Éstero,,,,sant1432,1750,carling2025diacl;titus,features,feature,map_1
+222,Callawaya,,,,call1235,1750,carling2025diacl;titus,features,feature,map_1
+226,Puquina,,,,puqu1242,1750,carling2025diacl;titus,features,feature,map_1
+231,Atacameño,,,,,1750,carling2025diacl;titus,features,feature,map_1
+232,Huilliche,,,,huil1244,1750,carling2025diacl;titus,features,feature,map_1
+237,Qawasqar,,,,,1750,carling2025diacl;titus,features,feature,map_1
+238,Huarpe,,,,huar1251,1750,carling2025diacl;titus,features,feature,map_1
+239,Charrúa,,,,char1240,1750,carling2025diacl;titus,features,feature,map_1
+240,Kaingang,,,,,1750,carling2025diacl;titus,features,feature,map_1
+245,Puelche,,,,,1750,carling2025diacl;titus,features,feature,map_1
+249,Pai-Tavyterá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+251,Aché-Guayakí,,,,,1750,carling2025diacl;titus,features,feature,map_1
+254,Mak'a,,,,,1750,carling2025diacl;titus,features,feature,map_1
+255,Niwaklé,,,,,1750,carling2025diacl;titus,features,feature,map_1
+256,Chorotí,,,,,1750,carling2025diacl;titus,features,feature,map_1
+258,Itené,,,,,1750,carling2025diacl;titus,features,feature,map_1
+260,Ofayé,,,,,1750,carling2025diacl;titus,features,feature,map_1
+261,Carirí,,,,kari1254,1750,carling2025diacl;titus,features,feature,map_1
+264,Shebayo,,,,,1750,carling2025diacl;titus,features,feature,map_1
+268,Kogi,,,,cogu1240,1750,carling2025diacl;titus,features,feature,map_1
+275,Ese'ejja,,,,esee1248,1750,carling2025diacl;titus,features,feature,map_1
+277,Lengua-Mascoy,,,,,1750,carling2025diacl;titus,features,feature,map_1
+278,Guató,,,,,1750,carling2025diacl;titus,features,feature,map_1
+279,Xavánte,,,,xava1240,1750,carling2025diacl;titus,features,feature,map_1
+280,Xerente,,,,xere1240,1750,carling2025diacl;titus,features,feature,map_1
+281,Paunaca,,,,paun1241,1750,carling2025diacl;titus,features,feature,map_1
+286,Marawan,,,,mara1408,1750,carling2025diacl;titus,features,feature,map_1
+288,Bermejo Wichí,,,,wich1263,1750,carling2025diacl;titus,features,feature,map_1
+291,Maxakalí,,,,maxa1247,1750,carling2025diacl;titus,features,feature,map_1
+292,Botocudo,,,,kren1239,1750,carling2025diacl;titus,features,feature,map_1
+293,Kamakã,,,,kama1372,1750,carling2025diacl;titus,features,feature,map_1
+398,Manao,,,,mana1299,1750,carling2025diacl;titus,features,feature,map_1
+296,Warao,,,,wara1303,1750,carling2025diacl;titus,features,feature,map_1
+297,Yanomamö,,,,yano1261,1750,carling2025diacl;titus,features,feature,map_1
+300,Saraveca,,,,sara1331,1750,carling2025diacl;titus,features,feature,map_1
+302,Bakairí,,,,baka1277,1750,carling2025diacl;titus,features,feature,map_1
+304,Pemón,,,,,1750,carling2025diacl;titus,features,feature,map_1
+309,Guayabero,,,,,1750,carling2025diacl;titus,features,feature,map_1
+310,Carijona,,,,,1750,carling2025diacl;titus,features,feature,map_1
+311,Secoya,,,,,1750,carling2025diacl;titus,features,feature,map_1
+315,Achuar,,,,,1750,carling2025diacl;titus,features,feature,map_1
+321,Candoshi,,,,,1750,carling2025diacl;titus,features,feature,map_1
+319,Urarina,,,,,1750,carling2025diacl;titus,features,feature,map_1
+320,Urarina,,,,,1750,carling2025diacl;titus,features,feature,map_1
+323,Auishiri,,,,,1750,carling2025diacl;titus,features,feature,map_1
+324,Sabela,,,,,1750,carling2025diacl;titus,features,feature,map_1
+325,Cofán,,,,,1750,carling2025diacl;titus,features,feature,map_1
+326,Páez,,,,,1750,carling2025diacl;titus,features,feature,map_1
+327,Guambiano,,,,,1750,carling2025diacl;titus,features,feature,map_1
+331,Gamela,,,,,1750,carling2025diacl;titus,features,feature,map_1
+332,Tarairiu,,,,tara1303,1750,carling2025diacl;titus,features,feature,map_1
+345,Atorai,,,,,1750,carling2025diacl;titus,features,feature,map_1
+347,Hoti,,,,,1750,carling2025diacl;titus,features,feature,map_1
+349,Sáliva,,,,,1750,carling2025diacl;titus,features,feature,map_1
+351,Andoque,,,,ando1254,1750,carling2025diacl;titus,features,feature,map_1
+352,Minica Huitoto,,,,,1750,carling2025diacl;titus,features,feature,map_1
+354,Ocaína,,,,,1750,carling2025diacl;titus,features,feature,map_1
+356,Pirahã,,,,,1750,carling2025diacl;titus,features,feature,map_1
+359,Rikbatsá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+362,Coreguaje,,,,,1750,carling2025diacl;titus,features,feature,map_1
+366,Tuyuca,,,,,1750,carling2025diacl;titus,features,feature,map_1
+367,Macuna,,,,,1750,carling2025diacl;titus,features,feature,map_1
+374,Yabaâna,,,,,1750,carling2025diacl;titus,features,feature,map_1
+375,Wirina,,,,uiri1238,1750,carling2025diacl;titus,features,feature,map_1
+376,Apolista,,,,apol1242,1750,carling2025diacl;titus,features,feature,map_1
+377,Araua,,,,arua1264,1750,carling2025diacl;titus,features,feature,map_1
+378,Mapidian,,,,,1750,carling2025diacl;titus,features,feature,map_1
+380,Pasé,,,,pass1250,1750,carling2025diacl;titus,features,feature,map_1
+381,Cayuishana,,,,kais1242,1750,carling2025diacl;titus,features,feature,map_1
+383,Waraicu,,,,arai1239,1750,carling2025diacl;titus,features,feature,map_1
+384,Katukina,,,,katu1274,1750,carling2025diacl;titus,features,feature,map_1
+385,Arauá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+386,Marawa,,,,mara1409,1750,carling2025diacl;titus,features,feature,map_1
+388,Catuqina do Acre,,,,,1750,carling2025diacl;titus,features,feature,map_1
+393,Pacahuara,,,,,1750,carling2025diacl;titus,features,feature,map_1
+396,Marúbo,,,,,1750,carling2025diacl;titus,features,feature,map_1
+397,Macu,,,,,1750,carling2025diacl;titus,features,feature,map_1
+399,Catío,,,,,1750,carling2025diacl;titus,features,feature,map_1
+400,Chimila,,,,,1750,carling2025diacl;titus,features,feature,map_1
+403,Quimbaya,,,,,1750,carling2025diacl;titus,features,feature,map_1
+404,Yurumanguí,,,,yuru1243,1750,carling2025diacl;titus,features,feature,map_1
+406,Yucpa,,,,,1750,carling2025diacl;titus,features,feature,map_1
+407,Jirajara,,,,jira1235,1750,carling2025diacl;titus,features,feature,map_1
+408,Timote,,,,timo1237,1750,carling2025diacl;titus,features,feature,map_1
+409,Guamo,,,,guam1236,1750,carling2025diacl;titus,features,feature,map_1
+410,Otomaco,,,,otom1301,1750,carling2025diacl;titus,features,feature,map_1
+411,Yaruro,,,,,1750,carling2025diacl;titus,features,feature,map_1
+412,Manajé,,,,,1750,carling2025diacl;titus,features,feature,map_1
+413,Pankarurú,,,,,1750,carling2025diacl;titus,features,feature,map_1
+414,Xukuru,,,,,1750,carling2025diacl;titus,features,feature,map_1
+415,Huamoi,,,,,1750,carling2025diacl;titus,features,feature,map_1
+416,Tushá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+417,Katembri,,,,,1750,carling2025diacl;titus,features,feature,map_1
+418,Puri-Coroado,,,,coro1249,1750,carling2025diacl;titus,features,feature,map_1
+419,Txikāo,,,,,1750,carling2025diacl;titus,features,feature,map_1
+420,Suyá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+423,Geico,,,,geic1236,1750,carling2025diacl;titus,features,feature,map_1
+424,Chané,,,,,1750,carling2025diacl;titus,features,feature,map_1
+426,Guaná,,,,,1750,carling2025diacl;titus,features,feature,map_1
+428,Zamuco,,,,zamu1245,1750,carling2025diacl;titus,features,feature,map_1
+430,Esmeralda,,,,,1750,carling2025diacl;titus,features,feature,map_1
+431,Kamsá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+432,Andoquí,,,,,1750,carling2025diacl;titus,features,feature,map_1
+433,Quingnam,,,,quig1235,1750,carling2025diacl;titus,features,feature,map_1
+434,Muchik,,,,,1750,carling2025diacl;titus,features,feature,map_1
+435,Sec,,,,,1750,carling2025diacl;titus,features,feature,map_1
+436,Muniche,,,,,1750,carling2025diacl;titus,features,feature,map_1
+437,Hibito-Cholón,,,,hibi1242,1750,carling2025diacl;titus,features,feature,map_1
+438,Culli,,,,cull1235,1750,carling2025diacl;titus,features,feature,map_1
+439,Vilela,,,,,1750,carling2025diacl;titus,features,feature,map_1
+441,Canichana,,,,,1750,carling2025diacl;titus,features,feature,map_1
+443,Western Bolivian Paraguay,,,,,1750,carling2025diacl;titus,features,feature,map_1
+444,Otuké,,,,,1750,carling2025diacl;titus,features,feature,map_1
+445,Mehináku,,,,,1750,carling2025diacl;titus,features,feature,map_1
+446,Gorgotoqui,,,,,1750,carling2025diacl;titus,features,feature,map_1
+448,Puinave,,,,,1750,carling2025diacl;titus,features,feature,map_1
+450,Macaguane,,,,,1750,carling2025diacl;titus,features,feature,map_1
+451,Sapé,,,,,1750,carling2025diacl;titus,features,feature,map_1
+452,Awaké,,,,,1750,carling2025diacl;titus,features,feature,map_1
+453,Kukura,,,,,1750,carling2025diacl;titus,features,feature,map_1
+454,Taruma,,,,,1750,carling2025diacl;titus,features,feature,map_1
+455,Bane,,,,,1750,carling2025diacl;titus,features,feature,map_1
+457,Lule,,,,,1750,carling2025diacl;titus,features,feature,map_1
+459,Cuniba,,,,,1750,carling2025diacl;titus,features,feature,map_1
+460,Ticuna,,,,,1750,carling2025diacl;titus,features,feature,map_1
+461,Yuri,,,,,1750,carling2025diacl;titus,features,feature,map_1
+462,Wainuma,,,,,1750,carling2025diacl;titus,features,feature,map_1
+463,Guarú,,,,,1750,carling2025diacl;titus,features,feature,map_1
+465,Capón,,,,,1750,carling2025diacl;titus,features,feature,map_1
+466,Nahukuá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+469,Chapacura,,,,,1750,carling2025diacl;titus,features,feature,map_1
+470,Urupá,,,,,1750,carling2025diacl;titus,features,feature,map_1
+472,Irantxe,,,,,1750,carling2025diacl;titus,features,feature,map_1
+473,Matanawí,,,,,1750,carling2025diacl;titus,features,feature,map_1
+476,Bocota,,,,bugl1243,1750,carling2025diacl;titus,features,feature,map_1
+477,Guaimi,,,,ngab1239,1750,carling2025diacl;titus,features,feature,map_1
+478,Bribri,,,,brib1243,1750,carling2025diacl;titus,features,feature,map_1
+479,Bribri,,,,brib1243,1750,carling2025diacl;titus,features,feature,map_1
+481,Guatuso,,,,male1297,1750,carling2025diacl;titus,features,feature,map_1
+483,Matagalpa,,,,mata1288,1750,carling2025diacl;titus,features,feature,map_1
+485,Sumo,,,,maya1285,1750,carling2025diacl;titus,features,feature,map_1
+495,Zapotec,,,,zapo1436,1750,carling2025diacl;titus,features,feature,map_1
+496,Chinantec,,,,chin1484,1750,carling2025diacl;titus,features,feature,map_1
+503,Totonac,,,,toto1252,1750,carling2025diacl;titus,features,feature,map_1
+505,Mixtec,,,,mixt1427,1750,carling2025diacl;titus,features,feature,map_1
+506,Mixtec,,,,mixt1427,1750,carling2025diacl;titus,features,feature,map_1
+510,Tcholabal,,,,tojo1241,1750,carling2025diacl;titus,features,feature,map_1
+511,Mazahua,,,,cent2144,1750,carling2025diacl;titus,features,feature,map_1
+512,Xincan,,,,xinc1237,1750,carling2025diacl;titus,features,feature,map_1
+513,Tlapanec,,,,subt1249,1750,carling2025diacl;titus,features,feature,map_1
+515,Tarasca,,,,tara1323,1750,carling2025diacl;titus,features,feature,map_1
+516,Lenca,,,,lenc1239,1750,carling2025diacl;titus,features,feature,map_1
+522,Uspantec,,,,uspa1245,1750,carling2025diacl;titus,features,feature,map_1
+527,Achi,,,,achi1256,1750,carling2025diacl;titus,features,feature,map_1
+790,Na-Dené,,,,atha1245,1750,carling2025diacl;titus,features,feature,map_1
+659,Iroquian,,,,iroq1247,1750,carling2025diacl;titus,features,feature,map_1
+544,Beothuk,,,,beot1247,1750,carling2025diacl;titus,features,feature,map_1
+552,Degexit'an,,,,dege1248,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+553,Ahtna,,,,ahte1237,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+747,Muskogean,,,,musk1252,1750,carling2025diacl;titus,features,feature,map_1
+555,South Slavey,,,,sout2959,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+558,Han,,,,hann1241,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+559,Holicachuk,,,,holi1241,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+568,Sekani,,,,seka1250,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+569,Tsetsaut,,,,tset1236,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+571,Northern Tutchone,,,,nort2941,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+574,Upper Kuskokwim,,,,uppe1438,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+582,Haisla,,,,hais1244,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+593,Naskapi,,,,nask1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+608,East Cree,,,,cree1272,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+617,Pentlacht,,,,pent1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+626,Laurentian,,,,laur1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+636,Wenro,,,,wenr1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+637,Erie,,,,erie1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+638,Neutral,,,,neut1237,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+639,Susquehannock,,,,susq1241,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+647,Timucua,,,,timu1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+652,Natchez,,,,natc1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+653,Natchez,,,,natc1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+660,Alsea,,,,alse1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+663,Central Kalapuyan,,,,kala1400,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+670,Cruzeño,,,,cruz1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+675,Mahican,,,,mahi1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+680,Nanticoke,,,,nant1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+682,Obispeño,,,,obis1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+684,Purisimeño,,,,puri1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+687,Siuslaw,,,,sius1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+690,Tualatin-Yamhill,,,,tual1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+695,Upper Umpqua,,,,uppe1436,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+697,Yaquina,,,,yaqu1250,1750,carling2025diacl;titus,features,feature,map_1
+698,Yoncalla,,,,yonc1234,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+700,Wintu,,,,wint1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+701,Karok,,,,karo1304,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+716,Takelma,,,,take1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+721,Sahaptin,,,,sout1502,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+727,Kalipsel,,,,kali1307,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+728,Kutenai,,,,kute1249,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+729,Kwalhioqua,,,,kwal1258,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+732,Salinan,,,,sali1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+734,Tongva,,,,tong1329,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+741,Zuni,,,,zuni1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+753,Wampano,,,,wamp1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+756,Southern Paiute,,,,sout2969,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+757,Chemehuevi,,,,chem1251,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+758,Ute,,,,utee1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+762,Seri,,,,seri1257,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+776,Etchemin,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+777,Carolinan Algonquian,,,,caro1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+778,Powhatan,,,,powh1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+780,Pericú,,,,peri1250,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+786,Monqui,,,,,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+787,Guaicura,,,,,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+788,Huchití,,,,,1750,carling2025diacl;asher_moseley_2007,features,feature,map_1
+791,Algic,,,,algi1248,1750,carling2025diacl;titus,features,feature,map_1
+797,Nivkh,,,,gily1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+798,Koryak,,,,kory1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+805,Shor,,,,shor1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+807,Kola Sami,,,,kild1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+808,Karelian,,,,kare1335,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+818,Moksha,,,,moks1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+823,Oroch,,,,oroc1248,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+837,Salar,,,,sala1264,1750,carling2025diacl;titus,features,feature,map_1
+841,Mienic,,,,mien1242,1750,carling2025diacl;titus,features,feature,map_1
+842,Hmongic,,,,hmon1337,1750,carling2025diacl;titus,features,feature,map_1
+845,Naxi,,,,naxi1245,1750,carling2025diacl;titus,features,feature,map_1
+850,Zhuang,,,,nort3180,1750,carling2025diacl;titus,features,feature,map_1
+851,Hani,,,,hani1248,1750,carling2025diacl;titus,features,feature,map_1
+884,Yazgulyami,,,,yazg1240,1750,carling2025diacl;titus,features,feature,map_1
+885,Ishkashimi,,,,ishk1246,1750,carling2025diacl;titus,features,feature,map_1
+887,Munji,,,,munj1244,1750,carling2025diacl;titus,features,feature,map_1
+888,Yidgha,,,,yidg1240,1750,carling2025diacl;titus,features,feature,map_1
+892,Khoe-Kwadi,,,,khoe1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+895,Western Canadian Inuktitut,,,,west2618,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+896,Eastern Canadian Inuktitut,,,,east2534,1750,carling2025diacl;titus,features,feature,map_1
+901,Taa-!Kwi,,,,tuuu1241,1750,carling2025diacl;titus,features,feature,map_1
+903,Kx'a,,,,kxaa1236,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+917,Berber,,,,berb1260,1750,carling2025diacl;titus,features,feature,map_1
+905,Cushitic,,,,cush1243,1750,carling2025diacl;titus,features,feature,map_1
+907,Oromoid,,,,nucl1701,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1172,Omotic,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+918,Arabic,,,,arab1395,1750,carling2025diacl;titus,features,feature,map_1
+919,Songhay,,,,song1307,1750,carling2025diacl;titus,features,feature,map_1
+1150,Nilotic,,,,nilo1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+927,Nubian,,,,nubi1251,1750,carling2025diacl;titus,features,feature,map_1
+928,Maban,,,,maba1276,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+946,Chokwe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+937,Kimbundu,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+942,Banda-Yangere,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1009,Mbanza,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+947,Luimbi,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+953,Shanjo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+955,Sala,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+966,Lundwe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+978,Tongwe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+986,Kimbu,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+987,Kota,,,,kota1274,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+988,Mbesa,,,,mbes1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+989,Ngando,,,,ngan1302,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+995,Ndendeule,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1003,Hehe,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1006,Ngbaka-Ma'bo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1007,Ngbaka-Manza,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1008,Monzombo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1015,Vidunda,,,,vidu1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1018,Sagala,,,,saga1256,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1030,Biseni-Okordia,,,,bise1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1033,Ibani,,,,iban1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1034,Kirike,,,,kiri1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1045,Guere,,,,guer1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1046,Bakwé,,,,bakw1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1047,Bassa,,,,nucl1418,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1052,Kuwaa,,,,kuwa1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1062,Nyarafolo Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1063,Palaka Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1064,Senari,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1065,Tagwana Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1061,Djimini Senoufo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1078,Soninke,,,,soni1259,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1084,Téén,,,,teen1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1085,Bondoukou Kulango,,,,bond1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1086,Bouna Kulango,,,,boun1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1087,Kuranko,,,,kura1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1088,Konyanka Maninka,,,,kony1250,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1101,Fang,,,,fang1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1104,Gbaya-Toongo,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1105,Gbaya-Biyanda,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1107,Buduma,,,,budu1265,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1109,Putai,,,,puta1243,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1112,Wojenaka,,,,woje1238,1750,carling2025diacl;titus,features,feature,map_1
+1118,Limba,,,,limb1267,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1119,Dogon,,,,dogo1299,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1121,Nuni,,,,nuni1253,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1122,Lyélé,,,,lyel1241,1750,carling2025diacl;titus,features,feature,map_1
+1124,Mampruli,,,,mamp1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1125,Konkomba,,,,konk1269,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1127,Marka,,,,mark1256,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1128,Mande Samo,,,,mand1437,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1130,Bomu,,,,bomu1247,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1137,TIikar,,,,tika1246,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1138,Mambila,,,,mamb1312,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1139,Bokoto,,,,boko1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1141,Mbum,,,,mbum1254,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1142,Gbanu,,,,gban1260,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1143,Bata,,,,bata1314,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1144,Suma,,,,suma1264,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1145,Marba,,,,marb1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1146,Marba,,,,marb1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1147,Musey,,,,muse1242,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1148,Mesme,,,,mesm1239,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1151,Surmic,,,,surm1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1152,Ethiopic,,,,ethi1244,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1153,Ilwana,,,,ilwa1237,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1154,Pokomo,,,,poko1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1155,Mijikenda,,,,miji1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1156,Seuta,,,,seut1234,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1157,Ruvu,,,,ruvu1235,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1167,Tooro,,,,toor1238,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1168,Sukuma,,,,suku1261,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1169,Luyia,,,,luyi1234,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1170,Ikoma-Nata,,,,ikom1245,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1171,Sumbwa,,,,sumb1240,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1173,Moru-Madi,,,,moru1252,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1174,Mangbutu-Efe,,,,mang1425,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1175,Mangbetu-Asua,,,,mang1393,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1176,Burunge,,,,buru1320,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1177,Gbaya-Bozoum,,,,gbay1286,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1178,Northern Ngbandi,,,,nort2774,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1
+1179,Mbangi,,,,,1750,carling2025diacl;asher_moseley_2007;titus,features,feature,map_1

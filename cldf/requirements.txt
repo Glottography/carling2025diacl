@@ -37,7 +37,7 @@ pluggy==1.5.0
 pybtex==0.24.0
 pycldf==1.39.0
 pycountry==24.6.1
--e git+https://github.com/glottography/pyglottography@9ba96fb63ea5fc5e2eb1e893c6183515e93ff132#egg=pyglottography
+-e git+https://github.com/glottography/pyglottography@593a370c5ae1007bca2f9a0861b6ae9e4778eb91#egg=pyglottography
 pyglottolog==3.14.0
 Pygments==2.18.0
 pylatexenc==2.10

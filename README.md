@@ -28,7 +28,7 @@ Available online at https://diacl.uni-frankfurt.de/GeographicalPresence/Index
 ```
 
 
-# Focal year
+### Focal year
 
 Language polygons from the *DIACL/TITUS Polygon Archive* are annotated with a *timeframe*. The
 majority of polygons lists "1750-2000" as associated timeframe, but there is some variation. In

@@ -81,18 +81,21 @@ class Dataset(pyglottography.Dataset):
                     ('name', lg['Name']),
                     ('glottocode', GC_CORRECTIONS.get(lg['Name'], lg['Glottocode'])),
                     ('year', year),
-                    ('map_name_full', sources),
+                    ('map_name_full', ''),
+                    ('sources', sources),
                 ]))
 
         dump(feature_collection(geofeatures), self.raw_dir / 'dataset.geojson')
         with UnicodeWriter(self.etc_dir / 'features.csv') as writer:
             writer.writerows(sorted(mdfeatures, key=lambda f: int(f['id'])))
 
-    def make_contribution(self,
-                          pid: str,
-                          gc: typing.Optional[str],
-                          f: Feature,
-                          fmd: FeatureSpec) -> dict:
-        res = pyglottography.Dataset.make_contribution(self, pid, gc, f, fmd)
-        res['Source'] = res['Source'] + f.properties['map_name_full'].split()
+    def make_contribution_feature(self,
+                                  args,
+                                  pid: str,
+                                  gc: typing.Optional[str],
+                                  f: Feature,
+                                  fmd: FeatureSpec,
+                                  map_id) -> dict:
+        res = pyglottography.Dataset.make_contribution_feature(self, args, pid, gc, f, fmd, map_id)
+        res['Source'] = res['Source'] + fmd.properties['sources'].split()
         return res

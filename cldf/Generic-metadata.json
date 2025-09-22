@@ -18,7 +18,7 @@
         {
             "rdf:about": "https://github.com/Glottography/carling2025diacl",
             "rdf:type": "prov:Entity",
-            "dc:created": "3d14a95",
+            "dc:created": "e1eddee",
             "dc:title": "Repository"
         },
         {
@@ -216,7 +216,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "We list the individual features from the source dataset as contributions in order to preserve the original metadata and a point of reference for the aggregated shapes.",
-            "dc:extent": 1066,
+            "dc:extent": 1067,
             "tableSchema": {
                 "columns": [
                     {
@@ -291,13 +291,10 @@
                         "name": "Type"
                     },
                     {
-                        "dc:description": "Contributions of type 'feature' may link to the map on which they appear.",
+                        "dc:description": "Contributions of type 'feature' link to the maps on which they appear.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
-                        "name": "Map_ID"
-                    },
-                    {
-                        "dc:description": "Name of the map as given in the source publication.",
-                        "name": "Map_Name"
+                        "separator": " ",
+                        "name": "Map_IDs"
                     }
                 ],
                 "foreignKeys": [
@@ -314,7 +311,7 @@
                     },
                     {
                         "columnReference": [
-                            "Map_ID"
+                            "Map_IDs"
                         ],
                         "reference": {
                             "resource": "contributions.csv",
