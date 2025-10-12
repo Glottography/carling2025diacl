@@ -1,4 +1,20 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+chem1251,Chemehuevi,,35.356093,-116.438436,chem1251,,757,dialect,Uto-Aztecan,dialects
+croa1245,Croatian Standard,,45.555,15.982,croa1245,,66,dialect,Indo-European,dialects
+east2821,Eastern Herzegovinian Shtokavian,,,,east2821,,66 67,dialect,Indo-European,dialects
+elfd1234,Elfdalian,,,,elfd1234,,78,dialect,Indo-European,dialects
+kuru1302,Indian Kurux,,24.4644,86.4657,kuru1302,,871,dialect,Dravidian,dialects
+maip1246,Maipure,,4.8,-67.5,maip1246,,340,dialect,Arawakan,dialects
+news1236,New Shtokavian,,,,news1236,,66 67,dialect,Indo-European,dialects
+norw1259,Norwegian Bokmål,,61.112,8.886,norw1259,,82,dialect,Indo-European,dialects
+norw1262,Norwegian Nynorsk,,,,norw1262,,83,dialect,Indo-European,dialects
+oste1242,Österdalarna,,,,oste1242,,78,dialect,Indo-European,dialects
+ovan1234,Ovansiljan,,,,ovan1234,,78,dialect,Indo-European,dialects
+serb1264,Serbian Standard,,44.3238,21.9192,serb1264,,67,dialect,Indo-European,dialects
+shto1241,Shtokavski,,,,shto1241,,66 67,dialect,Indo-European,dialects
+sout2969,Southern Paiute,,37.0,-114.0,sout2969,,756,dialect,Uto-Aztecan,dialects
+utee1244,Ute,,38.0,-109.0,utee1244,,758,dialect,Uto-Aztecan,dialects
+yaqu1250,Yaquina,,,,yaqu1250,,697,dialect,Alsea-Yaquina,dialects
 abaz1241,Abaza,,44.25,42.0,abaz1241,,168,language,Abkhaz-Adyge,languages
 abro1238,Abron,,7.72094,-2.50289,abro1238,,1060,language,Atlantic-Congo,languages
 achi1256,Achi,,15.073,-90.3513,achi1256,,527,language,Mayan,languages

@@ -95,7 +95,7 @@ class Dataset(pyglottography.Dataset):
                                   gc: typing.Optional[str],
                                   f: Feature,
                                   fmd: FeatureSpec,
-                                  map_id) -> dict:
-        res = pyglottography.Dataset.make_contribution_feature(self, args, pid, gc, f, fmd, map_id)
+                                  map_ids) -> dict:
+        res = pyglottography.Dataset.make_contribution_feature(self, args, pid, gc, f, fmd, map_ids)
         res['Source'] = res['Source'] + fmd.properties['sources'].split()
         return res

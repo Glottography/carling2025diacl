@@ -18,7 +18,7 @@
         {
             "rdf:about": "https://github.com/Glottography/carling2025diacl",
             "rdf:type": "prov:Entity",
-            "dc:created": "e1eddee",
+            "dc:created": "a7624e4",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -97,7 +97,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 909,
+            "dc:extent": 925,
             "tableSchema": {
                 "columns": [
                     {
