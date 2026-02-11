@@ -4,5 +4,6 @@
     "description": "See https://compling.eu/polygon-data/",
     "license": "CC-BY-4.0",
     "url": "https://diacl.uni-frankfurt.de/GeographicalPresence/Index",
+    "zenodo_concept_doi": "10.5281/zenodo.17334191",
     "citation": "Carling, Gerd & Jost Gippert (eds.) 2025. DiACL/TITUS Polygon Archive. Frankfurt am Main: Goethe University (URL: https://diacl.uni-frankfurt.de/GeographicalPresence/Index)"
 }
