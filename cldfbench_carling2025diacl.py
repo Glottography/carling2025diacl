@@ -6,13 +6,14 @@ import collections
 import urllib.parse
 import urllib.request
 
-from pyglottography.dataset import Feature, FeatureSpec
+from pyglottography.dataset import ReadonlyFeature, FeatureSpec
 from shapely import simplify
 from shapely.geometry import shape
 import pyglottography
 from csvw.dsv import reader, UnicodeWriter
 from clldutils.jsonlib import load, dump
-from cldfgeojson.create import feature_collection, shapely_fixed_geometry
+from cldfgeojson.create import feature_collection
+from cldfgeojson.geometry import fixed_geometry
 
 SOURCES = {
     10731: None,  # Only point coordinates are taken from Glottolog
@@ -69,7 +70,7 @@ class Dataset(pyglottography.Dataset):
                 feature = load(geojson_path)
                 if geojson_path.stat().st_size > 1000000:
                     feature['geometry'] = simplify(shape(feature['geometry']), tolerance=0.005).__geo_interface__
-                shapely_fixed_geometry(feature)
+                fixed_geometry(feature)
                 del feature['crs']
                 if 'bbox' in feature['geometry']:
                     del feature['geometry']['bbox']
@@ -93,9 +94,9 @@ class Dataset(pyglottography.Dataset):
                                   args,
                                   pid: str,
                                   gc: typing.Optional[str],
-                                  f: Feature,
+                                  f: ReadonlyFeature,
                                   fmd: FeatureSpec,
                                   map_ids) -> dict:
         res = pyglottography.Dataset.make_contribution_feature(self, args, pid, gc, f, fmd, map_ids)
-        res['Source'] = res['Source'] + fmd.properties['sources'].split()
+        res['Source'] = res['Source'] + f['properties']['sources'].split()
         return res
