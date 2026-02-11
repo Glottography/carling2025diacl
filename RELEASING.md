@@ -28,6 +28,8 @@ Make sure the GeoJSON data contains only valid (Multi)Polygon shapes:
 
 ```shell
 cldfbench geojson.validate cldf
+1041    valid features
+925     valid speaker areas
 ```
 
 The agreement with the point locations for languages given in Glottolog can be checked as follows.
@@ -95,3 +97,14 @@ csvcut -c ID | cldfbench geojson.geojson cldf - > etc/outliers.geojson
 This inspection reveals that the majority of the outliers correspond to North American languages where
 Glottolog locations often reflect today's reservations or poorly attested South American languages
 where not much is known at all.
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_carling2025diacl.py vX.Y
+```
+and follow the instructions given in the output of the command.
